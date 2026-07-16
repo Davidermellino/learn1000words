@@ -1,0 +1,6009 @@
+{
+  "source": "hu",
+  "target": "ro",
+  "sourceName": "Magyar",
+  "targetName": "Română",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "van",
+      "target": "fi"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "egy",
+      "target": "unu"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "van",
+      "target": "pentru a avea"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "meleg",
+      "target": "fierbinte"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "szó",
+      "target": "cuvânt"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "italosdoboz",
+      "target": "doză"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "csinál",
+      "target": "a face"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "idő",
+      "target": "timp"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "akarat",
+      "target": "voință"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "mondás",
+      "target": "spus"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "mond",
+      "target": "spune"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "fix",
+      "target": "setare"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "három",
+      "target": "trei"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "kíván",
+      "target": "dorință"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "levegő",
+      "target": "aer"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "jól",
+      "target": "ei bine"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "játszik",
+      "target": "redare"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "kis",
+      "target": "mică"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "vég",
+      "target": "sfârșit"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "rak",
+      "target": "puneți"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "otthon",
+      "target": "casă"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "olvas",
+      "target": "citiți"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "kéz",
+      "target": "mână"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "visz",
+      "target": "transportați"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "nagy",
+      "target": "mare"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "szótagol",
+      "target": "ortografie"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "hozzáad",
+      "target": "adăuga"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "föld",
+      "target": "pământ"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "nagy",
+      "target": "mare"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "magas",
+      "target": "înalt"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "követ",
+      "target": "urmați"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "okmány",
+      "target": "act"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "kér",
+      "target": "întrebați"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "fiúk",
+      "target": "bărbați"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "változás",
+      "target": "o schimbare"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "fény",
+      "target": "lumină"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "típus",
+      "target": "bun"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "kikapcsolt",
+      "target": "oprit"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "szükség",
+      "target": "nevoie"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "lakás",
+      "target": "casă"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "kép",
+      "target": "imagine"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "próbál",
+      "target": "încercați"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "állat",
+      "target": "animal"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "pont",
+      "target": "punct"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "anya",
+      "target": "mamă"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "világ",
+      "target": "lume"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "közel",
+      "target": "aproape"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "épít",
+      "target": "construiți"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "föld",
+      "target": "împământare"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "apa",
+      "target": "tată"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "új",
+      "target": "nou"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "munka",
+      "target": "muncă"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "rész",
+      "target": "piesă"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "fog",
+      "target": "luați"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "megkap",
+      "target": "obține"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "hely",
+      "target": "locul"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "él",
+      "target": "trăi"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "turnus",
+      "target": "rotund"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "férfi",
+      "target": "bărbat"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "év",
+      "target": "anul"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "előadás",
+      "target": "afișare"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "finom",
+      "target": "bine"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "ad",
+      "target": "dăruiește"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "név",
+      "target": "nume"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "forma",
+      "target": "formă"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "mondat",
+      "target": "frază"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "nagy",
+      "target": "excelent"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "gondol",
+      "target": "gândiți-vă"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "mond",
+      "target": "spune"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "segít",
+      "target": "ajutor"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "alacsony",
+      "target": "scăzut"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "vonal",
+      "target": "linie"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "elüt",
+      "target": "diferă"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turnus",
+      "target": "rotiți"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "ok",
+      "target": "cauză"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mond",
+      "target": "medie"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "áthelyez",
+      "target": "mutare"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "egyenes",
+      "target": "dreapta"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "fiú",
+      "target": "băiete"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "öreg",
+      "target": "vechi"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "használat",
+      "target": "utilizare"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "mód",
+      "target": "calea"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "ír",
+      "target": "scriere"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "hosszú",
+      "target": "lung"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "jövedelmez",
+      "target": "marca"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "dolog",
+      "target": "lucru"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "lát",
+      "target": "consultați"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "kettő",
+      "target": "două"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "néz",
+      "target": "priviți"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "nap",
+      "target": "zi"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "megy",
+      "target": "merge"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "jön",
+      "target": "veni"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "szám",
+      "target": "număr"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "hang",
+      "target": "sunet"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "személyek",
+      "target": "oameni"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "tud",
+      "target": "știți"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "víz",
+      "target": "apă"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "hívás",
+      "target": "apelați"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "első",
+      "target": "mai întâi"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "oldal",
+      "target": "lateral"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "talál",
+      "target": "găsiți"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "fej",
+      "target": "cap"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "áll",
+      "target": "a sta în picioare"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "saját",
+      "target": "proprii"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "oldal",
+      "target": "pagina"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "ország",
+      "target": "țara"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "alapít",
+      "target": "găsit"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "válasz",
+      "target": "răspuns"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "iskola",
+      "target": "școală"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "nő",
+      "target": "creșteți"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "tanulás",
+      "target": "studiu"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "megtanul",
+      "target": "învățați"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "berendezés",
+      "target": "plantare"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "fedés",
+      "target": "capac"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "étel",
+      "target": "alimente"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "nap",
+      "target": "soare"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "négy",
+      "target": "patru"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "állapot",
+      "target": "statul"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "megtart",
+      "target": "păstrați"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "szem",
+      "target": "ochi"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "utolsó",
+      "target": "ultimul"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "elhagy",
+      "target": "se lasă"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "gondolat",
+      "target": "gândire"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "város",
+      "target": "oraș"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "fa",
+      "target": "copac"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "átmegy",
+      "target": "cruce"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "gazdaság",
+      "target": "fermă"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "nehéz",
+      "target": "tare"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "kezdet",
+      "target": "pornire"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "erő",
+      "target": "poate"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "történelem",
+      "target": "poveste"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "fűrész",
+      "target": "am văzut"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "messze",
+      "target": "departe"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "tenger",
+      "target": "sea"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "rajzol",
+      "target": "desenați"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "bal",
+      "target": "stânga"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "fut",
+      "target": "rulare"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "nyomtatás",
+      "target": "apăsați"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "közel",
+      "target": "închideți"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "éj",
+      "target": "noapte"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "reális",
+      "target": "reală"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "élet",
+      "target": "viața"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "észak",
+      "target": "nord"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "könyv",
+      "target": "carte"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "visz",
+      "target": "transportați"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "tudomány",
+      "target": "știință"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eszik",
+      "target": "mâncați"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "szoba",
+      "target": "cameră"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "barát",
+      "target": "prieten"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "kezdett",
+      "target": "început"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "ötlet",
+      "target": "idee"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "hal",
+      "target": "pește"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "hegy",
+      "target": "munte"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "leáll",
+      "target": "opriți"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "alap",
+      "target": "bază"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hall",
+      "target": "ascultați"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "ló",
+      "target": "cai"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "vágás",
+      "target": "tăiați"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "biztos",
+      "target": "sigur"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "óra",
+      "target": "atenție"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "szín",
+      "target": "culoare"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "arc",
+      "target": "față"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "fa",
+      "target": "lemn"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "fő",
+      "target": "principal"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "nyitva",
+      "target": "deschis"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "tűnik",
+      "target": "pare"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "következő",
+      "target": "următor"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "fehér",
+      "target": "alb"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "gyerekek",
+      "target": "copii"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "kezdet",
+      "target": "începe"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "gyalogol",
+      "target": "mers pe jos."
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "példa",
+      "target": "exemplu"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "mérsékel",
+      "target": "ușurință"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "papír",
+      "target": "hârtie"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "csoport",
+      "target": "grup"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "zene",
+      "target": "muzică"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "márka",
+      "target": "marcaj"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "betű",
+      "target": "scrisoare"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mérföld",
+      "target": "milă"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "folyó",
+      "target": "râu"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "autó",
+      "target": "mașină"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "lábak",
+      "target": "picioare"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "kúra",
+      "target": "grijă"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "második",
+      "target": "în al doilea rând"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "síkság",
+      "target": "simplu"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "lány",
+      "target": "fată"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "szokásos",
+      "target": "de obicei"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "fiatal",
+      "target": "tânăr"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "kész",
+      "target": "pregătit"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "piros",
+      "target": "roșu"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "lista",
+      "target": "listă"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "hall",
+      "target": "simțiți"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "beszél",
+      "target": "a vorbi"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "madár",
+      "target": "pasăre"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "test",
+      "target": "corp"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "kutya",
+      "target": "câine"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "család",
+      "target": "familie"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "közvetlen",
+      "target": "direct"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "elhelyezés",
+      "target": "poză"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "elhagy",
+      "target": "pleacă"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "ének",
+      "target": "cântec"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "mér",
+      "target": "măsură"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "ajtó",
+      "target": "ușă"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "termék",
+      "target": "produs"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "fekete",
+      "target": "negru"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "rövid",
+      "target": "scurt"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "szám-",
+      "target": "numeral"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "osztály",
+      "target": "clasa"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "szél",
+      "target": "vânt"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "kérdés",
+      "target": "întrebare"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "történik",
+      "target": "se întâmplă"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "ép",
+      "target": "finalizată"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "hajó",
+      "target": "expediați"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "terület",
+      "target": "zonă"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "fél",
+      "target": "jumătate"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "szikla",
+      "target": "stâncă"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "rend",
+      "target": "comandă"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "tűz",
+      "target": "foc"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "dél",
+      "target": "sud"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "probléma",
+      "target": "problemă"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "darab",
+      "target": "bucată"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "mond",
+      "target": "spune"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "átmegy",
+      "target": "trece"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "csúcs",
+      "target": "sus"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "minden",
+      "target": "întreg"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "király",
+      "target": "rege"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "utca",
+      "target": "stradă"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "hüvelyk",
+      "target": "țol"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "sokszorosít",
+      "target": "înmulțiți"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "tanfolyam",
+      "target": "curs"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "tartózkodik",
+      "target": "rămâneți"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "kerék",
+      "target": "roată"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "teljes",
+      "target": "plin"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "életerő",
+      "target": "forță"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "kék",
+      "target": "albastru"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "tárgy",
+      "target": "obiect"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "eldönt",
+      "target": "decide"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "felület",
+      "target": "suprafață"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "mélység",
+      "target": "adânc"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "hold",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "sziget",
+      "target": "insulă"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "lábfej",
+      "target": "picior"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "rendszer",
+      "target": "sistem"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "foglalt",
+      "target": "ocupat"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "teszt",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "rekord",
+      "target": "înregistrare"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "csónak",
+      "target": "barcă"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "község",
+      "target": "comun"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "arany",
+      "target": "aur"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "lehetséges",
+      "target": "posibil"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "sík",
+      "target": "avion"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "szerep",
+      "target": "loc"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "száraz",
+      "target": "uscat"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "csoda",
+      "target": "minune"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "nevet",
+      "target": "râzi"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "ezernyi",
+      "target": "mii"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "csinál",
+      "target": "acum"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "futamok",
+      "target": "alerga"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "ellenőriz",
+      "target": "verificați"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "játék",
+      "target": "joc"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "forma",
+      "target": "formă"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "kiegyenlít",
+      "target": "egalează"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "meleg",
+      "target": "fierbinte"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "elveszít",
+      "target": "domnișoară"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "tehetséges",
+      "target": "adus"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "hő",
+      "target": "se încălzește"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "hó",
+      "target": "zăpadă"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "gumiabroncs",
+      "target": "anvelopă"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "visz",
+      "target": "aduceți"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "messze",
+      "target": "distantă"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "megtölt",
+      "target": "umpleți"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "kelet",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "fest",
+      "target": "vopsea"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "nyelv",
+      "target": "limbă"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "egység",
+      "target": "unitate"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "erő",
+      "target": "alimentare"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "város",
+      "target": "oraș"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "vég",
+      "target": "bine"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "biztos",
+      "target": "sigur"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "repül",
+      "target": "zboară"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "esik",
+      "target": "cădea"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "vezet",
+      "target": "a conduce"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "kiáltás",
+      "target": "plângi"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "sötét",
+      "target": "întuneric"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "kocsi",
+      "target": "utilaj"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "hang",
+      "target": "notă"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "vár",
+      "target": "așteptați"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "sík",
+      "target": "planificați"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figura",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "csillag",
+      "target": "stea"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "doboz",
+      "target": "cutie"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "főnév",
+      "target": "substantiv"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "mező",
+      "target": "câmp"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "visszajáró",
+      "target": "odihnă"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "helyes",
+      "target": "corect"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "képes",
+      "target": "capabil"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "font",
+      "target": "lira sterlină"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "kész",
+      "target": "gata"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "szépség",
+      "target": "frumusețe"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "vezet",
+      "target": "conduceți"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "feláll",
+      "target": "a se ridica"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "tartalmaz",
+      "target": "conține"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "elülső",
+      "target": "față"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "tanít",
+      "target": "învățați"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "hét",
+      "target": "săptămână"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "végső",
+      "target": "finală"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "ad",
+      "target": "dăruiește"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "zöld",
+      "target": "verde"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "gyors",
+      "target": "rapid"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "fejleszt",
+      "target": "dezvoltați"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "óceán",
+      "target": "ocean"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "meleg",
+      "target": "cald"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "ingyenes",
+      "target": "liber"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "perc",
+      "target": "minut"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "erős",
+      "target": "puternică"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "speciális",
+      "target": "special"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "ész",
+      "target": "atenție"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "világos",
+      "target": "clar"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "farok",
+      "target": "coadă"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "termel",
+      "target": "produce"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "tény",
+      "target": "fapt"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "űr",
+      "target": "spațiu"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "hallott",
+      "target": "auzit"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "legjobb",
+      "target": "cel mai bun"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "óra",
+      "target": "oră"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "jobb",
+      "target": "mai bine"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "igaz",
+      "target": "adevărat"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "száz",
+      "target": "sută"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "öt",
+      "target": "cinci"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "emlékszik",
+      "target": "rețineți"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "lépés",
+      "target": "pas"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "fog",
+      "target": "țineți apăsat"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "nyugat",
+      "target": "vest"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "föld",
+      "target": "împământare"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "érdek",
+      "target": "interes"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "elér",
+      "target": "ajunge"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "gyors",
+      "target": "rapid"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "ige",
+      "target": "verb"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "énekel",
+      "target": "cântați"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "hallgat",
+      "target": "ascultați"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "hat",
+      "target": "șase"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "asztal",
+      "target": "tabelul"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "utazik",
+      "target": "a călători"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "reggel",
+      "target": "dimineața"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "tíz",
+      "target": "zece"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "egyszerű",
+      "target": "simplu"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "magánhangzó",
+      "target": "vocală"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "háború",
+      "target": "război"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "feltesz",
+      "target": "așezare"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "modell",
+      "target": "model"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "lassú",
+      "target": "lent"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "központ",
+      "target": "centru"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "szerelem",
+      "target": "iubire"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "személy",
+      "target": "persoană"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "pénz",
+      "target": "bani"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "felszolgál",
+      "target": "servi"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "megjelenik",
+      "target": "apare"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "térkép",
+      "target": "hartă"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "eső",
+      "target": "ploaie"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "szabály",
+      "target": "regulă"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "kormányoz",
+      "target": "guverna"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "húz",
+      "target": "trageți"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "hideg",
+      "target": "rece"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "értesítés",
+      "target": "notă"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "hang",
+      "target": "voce"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energia",
+      "target": "energie"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "vadászat",
+      "target": "vânătoare"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "lehetséges",
+      "target": "probabil"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "ágy",
+      "target": "pat"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "fiú testvér",
+      "target": "frate"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "tojás",
+      "target": "ouă"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "kör",
+      "target": "plimbare"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cella",
+      "target": "celulă"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "hisz",
+      "target": "credeți"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "kiválaszt",
+      "target": "alegeți"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "hirtelen",
+      "target": "brusc"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "számol",
+      "target": "contorizare"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "tér",
+      "target": "pătrat"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "ok",
+      "target": "expunere de motive"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "hossz",
+      "target": "lungime"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "képvisel",
+      "target": "reprezentați"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "művészet",
+      "target": "artă"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "alany",
+      "target": "subiect"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "régió",
+      "target": "regiune"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "méret",
+      "target": "mărime"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "változtat",
+      "target": "variază"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "megold",
+      "target": "stabiliți"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "beszél",
+      "target": "vorbește"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "súly",
+      "target": "greutate"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "általános",
+      "target": "generalități"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "jég",
+      "target": "gheață"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "tantárgy",
+      "target": "caz"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "kör",
+      "target": "cerc"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pár",
+      "target": "asociere"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "bevon",
+      "target": "includere"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "eloszt",
+      "target": "împărțiți"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "szótag",
+      "target": "silabă"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "filc",
+      "target": "simțită"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "nagy",
+      "target": "mare"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "labda",
+      "target": "minge"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "hullám",
+      "target": "undă"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "esik",
+      "target": "picătură"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "szív",
+      "target": "inimă"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "jelen",
+      "target": "prezent"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "nehéz",
+      "target": "grea"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "tánc",
+      "target": "dansează"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "motor",
+      "target": "motor"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "pozíció",
+      "target": "poziție"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "kar",
+      "target": "braț"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "tágas",
+      "target": "largă"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "vitorla",
+      "target": "navighează"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "anyag",
+      "target": "material"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "rész",
+      "target": "fracție"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "erdő",
+      "target": "pădure"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "ül",
+      "target": "ia loc"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "verseny",
+      "target": "cursă"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "ablak",
+      "target": "fereastră"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "üzlet",
+      "target": "depozitați"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "nyár",
+      "target": "vară"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "vonat",
+      "target": "tren"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "alvás",
+      "target": "somn"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "bizonyít",
+      "target": "dovedi"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "magányos",
+      "target": "singur"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "láb",
+      "target": "picior"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "feladat",
+      "target": "exercițiu"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "fal",
+      "target": "perete"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "fog",
+      "target": "captură"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "hegy",
+      "target": "montare"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "kívánság",
+      "target": "doresc"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "ég",
+      "target": "cer"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "nyugdíj",
+      "target": "bord"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "öröm",
+      "target": "bucurie"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "tél",
+      "target": "iarnă"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "írott",
+      "target": "scris"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "vad",
+      "target": "sălbatică"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "eszköz",
+      "target": "instrument"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "fog",
+      "target": "păstrat"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "üveg",
+      "target": "sticlă"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "fű",
+      "target": "iarbă"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "tehén",
+      "target": "vacă"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "munka",
+      "target": "operație"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "szél",
+      "target": "margine"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "jel",
+      "target": "semnați"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "vizsgálat",
+      "target": "vizitați"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "múlt",
+      "target": "trecut"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "puha",
+      "target": "moale"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "szórakozás",
+      "target": "distractiv"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "fényes",
+      "target": "luminos"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gáz",
+      "target": "gaz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "idő",
+      "target": "vreme"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "hónap",
+      "target": "lună"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "millió",
+      "target": "milioane"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "tűr",
+      "target": "urs"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "eldolgozás",
+      "target": "finalizați"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "boldog",
+      "target": "fericit"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "remény",
+      "target": "speranță"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "virág",
+      "target": "floare"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "öltözik",
+      "target": "îmbrăcați"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "furcsa",
+      "target": "ciudat"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "megy",
+      "target": "merge"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "kereskedelem",
+      "target": "comerț"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melódia",
+      "target": "melodie"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "utazás",
+      "target": "călătorie"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "iroda",
+      "target": "birou"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "kap",
+      "target": "primire"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "sor",
+      "target": "rând"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "száj",
+      "target": "gură"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "pontos",
+      "target": "exact"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "szimbólum",
+      "target": "simbol"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "meghal",
+      "target": "muri"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "nehézség",
+      "target": "probleme"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "üvölt",
+      "target": "strigați"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "mag",
+      "target": "semințe"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tónus",
+      "target": "ton"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "tapad",
+      "target": "alăturați-vă"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "súg",
+      "target": "sugerați"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "tiszta",
+      "target": "curățați"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "szünet",
+      "target": "pauză"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "hölgy",
+      "target": "doamnă"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "telephely",
+      "target": "curte"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "felmegy",
+      "target": "creștere"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "rossz",
+      "target": "rău"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "ütés",
+      "target": "suflați"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "olaj",
+      "target": "ulei"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "vér",
+      "target": "sânge"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "érint",
+      "target": "atingeți"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "megnőtt",
+      "target": "creștea"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "század",
+      "target": "cent"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "kever",
+      "target": "se amestecă"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "csapat",
+      "target": "echipă"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "fonal",
+      "target": "sârmă"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "költség",
+      "target": "cost"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "elvesztett",
+      "target": "pierdut"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "barna",
+      "target": "maro"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "visel",
+      "target": "uzură"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "kert",
+      "target": "grădină"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "páros",
+      "target": "egal"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "küldött",
+      "target": "trimis"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "kiválaszt",
+      "target": "alegeți"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "esett",
+      "target": "căzut"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "alkalmazkodik",
+      "target": "potrivire"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "folyás",
+      "target": "debit"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "vásár",
+      "target": "corect"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "bancă"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "összegyűjt",
+      "target": "colectați"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "megment",
+      "target": "salvare"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "ellenőrzés",
+      "target": "control"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "tizedes",
+      "target": "zecimală"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "fül",
+      "target": "ureche"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "törött",
+      "target": "rupt"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "eset",
+      "target": "caz"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "fél",
+      "target": "mijloc"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "öl",
+      "target": "ucideți"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "gyereke",
+      "target": "fiu"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "tó",
+      "target": "lacul"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "pillanat",
+      "target": "moment"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "létra",
+      "target": "scală"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "erős",
+      "target": "tare"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "tavasz",
+      "target": "primăvară"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "megfigyel",
+      "target": "observați"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "kisgyerek",
+      "target": "copil"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "egyenes",
+      "target": "drept"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "mássalhangzó",
+      "target": "consoană"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "ország",
+      "target": "națiune"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "szótár",
+      "target": "dicționar"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "tej",
+      "target": "lapte"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "sebesség",
+      "target": "viteză"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "módszer",
+      "target": "metodă"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "szerv",
+      "target": "organ"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "fizet",
+      "target": "plătiți"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "kor",
+      "target": "vârsta"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "szakasz",
+      "target": "secțiunea"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "ruha",
+      "target": "rochie"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "felhő",
+      "target": "nor"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "meglepetés",
+      "target": "surpriză"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "nyugodt",
+      "target": "liniște"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "kő",
+      "target": "piatră"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "kis",
+      "target": "mică"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "mászik",
+      "target": "a urca"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "friss",
+      "target": "se răcește"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "dizájn",
+      "target": "design"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "szegény",
+      "target": "săracă"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "tétel",
+      "target": "lot"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "kísérlet",
+      "target": "experiment"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "alap",
+      "target": "partea inferioară"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "kulcs",
+      "target": "apăsați tasta"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "vas",
+      "target": "fier de călcat"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "egyedi",
+      "target": "unică"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "bot",
+      "target": "băț"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "lakás",
+      "target": "plat"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "húsz",
+      "target": "douăzeci"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "bőr",
+      "target": "piele"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "mosoly",
+      "target": "zâmbește"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "ránc",
+      "target": "cută"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "furat",
+      "target": "orificiu"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "ugrás",
+      "target": "salt"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "kisgyerek",
+      "target": "bebeluș"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "nyolc",
+      "target": "opt"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "falu",
+      "target": "sat"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "találkoznak",
+      "target": "faceți cunoștință"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "gyökér",
+      "target": "rădăcină"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "vásárol",
+      "target": "cumpărați"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "nő",
+      "target": "ridicare"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "megold",
+      "target": "rezolvați"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "fém",
+      "target": "metal"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "tol",
+      "target": "apăsați"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "hét",
+      "target": "șapte"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "bekezdés",
+      "target": "paragraf"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "harmadik",
+      "target": "în al treilea rând"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "tartott",
+      "target": "reținut"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "haj",
+      "target": "păr"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "leír",
+      "target": "descrieți"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "szakács",
+      "target": "gătiți"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "sík",
+      "target": "etaj"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "eredmény",
+      "target": "rezultat"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "ég",
+      "target": "ardeți"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "domb",
+      "target": "deal"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "biztos",
+      "target": "sigur"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cica",
+      "target": "pisică"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "évszázad",
+      "target": "secolul"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "fontol",
+      "target": "luați în considerare"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "típus",
+      "target": "tip"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "törvény",
+      "target": "legea"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "part",
+      "target": "coastă"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "másolat",
+      "target": "copiere"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "mondat",
+      "target": "frază"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "halk",
+      "target": "silențios"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "magas",
+      "target": "înalt"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "homok",
+      "target": "nisip"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "talaj",
+      "target": "sol"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "tekercs",
+      "target": "rulou"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "hőmérséklet",
+      "target": "temperatură"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "ujj",
+      "target": "deget"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "ipar",
+      "target": "industrie"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "érték",
+      "target": "valoare"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "harc",
+      "target": "luptă"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "hazugság",
+      "target": "minciună"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "üt",
+      "target": "bateți"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "gerjeszt",
+      "target": "excita"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "természetes",
+      "target": "natural"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "látás",
+      "target": "vizualizare"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "értelem",
+      "target": "sens"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "tőke",
+      "target": "capital"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "szék",
+      "target": "scaun"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "veszély",
+      "target": "pericol"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "gyümölcs",
+      "target": "fructe"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "gazdag",
+      "target": "bogat"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "gyakran",
+      "target": "gros"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "katona",
+      "target": "soldat"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "folyamat",
+      "target": "proces"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "műt",
+      "target": "operați"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "gyakorlat",
+      "target": "practică"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "elvált",
+      "target": "separat"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "nehéz",
+      "target": "dificil"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "orvos",
+      "target": "doctor"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "légyszíves",
+      "target": "vă rog"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "megvéd",
+      "target": "protejați"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "dél",
+      "target": "amiază"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "összegyűjtött",
+      "target": "recoltă"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "modern"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "elem",
+      "target": "element"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "üt",
+      "target": "lovi"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "tanuló",
+      "target": "student"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "szög",
+      "target": "colț"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "párt",
+      "target": "petrecere"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "szállítmány",
+      "target": "alimentare"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "azonosít",
+      "target": "localizați"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "gyűrű",
+      "target": "inel"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "karakter",
+      "target": "caracter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "rovar",
+      "target": "insectă"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "elfogott",
+      "target": "prins"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "időszak",
+      "target": "perioadă"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "jelöl",
+      "target": "se indica"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "rádió",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "sugár",
+      "target": "vorbit"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atom"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "emberi",
+      "target": "umană"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "történelem",
+      "target": "istoric"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "hatás",
+      "target": "efect"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "elektromos",
+      "target": "electric"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "vár",
+      "target": "așteptați"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "csont",
+      "target": "os"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "vasút",
+      "target": "cale ferată"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "elképzel",
+      "target": "imaginați-vă"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "szolgáltat",
+      "target": "furnizați"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "megegyezik",
+      "target": "de acord."
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "édes",
+      "target": "delicată"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "nő",
+      "target": "femeie"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "kapitány",
+      "target": "căpitan"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "kitalál",
+      "target": "ghiciți"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "szükséges",
+      "target": "necesară"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "vágó",
+      "target": "ascuțită"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "szárny",
+      "target": "aripă"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "létrehoz",
+      "target": "creați"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "következő",
+      "target": "vecinului"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "mosás",
+      "target": "spălați"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "denevér",
+      "target": "liliac"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "tömeg",
+      "target": "mulțime"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "kukorica",
+      "target": "porumb"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "hasonlít",
+      "target": "comparare"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "vers",
+      "target": "poem"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "karakterlánc",
+      "target": "șir de caractere"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "harang",
+      "target": "clopot"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "függ",
+      "target": "depinde"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "hús",
+      "target": "carne"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "dörzsöl",
+      "target": "frecați"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "cső",
+      "target": "tub"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "híres",
+      "target": "celebru"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollár",
+      "target": "dolar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "patak",
+      "target": "flux"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "félelem",
+      "target": "frică"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "látás",
+      "target": "vedere"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "vékony",
+      "target": "subțire"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "háromszög",
+      "target": "triunghi"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "bolygó",
+      "target": "planetă"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "sietség",
+      "target": "grăbiți-vă"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "főnök",
+      "target": "șef"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "kolónia",
+      "target": "colonie"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "óra",
+      "target": "ceas"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "bánya",
+      "target": "mină"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "nyakkendő",
+      "target": "cravată"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "behelyez",
+      "target": "introduceți"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "nagyobb",
+      "target": "majoră"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "friss",
+      "target": "proaspăt"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "keresés",
+      "target": "căutare"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "küld",
+      "target": "trimitere"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "sárga",
+      "target": "galben"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "pisztoly",
+      "target": "pistol"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "megenged",
+      "target": "se permite"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "nyomtatás",
+      "target": "imprimare"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "halott",
+      "target": "mort"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "reklám",
+      "target": "pată"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "sivatag",
+      "target": "deșert"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "melegítő",
+      "target": "costum"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "aktuális",
+      "target": "curentă"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "ridicare"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rózsaszín",
+      "target": "trandafir"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "érkezik",
+      "target": "sosi"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "mester",
+      "target": "maestru"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "pálya",
+      "target": "urmărire"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "szülő",
+      "target": "părinte"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "part",
+      "target": "țărm"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "osztás",
+      "target": "diviziune"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "lap",
+      "target": "foaie"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "anyag",
+      "target": "substanță"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "kivételez",
+      "target": "favoriza"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "csatlakoztat",
+      "target": "conectați"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "üzenet",
+      "target": "mesaj"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "költ",
+      "target": "cheltuiți"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "egyezmény",
+      "target": "acord"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "zsír",
+      "target": "grăsime"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "boldog",
+      "target": "bucuros"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "eredeti",
+      "target": "original"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "szint",
+      "target": "partajați"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "állomás",
+      "target": "stație"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "apuka",
+      "target": "tată"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "kenyér",
+      "target": "pâine"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "töltés",
+      "target": "încărcați"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "helyes",
+      "target": "corect"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bár",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "adomány",
+      "target": "ofertă"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "szegmens",
+      "target": "segment"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "rab",
+      "target": "sclav"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "kacsa",
+      "target": "rață"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "azonnali",
+      "target": "instant"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "piac",
+      "target": "piață"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "szint",
+      "target": "grad"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "népszerű",
+      "target": "popula"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "csibe",
+      "target": "pui"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "szeretett",
+      "target": "stimate"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "ellenség",
+      "target": "inamic"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "válaszol",
+      "target": "răspuns"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "ital",
+      "target": "beți"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "létrejön",
+      "target": "se produce"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "támogatás",
+      "target": "asistență"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "beszéd",
+      "target": "vorbire"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "természet",
+      "target": "natură"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "választék",
+      "target": "interval"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "gőz",
+      "target": "abur"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "mozgás",
+      "target": "mișcare"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "ösvény",
+      "target": "cale"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "folyadék",
+      "target": "lichid"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "törzs",
+      "target": "jurnal"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "jelent",
+      "target": "medie"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "hányados",
+      "target": "coeficient"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "fogak",
+      "target": "dinți"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "héj",
+      "target": "coajă"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "nyak",
+      "target": "gât"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxigén",
+      "target": "oxigen"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "cukor",
+      "target": "zahăr"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "halál",
+      "target": "moarte"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "készség",
+      "target": "abilitate"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "nők",
+      "target": "femei"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "évszak",
+      "target": "sezon"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "megoldás",
+      "target": "soluție"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "mágnes",
+      "target": "magnet"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "ezüst",
+      "target": "argintiu"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "köszönet",
+      "target": "mulțumesc"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "ág",
+      "target": "sucursală"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "meccs",
+      "target": "potrivire"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "utótag",
+      "target": "sufix"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "különösen",
+      "target": "mai ales"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "füge",
+      "target": "smochină"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "megfélemlített",
+      "target": "frică"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "hatalmas",
+      "target": "uriașă"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "lány testvér",
+      "target": "soră"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "acél",
+      "target": "oțel"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "vitázik",
+      "target": "discutați"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "hasonló",
+      "target": "similar"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "vezet",
+      "target": "ghid"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "tapasztalat",
+      "target": "experiență"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "pont",
+      "target": "scor"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "alma",
+      "target": "măr"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "vásárolt",
+      "target": "cumpărată"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "tehetséges",
+      "target": "condus"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "szurok",
+      "target": "înclinare"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "kabát",
+      "target": "haină"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "tömeg",
+      "target": "masă"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "karton",
+      "target": "cartelă"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "zenekar",
+      "target": "bandă"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "kötél",
+      "target": "frânghie"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "elcsúszás",
+      "target": "alunecare"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "győzelem",
+      "target": "câștigați"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "álmodik",
+      "target": "visează"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "este",
+      "target": "seara"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "feltétel",
+      "target": "condiție"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "táplálkozás",
+      "target": "alimentare"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "eszköz",
+      "target": "instrument"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "összeg",
+      "target": "total"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "alap",
+      "target": "de bază"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "szag",
+      "target": "miroase"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "völgy",
+      "target": "valea"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "dupla",
+      "target": "dublă"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "ülés",
+      "target": "scaun"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "folytat",
+      "target": "continuați"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "blokk",
+      "target": "un bloc"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "grafikus",
+      "target": "diagramă"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "kalap",
+      "target": "pălărie"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "elad",
+      "target": "vindeți"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "siker",
+      "target": "succes"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "cég",
+      "target": "o companie"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "kivon",
+      "target": "scădeți"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "esemény",
+      "target": "eveniment"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "különleges",
+      "target": "special"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "üzlet",
+      "target": "ofertă"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "úszás",
+      "target": "înot"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "vég",
+      "target": "termen"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "ellentét",
+      "target": "opus"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "feleség",
+      "target": "soție"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "cipő",
+      "target": "pantof"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "váll",
+      "target": "umăr"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "elszór",
+      "target": "răspândiți"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "rendez",
+      "target": "aranjați"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "mező",
+      "target": "o tabără"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "kitalál",
+      "target": "inventează"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "pamut",
+      "target": "bumbac"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "születés",
+      "target": "naștere"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "meghatároz",
+      "target": "determinați"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "kvart",
+      "target": "sfert de galon"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "kilenc",
+      "target": "nouă"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "kamion",
+      "target": "camion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "zaj",
+      "target": "zgomot"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "szint",
+      "target": "nivel"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "lehetőség",
+      "target": "șansă"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "összegyűjt",
+      "target": "adunați"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "üzlet",
+      "target": "cumpărați"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "szakasz",
+      "target": "întindere"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "eldob",
+      "target": "aruncați"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "csillog",
+      "target": "strălucire"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "sajátosság",
+      "target": "proprietate"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "oszlop",
+      "target": "coloană"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molekula",
+      "target": "moleculă"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "kiválaszt",
+      "target": "selectați"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "hibás",
+      "target": "greșit"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "szürke",
+      "target": "gri"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "ismétlés",
+      "target": "repetați"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "kér",
+      "target": "necesită"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "tágas",
+      "target": "largă"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "elkészít",
+      "target": "pregătiți"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "só",
+      "target": "sare"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "orr",
+      "target": "nas"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "többesszám",
+      "target": "plural"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "harag",
+      "target": "furie"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "kérés",
+      "target": "revendicare"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "kontinens",
+      "target": "continent"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "képernyő",
+      "target": "ecran"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "üveg",
+      "target": "flacon"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lámpa",
+      "target": "lampă"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telefon",
+      "target": "telefon"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "nadrág",
+      "target": "pantaloni"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "arc",
+      "target": "obraz"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "ceruza",
+      "target": "creion"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "toll",
+      "target": "stilou"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "épület",
+      "target": "palatul"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "repülőgép",
+      "target": "avion"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bicikli",
+      "target": "bicicletă"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "számítógép",
+      "target": "calculator"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "étterem",
+      "target": "restaurant"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "váza",
+      "target": "vază"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rakéta",
+      "target": "rachetă"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "imádkozik",
+      "target": "pradă"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "egyetem",
+      "target": "universitatea"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "lépcső",
+      "target": "scări"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motocbicikli",
+      "target": "motocicletă"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "dzseki",
+      "target": "jachetă"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "üvölt",
+      "target": "țipă"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "vidámság",
+      "target": "bucurie"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "lánya",
+      "target": "fiică"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "férj",
+      "target": "soț"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "nagymama",
+      "target": "bunică"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "nagypapa",
+      "target": "bunic"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "nagybácsi",
+      "target": "unchi"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "nagynéni",
+      "target": "mătușă"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "unokatestvér",
+      "target": "văr"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "ősz",
+      "target": "toamnă"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "ma",
+      "target": "azi"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "holnap",
+      "target": "mâine"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "tegnap",
+      "target": "ieri"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "sajt",
+      "target": "brânză"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "vaj",
+      "target": "unt"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "kávé",
+      "target": "cafea"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "ceai"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "bor",
+      "target": "vin"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "sör",
+      "target": "bere"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rizs",
+      "target": "orez"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "burgonya",
+      "target": "cartof"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "paradicsom",
+      "target": "roșie"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "hagyma",
+      "target": "ceapă"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "citrom",
+      "target": "lămâie"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "narancs",
+      "target": "portocală"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banán",
+      "target": "banană"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "szőlő",
+      "target": "strugure"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "répa",
+      "target": "morcov"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bab",
+      "target": "fasole"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "liszt",
+      "target": "făină"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "torta",
+      "target": "tort"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "keksz",
+      "target": "biscuit"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "csokoládé",
+      "target": "ciocolată"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "fagylalt",
+      "target": "înghețată"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "méz",
+      "target": "miere"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "leves",
+      "target": "supă"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "saláta",
+      "target": "salată"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "ecet",
+      "target": "oțet"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "bors",
+      "target": "piper"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "lé",
+      "target": "suc"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "csirke",
+      "target": "pui"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "disznó",
+      "target": "porc"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "birka",
+      "target": "oaie"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "kecske",
+      "target": "capră"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "nyúl",
+      "target": "iepure"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "egér",
+      "target": "șoarece"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "medve",
+      "target": "urs"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "oroszlán",
+      "target": "leu"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "farkas",
+      "target": "lup"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "róka",
+      "target": "vulpe"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "majom",
+      "target": "maimuță"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elefánt",
+      "target": "elefant"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tigris",
+      "target": "tigru"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "zsiráf",
+      "target": "girafă"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "méh",
+      "target": "albină"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "pillangó",
+      "target": "fluture"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "pók",
+      "target": "păianjen"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "kígyó",
+      "target": "șarpe"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "hangya",
+      "target": "furnică"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "légy",
+      "target": "muscă"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "szúnyog",
+      "target": "țânțar"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "béka",
+      "target": "broască"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "cápa",
+      "target": "rechin"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "bálna",
+      "target": "balenă"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "teknős",
+      "target": "broască țestoasă"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "liba",
+      "target": "gâscă"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "tyúk",
+      "target": "găină"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "pulyka",
+      "target": "curcan"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "térd",
+      "target": "genunchi"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "könyök",
+      "target": "cot"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "ajkak",
+      "target": "buze"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "hát",
+      "target": "spate"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "mellkas",
+      "target": "piept"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "gyomor",
+      "target": "stomac"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "agy",
+      "target": "creier"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "köröm",
+      "target": "unghie"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "szakáll",
+      "target": "barbă"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "könny",
+      "target": "lacrimă"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "konyha",
+      "target": "bucătărie"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "fürdőszoba",
+      "target": "baie"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "tükör",
+      "target": "oglindă"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "kés",
+      "target": "cuțit"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "villa",
+      "target": "furculiță"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "kanál",
+      "target": "lingură"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "tányér",
+      "target": "farfurie"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "csésze",
+      "target": "ceașcă"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "tető",
+      "target": "acoperiș"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "szappan",
+      "target": "săpun"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "törölköző",
+      "target": "prosop"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "kefe",
+      "target": "perie"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "esernyő",
+      "target": "umbrelă"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "bőrönd",
+      "target": "valiză"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "táska",
+      "target": "geantă"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "pénztárca",
+      "target": "portofel"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "érme",
+      "target": "monedă"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "ajándék",
+      "target": "cadou"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "játék",
+      "target": "jucărie"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "baba",
+      "target": "păpușă"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "újság",
+      "target": "ziar"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "folyóirat",
+      "target": "revistă"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "film",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "kórház",
+      "target": "spital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "templom",
+      "target": "biserică"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "szálloda",
+      "target": "hotel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "repülőtér",
+      "target": "aeroport"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "könyvtár",
+      "target": "bibliotecă"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "múzeum",
+      "target": "muzeu"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "parc"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "színház",
+      "target": "teatru"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "gyógyszertár",
+      "target": "farmacie"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "busz",
+      "target": "autobuz"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "híd",
+      "target": "pod"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "kastély",
+      "target": "castel"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "torony",
+      "target": "turn"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "gyár",
+      "target": "fabrică"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "strand",
+      "target": "plajă"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "dzsungel",
+      "target": "junglă"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "szivárvány",
+      "target": "curcubeu"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "mennydörgés",
+      "target": "tunet"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "füst",
+      "target": "fum"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "hamu",
+      "target": "cenușă"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "ápoló",
+      "target": "asistent"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "ügyvéd",
+      "target": "avocat"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "mérnök",
+      "target": "inginer"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "író",
+      "target": "scriitor"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "énekes",
+      "target": "cântăreț"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "festő",
+      "target": "pictor"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "pincér",
+      "target": "chelner"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "gazda",
+      "target": "fermier"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "rendőr",
+      "target": "polițist"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "ing",
+      "target": "cămașă"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "szoknya",
+      "target": "fustă"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "zokni",
+      "target": "șosete"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "kesztyű",
+      "target": "mănuși"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "öv",
+      "target": "curea"
+    }
+  ]
+}

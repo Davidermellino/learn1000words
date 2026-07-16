@@ -1,0 +1,6009 @@
+{
+  "source": "en",
+  "target": "es",
+  "sourceName": "English",
+  "targetName": "Español",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "to be",
+      "target": "ser"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "one",
+      "target": "uno"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "to have",
+      "target": "tener"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "hot",
+      "target": "calor"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "word",
+      "target": "palabra"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "can",
+      "target": "poder"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "to do",
+      "target": "hacer"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "time",
+      "target": "tiempo"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "will",
+      "target": "voluntad"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "said",
+      "target": "dicho"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "tell",
+      "target": "decir"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "set",
+      "target": "fijo"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "three",
+      "target": "tres"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "desire",
+      "target": "desear"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "aire"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "well",
+      "target": "bien"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "play",
+      "target": "jugar"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "small",
+      "target": "pequeño"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "end",
+      "target": "fin"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "put",
+      "target": "poner"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "home",
+      "target": "hogar"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "read",
+      "target": "leer"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hand",
+      "target": "mano"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "carry",
+      "target": "llevar"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "large",
+      "target": "grande"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "spell",
+      "target": "deletrear"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "add",
+      "target": "añadir"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "tierra"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "big",
+      "target": "grande"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "high",
+      "target": "alto"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "follow",
+      "target": "seguir"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "act",
+      "target": "acto"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "ask",
+      "target": "preguntar"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "men",
+      "target": "hombres"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "change",
+      "target": "cambio"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "light",
+      "target": "luz"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "kind",
+      "target": "tipo"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "turned off",
+      "target": "apagado"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "need",
+      "target": "necesidad"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "house",
+      "target": "casa"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "imagen"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "try",
+      "target": "probar"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "animal"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "punto"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mother",
+      "target": "madre"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "world",
+      "target": "mundo"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "near",
+      "target": "cerca"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "build",
+      "target": "construir"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "earth",
+      "target": "tierra"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "father",
+      "target": "padre"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "new",
+      "target": "nuevo"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "work",
+      "target": "trabajo"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "part",
+      "target": "parte"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "take",
+      "target": "tomar"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "get",
+      "target": "obtener"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "lugar"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "live",
+      "target": "vivir"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "round",
+      "target": "giro"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "man",
+      "target": "hombre"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "year",
+      "target": "año"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "show",
+      "target": "espectáculo"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "good",
+      "target": "bueno"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "give",
+      "target": "dar"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "name",
+      "target": "nombre"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sentence",
+      "target": "frase"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "great",
+      "target": "grande"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "think",
+      "target": "pensar"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "say",
+      "target": "decir"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "help",
+      "target": "ayudar"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "low",
+      "target": "bajo"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "line",
+      "target": "línea"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "differ",
+      "target": "diferir"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turn",
+      "target": "giro"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "causa"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mean",
+      "target": "decir"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "move",
+      "target": "mover"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "right",
+      "target": "derecho"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "boy",
+      "target": "chico"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "old",
+      "target": "viejo"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "use",
+      "target": "usar"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "way",
+      "target": "camino"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "write",
+      "target": "escribir"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "largo"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "make",
+      "target": "hacer"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "thing",
+      "target": "cosa"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "see",
+      "target": "ver"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "two",
+      "target": "dos"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "look",
+      "target": "mirar"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "day",
+      "target": "día"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "go",
+      "target": "ir"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "come",
+      "target": "venir"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "number",
+      "target": "número"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "sound",
+      "target": "sonido"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "people",
+      "target": "personas"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "know",
+      "target": "saber"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "water",
+      "target": "agua"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "call",
+      "target": "llamada"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "first",
+      "target": "primero"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "lado"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "find",
+      "target": "encontrar"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "head",
+      "target": "cabeza"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stand",
+      "target": "estar de pie"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "own",
+      "target": "propio"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "página"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "country",
+      "target": "país"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "found",
+      "target": "fundar"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "answer",
+      "target": "respuesta"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "school",
+      "target": "escuela"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grow",
+      "target": "crecer"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "study",
+      "target": "estudio"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "learn",
+      "target": "aprender"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "plant",
+      "target": "planta"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "cover",
+      "target": "cubrir"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "food",
+      "target": "comida"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sun",
+      "target": "sol"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "four",
+      "target": "cuatro"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "state",
+      "target": "estado"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "keep",
+      "target": "mantener"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "eye",
+      "target": "ojo"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "last",
+      "target": "último"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "let",
+      "target": "dejar"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "thought",
+      "target": "pensamiento"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "city",
+      "target": "ciudad"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "tree",
+      "target": "árbol"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "cross",
+      "target": "cruzar"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "farm",
+      "target": "granja"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hard",
+      "target": "difícil"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "comienzo"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "might",
+      "target": "fuerza"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "story",
+      "target": "historia"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "saw",
+      "target": "vio"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "far",
+      "target": "lejos"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "sea",
+      "target": "mar"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "draw",
+      "target": "dibujar"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "left",
+      "target": "izquierda"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "run",
+      "target": "correr"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "press",
+      "target": "imprimir"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "close",
+      "target": "cerca"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "night",
+      "target": "noche"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "real"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "life",
+      "target": "vida"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "north",
+      "target": "norte"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "book",
+      "target": "libro"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "carry",
+      "target": "llevar"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "ciencia"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eat",
+      "target": "comer"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "room",
+      "target": "habitación"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "friend",
+      "target": "amigo"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "began",
+      "target": "empezó"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idea",
+      "target": "idea"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fish",
+      "target": "pez"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "mountain",
+      "target": "montaña"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stop",
+      "target": "detener"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "base"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hear",
+      "target": "sentir"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "horse",
+      "target": "caballo"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "cut",
+      "target": "corte"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sure",
+      "target": "seguro"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "watch",
+      "target": "reloj"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "color",
+      "target": "color"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "face",
+      "target": "cara"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "wood",
+      "target": "madera"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "main",
+      "target": "principal"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "open",
+      "target": "abierto"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "seem",
+      "target": "parecer"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "next",
+      "target": "próximo"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "white",
+      "target": "blanco"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "children",
+      "target": "niños"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begin",
+      "target": "inicio"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "walk",
+      "target": "caminar"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "example",
+      "target": "ejemplo"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "ease",
+      "target": "aliviar"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "paper",
+      "target": "papel"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "group",
+      "target": "grupo"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "music",
+      "target": "música"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mark",
+      "target": "marca"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "letter",
+      "target": "carta"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mile",
+      "target": "milla"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "river",
+      "target": "río"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "car",
+      "target": "coche"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "feet",
+      "target": "pies"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "care",
+      "target": "cuidado"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "second",
+      "target": "segundo"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plain",
+      "target": "llanura"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "girl",
+      "target": "chica"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "usual",
+      "target": "usual"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "young",
+      "target": "joven"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "ready",
+      "target": "listo"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "red",
+      "target": "rojo"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "list",
+      "target": "lista"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "feel",
+      "target": "sentir"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "talk",
+      "target": "hablar"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "bird",
+      "target": "pájaro"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "body",
+      "target": "cuerpo"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "dog",
+      "target": "perro"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "family",
+      "target": "familia"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "directo"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "puesta"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "leave",
+      "target": "dejar"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "song",
+      "target": "canción"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "measure",
+      "target": "medir"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "door",
+      "target": "puerta"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "product",
+      "target": "producto"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "black",
+      "target": "negro"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "short",
+      "target": "corto"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numeral",
+      "target": "numeral"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "class",
+      "target": "clase"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "viento"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "question",
+      "target": "pregunta"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "happen",
+      "target": "ocurrir"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "complete",
+      "target": "entero"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "ship",
+      "target": "barco"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "area",
+      "target": "área"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "half",
+      "target": "mitad"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rock",
+      "target": "roca"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "order",
+      "target": "orden"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "fire",
+      "target": "fuego"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "south",
+      "target": "sur"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "problema"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "piece",
+      "target": "pieza"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "tell",
+      "target": "decir"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "pass",
+      "target": "pasar"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "arriba"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "whole",
+      "target": "todo"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "king",
+      "target": "rey"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "street",
+      "target": "calle"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "inch",
+      "target": "pulgar"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiply",
+      "target": "multiplicar"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "course",
+      "target": "curso"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "stay",
+      "target": "quedarse"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "wheel",
+      "target": "rueda"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "full",
+      "target": "completo"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "force",
+      "target": "fuerza"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blue",
+      "target": "azul"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "object",
+      "target": "objeto"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "decide",
+      "target": "decidir"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "superficie"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "deep",
+      "target": "profundidad"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "moon",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "island",
+      "target": "isla"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "foot",
+      "target": "pie"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "sistema"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "busy",
+      "target": "ocupado"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "prueba"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "registro"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "boat",
+      "target": "barco"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "common",
+      "target": "común"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "gold",
+      "target": "oro"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "posible"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plane",
+      "target": "plano"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "stead",
+      "target": "en lugar de"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "dry",
+      "target": "seco"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wonder",
+      "target": "preguntarse"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "laugh",
+      "target": "reír"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "thousand",
+      "target": "mil"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "ago",
+      "target": "hace"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "ran",
+      "target": "carreras"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "check",
+      "target": "verificar"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "game",
+      "target": "juego"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "shape",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "equate",
+      "target": "igualar"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "hot",
+      "target": "caliente"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "miss",
+      "target": "perder"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "brought",
+      "target": "llevado"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "heat",
+      "target": "calor"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "snow",
+      "target": "nieve"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "tire",
+      "target": "llanta"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bring",
+      "target": "llevar"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distant",
+      "target": "lejos"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fill",
+      "target": "llenar"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "east",
+      "target": "este"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "paint",
+      "target": "pintar"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "language",
+      "target": "lengua"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unit",
+      "target": "unidad"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "power",
+      "target": "poder"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "town",
+      "target": "ciudad"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fine",
+      "target": "fin"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "certain",
+      "target": "seguro"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fly",
+      "target": "volar"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fall",
+      "target": "caer"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "lead",
+      "target": "conducir"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cry",
+      "target": "grito"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dark",
+      "target": "oscuro"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "máquina"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "wait",
+      "target": "esperar"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "plano"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "star",
+      "target": "estrella"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "box",
+      "target": "caja"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "noun",
+      "target": "sustantivo"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "field",
+      "target": "campo"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "rest",
+      "target": "descanso"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "correcto"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "able",
+      "target": "capaz"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pound",
+      "target": "libra"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "done",
+      "target": "hecho"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauty",
+      "target": "belleza"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "drive",
+      "target": "conducir"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "stand up",
+      "target": "levantarse"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contain",
+      "target": "contener"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "front",
+      "target": "frontal"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "teach",
+      "target": "enseñar"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "week",
+      "target": "semana"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "final",
+      "target": "final"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "give",
+      "target": "dar"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "green",
+      "target": "verde"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "quick",
+      "target": "rápido"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "develop",
+      "target": "desarrollar"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "océano"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "caliente"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "free",
+      "target": "libre"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "minuto"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "strong",
+      "target": "fuerte"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "special",
+      "target": "especial"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "mind",
+      "target": "mente"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clear",
+      "target": "claro"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "tail",
+      "target": "cola"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produce",
+      "target": "producir"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fact",
+      "target": "hecho"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "space",
+      "target": "espacio"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "heard",
+      "target": "sentido"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "best",
+      "target": "mejor"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "hour",
+      "target": "ahora"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "better",
+      "target": "mejor"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "true",
+      "target": "verdadero"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundred",
+      "target": "cien"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "five",
+      "target": "cinco"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "remember",
+      "target": "recordar"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "step",
+      "target": "paso"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "hold",
+      "target": "mantener"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "west",
+      "target": "oeste"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "ground",
+      "target": "tierra"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "interest",
+      "target": "interés"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "reach",
+      "target": "alcanzar"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "fast",
+      "target": "rápido"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verb",
+      "target": "verbo"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "sing",
+      "target": "cantar"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "listen",
+      "target": "escuchar"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "seis"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "mesa"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "travel",
+      "target": "viajar"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morning",
+      "target": "mañana"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ten",
+      "target": "diez"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "simple"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vowel",
+      "target": "vocal"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "war",
+      "target": "guerra"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lay",
+      "target": "poner"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "pattern",
+      "target": "modelo"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "slow",
+      "target": "lento"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "center",
+      "target": "centro"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "love",
+      "target": "amor"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "persona"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "money",
+      "target": "dinero"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "serve",
+      "target": "servir"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "appear",
+      "target": "aparecer"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "map",
+      "target": "mapa"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "rain",
+      "target": "lluvia"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "rule",
+      "target": "regla"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "govern",
+      "target": "gobernar"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "pull",
+      "target": "tirar"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "cold",
+      "target": "frío"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "notice",
+      "target": "aviso"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voice",
+      "target": "voz"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energy",
+      "target": "energía"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "hunt",
+      "target": "caza"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "probable"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "bed",
+      "target": "cama"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "brother",
+      "target": "hermano"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "egg",
+      "target": "huevo"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "ride",
+      "target": "giro"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cell",
+      "target": "celda"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "believe",
+      "target": "creer"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "pick",
+      "target": "elegir"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "sudden",
+      "target": "repentino"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "count",
+      "target": "contar"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "square",
+      "target": "cuadrado"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "reason",
+      "target": "razón"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "length",
+      "target": "longitud"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "represent",
+      "target": "representar"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "arte"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "subject",
+      "target": "sujeto"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "región"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "size",
+      "target": "tamaño"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "vary",
+      "target": "variar"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "settle",
+      "target": "resolver"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "speak",
+      "target": "hablar"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "weight",
+      "target": "peso"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "general",
+      "target": "general"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "ice",
+      "target": "hielo"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matter",
+      "target": "materia"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "circle",
+      "target": "círculo"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pair",
+      "target": "par"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "include",
+      "target": "incluir"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divide",
+      "target": "dividir"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllable",
+      "target": "sílaba"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "felt",
+      "target": "sentido"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "ball",
+      "target": "pelota"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "wave",
+      "target": "ola"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "drop",
+      "target": "caer"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "heart",
+      "target": "corazón"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "present",
+      "target": "presente"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "heavy",
+      "target": "pesado"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dance",
+      "target": "danza"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "engine",
+      "target": "motor"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "posición"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "brazo"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "wide",
+      "target": "ancho"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sail",
+      "target": "vela"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "material"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "fracción"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forest",
+      "target": "bosque"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sit",
+      "target": "sentarse"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "race",
+      "target": "carrera"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "window",
+      "target": "ventana"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "store",
+      "target": "tienda"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "summer",
+      "target": "verano"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "tren"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sleep",
+      "target": "dormir"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "prove",
+      "target": "demostrar"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "lone",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "leg",
+      "target": "pierna"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercise",
+      "target": "ejercicio"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "wall",
+      "target": "muro"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "catch",
+      "target": "tomar"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mount",
+      "target": "monte"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "wish",
+      "target": "deseo"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "sky",
+      "target": "cielo"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "board",
+      "target": "pensión"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joy",
+      "target": "alegría"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "winter",
+      "target": "invierno"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "written",
+      "target": "escrito"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "salvaje"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "herramienta"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "kept",
+      "target": "mantener"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glass",
+      "target": "vidrio"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "grass",
+      "target": "hierba"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "cow",
+      "target": "vaca"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "trabajo"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "edge",
+      "target": "borde"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "sign",
+      "target": "señal"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visit",
+      "target": "visita"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "past",
+      "target": "pasado"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "soft",
+      "target": "suave"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "fun",
+      "target": "diversión"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "bright",
+      "target": "brillante"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gas"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "weather",
+      "target": "clima"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "month",
+      "target": "mes"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "millón"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bear",
+      "target": "soportar"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finish",
+      "target": "finalizar"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "happy",
+      "target": "feliz"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "hope",
+      "target": "esperanza"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "flower",
+      "target": "flor"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "clothe",
+      "target": "vestido"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "strange",
+      "target": "extraño"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "go",
+      "target": "ir"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "trade",
+      "target": "comercio"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melody",
+      "target": "melodía"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "trip",
+      "target": "viaje"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "office",
+      "target": "oficina"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "receive",
+      "target": "recibir"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "row",
+      "target": "fila"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mouth",
+      "target": "boca"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "exacto"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "símbolo"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "die",
+      "target": "morir"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "trouble",
+      "target": "dificultad"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "shout",
+      "target": "gritar"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "seed",
+      "target": "semilla"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "tono"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "join",
+      "target": "pegar"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggest",
+      "target": "sugerir"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "clean",
+      "target": "limpiar"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "break",
+      "target": "pausa"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "lady",
+      "target": "señora"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "yard",
+      "target": "patio"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rise",
+      "target": "subir"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "bad",
+      "target": "malo"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blow",
+      "target": "golpe"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "oil",
+      "target": "aceite"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blood",
+      "target": "sangre"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "touch",
+      "target": "tocar"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grew",
+      "target": "creció"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "centavo"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mix",
+      "target": "mezclar"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "equipo"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "wire",
+      "target": "hilo"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "cost",
+      "target": "costo"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "lost",
+      "target": "perdido"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brown",
+      "target": "marrón"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "wear",
+      "target": "usar"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "garden",
+      "target": "jardín"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "equal",
+      "target": "parejo"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sent",
+      "target": "enviado"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choose",
+      "target": "elegir"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fell",
+      "target": "caído"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "fit",
+      "target": "ajustar"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flow",
+      "target": "flujo"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fair",
+      "target": "justo"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "banco"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "collect",
+      "target": "recoger"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "save",
+      "target": "guardar"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "control",
+      "target": "control"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "decimal"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "ear",
+      "target": "oreja"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "broke",
+      "target": "roto"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "case",
+      "target": "caso"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "middle",
+      "target": "mitad"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "kill",
+      "target": "matar"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "son",
+      "target": "hijo"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lake",
+      "target": "lago"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "momento"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "scale",
+      "target": "escalera"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "loud",
+      "target": "fuerte"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "spring",
+      "target": "primavera"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observe",
+      "target": "observar"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "child",
+      "target": "bebé"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "straight",
+      "target": "recto"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonant",
+      "target": "consonante"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "nación"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionary",
+      "target": "diccionario"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "milk",
+      "target": "leche"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "speed",
+      "target": "velocidad"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "method",
+      "target": "método"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "órgano"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "pay",
+      "target": "pagar"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "age",
+      "target": "edad"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "sección"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "dress",
+      "target": "traje"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "cloud",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "sorpresa"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "quiet",
+      "target": "tranquilo"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "stone",
+      "target": "piedra"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "tiny",
+      "target": "pequeño"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "climb",
+      "target": "escalar"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "cool",
+      "target": "fresco"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "diseño"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "poor",
+      "target": "pobre"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "lote"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "experiment",
+      "target": "experimento"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "bottom",
+      "target": "fondo"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "key",
+      "target": "llave"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "iron",
+      "target": "hierro"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "single",
+      "target": "único"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "stick",
+      "target": "palo"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flat",
+      "target": "plano"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "twenty",
+      "target": "veinte"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "skin",
+      "target": "piel"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smile",
+      "target": "sonrisa"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "crease",
+      "target": "pliegue"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hole",
+      "target": "agujero"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "jump",
+      "target": "salto"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "bebé"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "eight",
+      "target": "ocho"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "aldea"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "meet",
+      "target": "encontrar"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "root",
+      "target": "raíz"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "buy",
+      "target": "comprar"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "raise",
+      "target": "levantar"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "solve",
+      "target": "resolver"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "metal"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "push",
+      "target": "empujar"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "seven",
+      "target": "siete"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraph",
+      "target": "párrafo"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "third",
+      "target": "tercero"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "held",
+      "target": "sujeto"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hair",
+      "target": "cabello"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "describe",
+      "target": "describir"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cook",
+      "target": "cocinar"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "floor",
+      "target": "piso"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "result",
+      "target": "resultado"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "burn",
+      "target": "quemar"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "hill",
+      "target": "colina"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "safe",
+      "target": "seguro"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cat",
+      "target": "gato"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "century",
+      "target": "siglo"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "consider",
+      "target": "considerar"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "tipo"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "law",
+      "target": "ley"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coast",
+      "target": "costa"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copy",
+      "target": "copiar"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "frase"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silent",
+      "target": "silencioso"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "tall",
+      "target": "alto"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "arena"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "soil",
+      "target": "suelo"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "roll",
+      "target": "rodar"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperature",
+      "target": "temperatura"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "dedo"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industry",
+      "target": "industria"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "value",
+      "target": "valor"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "fight",
+      "target": "lucha"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lie",
+      "target": "mentira"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "beat",
+      "target": "vencer"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "excite",
+      "target": "emocionar"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natural",
+      "target": "natural"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "view",
+      "target": "vista"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sense",
+      "target": "sentido"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capital",
+      "target": "capital"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chair",
+      "target": "silla"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "peligro"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruit",
+      "target": "fruta"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rich",
+      "target": "rico"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "thick",
+      "target": "espeso"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldier",
+      "target": "soldado"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "process",
+      "target": "proceso"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operate",
+      "target": "operar"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "practice",
+      "target": "práctica"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separate",
+      "target": "separar"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficult",
+      "target": "difícil"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "doctor",
+      "target": "médico"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "please",
+      "target": "por favor"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protect",
+      "target": "proteger"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "noon",
+      "target": "mediodía"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "crop",
+      "target": "cosecha"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "moderno"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "elemento"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "hit",
+      "target": "golpe"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "student",
+      "target": "estudiante"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "corner",
+      "target": "esquina"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "party",
+      "target": "fiesta"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "supply",
+      "target": "suministro"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "locate",
+      "target": "ubicar"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "anillo"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "character",
+      "target": "carácter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insect",
+      "target": "insecto"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "caught",
+      "target": "capturado"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "period",
+      "target": "periodo"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indicate",
+      "target": "indicar"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "spoke",
+      "target": "rayo"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "átomo"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "human",
+      "target": "humano"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "history",
+      "target": "historia"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effect",
+      "target": "efecto"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "electric",
+      "target": "eléctrico"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "expect",
+      "target": "esperar"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "bone",
+      "target": "hueso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "rail",
+      "target": "ferrocarril"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imagine",
+      "target": "imaginar"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "provide",
+      "target": "proveer"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "agree",
+      "target": "acordar"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "gentle",
+      "target": "dulce"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "woman",
+      "target": "mujer"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "captain",
+      "target": "capitán"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "guess",
+      "target": "adivinar"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "necessary",
+      "target": "necesario"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "sharp",
+      "target": "afilado"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "wing",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "create",
+      "target": "crear"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "neighbor",
+      "target": "próximo"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "wash",
+      "target": "lavado"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "bat",
+      "target": "murciélago"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "crowd",
+      "target": "multitud"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "corn",
+      "target": "maíz"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "compare",
+      "target": "comparar"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poem",
+      "target": "poesía"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "string",
+      "target": "cuerda"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "bell",
+      "target": "campana"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "depend",
+      "target": "depender"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "meat",
+      "target": "carne"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "rub",
+      "target": "frotar"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "tubo"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "famous",
+      "target": "famoso"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dólar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "stream",
+      "target": "arroyo"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "fear",
+      "target": "miedo"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "sight",
+      "target": "vista"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "thin",
+      "target": "delgado"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "triángulo"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planet",
+      "target": "planeta"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hurry",
+      "target": "prisa"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chief",
+      "target": "jefe"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colony",
+      "target": "colonia"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "clock",
+      "target": "reloj"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "mina"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "tie",
+      "target": "corbata"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "enter",
+      "target": "entrar"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "major",
+      "target": "mayor"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "fresh",
+      "target": "fresco"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "search",
+      "target": "investigación"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "send",
+      "target": "enviar"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "yellow",
+      "target": "amarillo"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "gun",
+      "target": "arma"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "allow",
+      "target": "permitir"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "print",
+      "target": "imprimir"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "dead",
+      "target": "muerto"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "spot",
+      "target": "mancha"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desert",
+      "target": "desierto"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "suit",
+      "target": "traje"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "current",
+      "target": "corriente"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "ascensor"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "rosa"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arrive",
+      "target": "llegar"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "master",
+      "target": "maestro"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "track",
+      "target": "pista"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "padre"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "shore",
+      "target": "orilla"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "división"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "sheet",
+      "target": "hoja"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "sustancia"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favor",
+      "target": "favorecer"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connect",
+      "target": "conectar"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "post",
+      "target": "mensaje"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "spend",
+      "target": "gastar"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "chord",
+      "target": "acuerdo"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fat",
+      "target": "grasa"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "feliz"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "original"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "share",
+      "target": "cuota"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "estación"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "dad",
+      "target": "papá"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "bread",
+      "target": "pan"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "cargo"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "proper",
+      "target": "correcto"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "barra"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offer",
+      "target": "ofrecer"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segmento"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "esclavo"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "duck",
+      "target": "pato"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "instant",
+      "target": "inmediato"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "market",
+      "target": "mercado"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degree",
+      "target": "grado"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populate",
+      "target": "popular"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "chick",
+      "target": "pollito"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "dear",
+      "target": "querido"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "enemy",
+      "target": "enemigo"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "reply",
+      "target": "respuesta"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drink",
+      "target": "bebida"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "occur",
+      "target": "ocurrir"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "support",
+      "target": "apoyo"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "speech",
+      "target": "discurso"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "naturaleza"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "range",
+      "target": "gama"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "steam",
+      "target": "vapor"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "motion",
+      "target": "movimiento"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "path",
+      "target": "camino"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquid",
+      "target": "líquido"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "log",
+      "target": "tronco"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "mean",
+      "target": "significar"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "cociente"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "teeth",
+      "target": "dientes"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "shell",
+      "target": "concha"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "neck",
+      "target": "cuello"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygen",
+      "target": "oxígeno"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sugar",
+      "target": "azúcar"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "death",
+      "target": "muerte"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "skill",
+      "target": "habilidad"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "women",
+      "target": "mujeres"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "season",
+      "target": "temporada"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "solución"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "imán"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silver",
+      "target": "plata"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "thank",
+      "target": "gracias"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branch",
+      "target": "rama"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "match",
+      "target": "partido"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffix",
+      "target": "sufijo"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "especially",
+      "target": "particularmente"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fig",
+      "target": "higo"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "afraid",
+      "target": "asustado"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "huge",
+      "target": "enorme"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "sister",
+      "target": "hermana"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "steel",
+      "target": "acero"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuss",
+      "target": "discutir"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similar",
+      "target": "similar"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "guide",
+      "target": "conducir"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "experience",
+      "target": "experiencia"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "puntaje"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "apple",
+      "target": "manzana"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "bought",
+      "target": "comprado"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "led",
+      "target": "traído"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pitch",
+      "target": "brea"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "coat",
+      "target": "abrigo"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "mass",
+      "target": "masa"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "card",
+      "target": "tabla"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "rope",
+      "target": "cuerda"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "deslizar"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "win",
+      "target": "victoria"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "dream",
+      "target": "soñar"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "evening",
+      "target": "tarde"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "condición"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "feed",
+      "target": "alimentar"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "tool",
+      "target": "herramienta"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "total"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "basic",
+      "target": "básico"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "smell",
+      "target": "olor"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "valley",
+      "target": "valle"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "doble"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "seat",
+      "target": "asiento"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continue",
+      "target": "continuar"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "block",
+      "target": "bloque"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "chart",
+      "target": "gráfico"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "sombrero"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sell",
+      "target": "vender"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "success",
+      "target": "éxito"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "company",
+      "target": "empresa"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtract",
+      "target": "restar"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "event",
+      "target": "evento"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particular",
+      "target": "particular"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "deal",
+      "target": "trato"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "swim",
+      "target": "nadar"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "term",
+      "target": "término"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposite",
+      "target": "opuesto"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "wife",
+      "target": "esposa"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "shoe",
+      "target": "zapato"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "shoulder",
+      "target": "hombro"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spread",
+      "target": "esparcir"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrange",
+      "target": "organizar"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "camp",
+      "target": "campo"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "invent",
+      "target": "inventar"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "cotton",
+      "target": "algodón"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "birth",
+      "target": "nacimiento"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "determine",
+      "target": "determinar"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "cuarto de galón"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "nine",
+      "target": "nueve"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "truck",
+      "target": "camión"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "noise",
+      "target": "ruido"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "level",
+      "target": "nivel"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "oportunidad"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "gather",
+      "target": "recoger"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "shop",
+      "target": "tienda"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "stretch",
+      "target": "estirón"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "throw",
+      "target": "lanzar"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "shine",
+      "target": "brillar"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "property",
+      "target": "propiedad"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "column",
+      "target": "columna"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molecule",
+      "target": "molécula"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "select",
+      "target": "seleccionar"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "wrong",
+      "target": "equivocado"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gray",
+      "target": "gris"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "repeat",
+      "target": "repetición"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "require",
+      "target": "requerir"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "broad",
+      "target": "amplio"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "prepare",
+      "target": "preparar"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "sal"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nose",
+      "target": "nariz"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "plural"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "anger",
+      "target": "rabia"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "claim",
+      "target": "solicitud"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "continente"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "screen",
+      "target": "pantalla"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bottle",
+      "target": "botella"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lamp",
+      "target": "lámpara"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telephone",
+      "target": "teléfono"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "trousers",
+      "target": "pantalones"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "cheek",
+      "target": "mejilla"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "pencil",
+      "target": "lápiz"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "pen",
+      "target": "bolígrafo"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palace",
+      "target": "edificio"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "aeroplane",
+      "target": "avión"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bike",
+      "target": "bicicleta"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "computadora"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "restaurante"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "vaso"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rocket",
+      "target": "cohete"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prey",
+      "target": "rezar"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "university",
+      "target": "universidad"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "stairs",
+      "target": "escalera"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorbike",
+      "target": "motocicleta"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jacket",
+      "target": "chaqueta"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "scream",
+      "target": "gritar"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joy",
+      "target": "alegría"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "daughter",
+      "target": "hija"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "husband",
+      "target": "marido"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grandmother",
+      "target": "abuela"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grandfather",
+      "target": "abuelo"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "uncle",
+      "target": "tío"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "aunt",
+      "target": "tía"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "primo"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "autumn",
+      "target": "otoño"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "today",
+      "target": "hoy"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "tomorrow",
+      "target": "mañana"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "yesterday",
+      "target": "ayer"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "cheese",
+      "target": "queso"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "butter",
+      "target": "mantequilla"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "coffee",
+      "target": "café"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "té"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "wine",
+      "target": "vino"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "beer",
+      "target": "cerveza"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rice",
+      "target": "arroz"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "potato",
+      "target": "patata"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomato",
+      "target": "tomate"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "onion",
+      "target": "cebolla"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "lemon",
+      "target": "limón"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "naranja"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banana",
+      "target": "plátano"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "grape",
+      "target": "uva"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carrot",
+      "target": "zanahoria"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bean",
+      "target": "frijol"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "flour",
+      "target": "harina"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "cake",
+      "target": "pastel"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "cookie",
+      "target": "galleta"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolate",
+      "target": "chocolate"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "ice cream",
+      "target": "helado"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honey",
+      "target": "miel"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soup",
+      "target": "sopa"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salad",
+      "target": "ensalada"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinegar",
+      "target": "vinagre"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "pepper",
+      "target": "pimienta"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "juice",
+      "target": "jugo"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "chicken",
+      "target": "pollo"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "pig",
+      "target": "cerdo"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "sheep",
+      "target": "oveja"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "goat",
+      "target": "cabra"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "rabbit",
+      "target": "conejo"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mouse",
+      "target": "ratón"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bear",
+      "target": "oso"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "león"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "wolf",
+      "target": "lobo"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "fox",
+      "target": "zorro"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "monkey",
+      "target": "mono"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elephant",
+      "target": "elefante"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tigre"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraffe",
+      "target": "jirafa"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bee",
+      "target": "abeja"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "butterfly",
+      "target": "mariposa"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "spider",
+      "target": "araña"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "snake",
+      "target": "serpiente"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "ant",
+      "target": "hormiga"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "fly",
+      "target": "mosca"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "mosquito",
+      "target": "mosquito"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frog",
+      "target": "rana"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "shark",
+      "target": "tiburón"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "whale",
+      "target": "ballena"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "turtle",
+      "target": "tortuga"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "goose",
+      "target": "ganso"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "hen",
+      "target": "gallina"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "turkey",
+      "target": "pavo"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knee",
+      "target": "rodilla"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "elbow",
+      "target": "codo"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lips",
+      "target": "labios"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "back",
+      "target": "espalda"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "chest",
+      "target": "pecho"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "stomach",
+      "target": "estómago"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "brain",
+      "target": "cerebro"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "nail",
+      "target": "uña"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "beard",
+      "target": "barba"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tear",
+      "target": "lágrima"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "kitchen",
+      "target": "cocina"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "bathroom",
+      "target": "baño"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "mirror",
+      "target": "espejo"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "knife",
+      "target": "cuchillo"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fork",
+      "target": "tenedor"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "spoon",
+      "target": "cuchara"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "plate",
+      "target": "plato"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "cup",
+      "target": "taza"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "roof",
+      "target": "tejado"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "soap",
+      "target": "jabón"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "towel",
+      "target": "toalla"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brush",
+      "target": "cepillo"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "umbrella",
+      "target": "paraguas"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "suitcase",
+      "target": "maleta"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "bag",
+      "target": "bolso"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "wallet",
+      "target": "cartera"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "coin",
+      "target": "moneda"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gift",
+      "target": "regalo"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "toy",
+      "target": "juguete"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "doll",
+      "target": "muñeca"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "newspaper",
+      "target": "periódico"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "revista"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "movie",
+      "target": "película"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "hospital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "church",
+      "target": "iglesia"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "hotel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "airport",
+      "target": "aeropuerto"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "library",
+      "target": "biblioteca"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "museo"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "parque"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "theatre",
+      "target": "teatro"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacy",
+      "target": "farmacia"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "autobús"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bridge",
+      "target": "puente"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "castle",
+      "target": "castillo"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tower",
+      "target": "torre"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "factory",
+      "target": "fábrica"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "beach",
+      "target": "playa"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "selva"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "rainbow",
+      "target": "arcoíris"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "thunder",
+      "target": "trueno"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "smoke",
+      "target": "humo"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "ash",
+      "target": "ceniza"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "nurse",
+      "target": "enfermero"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "lawyer",
+      "target": "abogado"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "engineer",
+      "target": "ingeniero"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "writer",
+      "target": "escritor"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "singer",
+      "target": "cantante"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "painter",
+      "target": "pintor"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "waiter",
+      "target": "camarero"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "farmer",
+      "target": "agricultor"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policeman",
+      "target": "policía"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "shirt",
+      "target": "camisa"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "skirt",
+      "target": "falda"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "socks",
+      "target": "calcetines"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gloves",
+      "target": "guantes"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "belt",
+      "target": "cinturón"
+    }
+  ]
+}

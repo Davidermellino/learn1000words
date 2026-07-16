@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Email confermata — learn1000words</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --fg: #1a1a1a;
+      --muted: #5c5c5c;
+      --accent: #2b6cb0;
+      --hairline: #e2e2e2;
+      --card: #f7f7f8;
+      --success: #2f855a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #16171a;
+        --fg: #e7e7e9;
+        --muted: #a0a0a6;
+        --accent: #7fb2e6;
+        --hairline: #2c2d31;
+        --card: #1e1f23;
+        --success: #68d391;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    main {
+      max-width: 480px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 48px 24px;
+      text-align: center;
+    }
+    .icon {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 24px;
+      border-radius: 50%;
+      background: var(--card);
+      border: 1px solid var(--hairline);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+      color: var(--success);
+    }
+    h1 { font-size: 1.6rem; line-height: 1.3; margin: 0 0 .5em; }
+    p { color: var(--muted); margin: 0 0 1.5em; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--hairline);
+      border-radius: 12px;
+      padding: 18px 22px;
+      margin: 1.5em 0;
+      font-size: .95rem;
+      color: var(--fg);
+    }
+    footer { margin-top: 2.5em; color: var(--muted); font-size: .85rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="icon">✓</div>
+    <h1>Email confermata!</h1>
+    <p>Il tuo account learn1000words è stato verificato con successo.</p>
+    <div class="card">
+      Puoi tornare all'app e accedere con le tue credenziali — non serve fare altro qui.
+    </div>
+    <footer>learn1000words</footer>
+  </main>
+</body>
+</html>

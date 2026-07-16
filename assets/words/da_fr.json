@@ -1,0 +1,6009 @@
+{
+  "source": "da",
+  "target": "fr",
+  "sourceName": "Dansk",
+  "targetName": "Français",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "at være",
+      "target": "être"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "en",
+      "target": "un"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "at have",
+      "target": "avoir"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "varmt",
+      "target": "chaud"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "ord",
+      "target": "mot"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "kan",
+      "target": "boîte"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "gøre",
+      "target": "faire"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "tid",
+      "target": "temps"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "vilje",
+      "target": "volonté"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "sagde",
+      "target": "dit"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "fortæl det.",
+      "target": "dire"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "indstil",
+      "target": "fixe"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "tre",
+      "target": "trois"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "ønske",
+      "target": "désirer"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "luft",
+      "target": "air"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "nå",
+      "target": "bien"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "afspil",
+      "target": "jouer"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "lille",
+      "target": "petit"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "slut",
+      "target": "fin"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "lægge",
+      "target": "mettre"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "hjem",
+      "target": "maison"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "læs",
+      "target": "lire"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hånd",
+      "target": "main"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "medbring",
+      "target": "porter"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "stor",
+      "target": "grand"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "stavning",
+      "target": "comptez"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "tilføj",
+      "target": "ajouter"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "terre"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "stor",
+      "target": "grand"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "høj",
+      "target": "haut"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "følg med.",
+      "target": "suivre"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "lov",
+      "target": "acte"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "spørg",
+      "target": "demander"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "mænd",
+      "target": "mâles"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "en ændring",
+      "target": "changement"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "lys",
+      "target": "lumière"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "venlig",
+      "target": "type"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "slukket",
+      "target": "éteint"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "behov",
+      "target": "besoin"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "hus",
+      "target": "maison"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "billede",
+      "target": "image"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "prøv",
+      "target": "essayer"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "dyr",
+      "target": "animal"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "punkt",
+      "target": "point"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mor",
+      "target": "mère"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "verden",
+      "target": "monde"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "i nærheden",
+      "target": "près"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "byg",
+      "target": "construire"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "jord",
+      "target": "terre"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "fader",
+      "target": "père"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "nyt",
+      "target": "nouveau"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "arbejde",
+      "target": "travail"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "del",
+      "target": "partie"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "tag",
+      "target": "prendre"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "hent",
+      "target": "obtenir"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "sted",
+      "target": "place"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "leve",
+      "target": "vivre"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "runde",
+      "target": "tour"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "mand",
+      "target": "homme"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "år",
+      "target": "année"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "vis",
+      "target": "spectacle"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "godt",
+      "target": "bon"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "giv",
+      "target": "donner"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "navn",
+      "target": "nom"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sætning",
+      "target": "phrase"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "fantastisk",
+      "target": "grand"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "tænk",
+      "target": "penser"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "sig",
+      "target": "dire"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "hjælp",
+      "target": "aider"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "lav",
+      "target": "bas"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "linje",
+      "target": "ligne"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "afvige",
+      "target": "différer"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "drej",
+      "target": "tour"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "årsag",
+      "target": "cause"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "middel",
+      "target": "dire"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "flyt dig",
+      "target": "déplacer"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "ja",
+      "target": "droit"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "dreng",
+      "target": "garçon"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "gammel",
+      "target": "vieux"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "brug",
+      "target": "utilisation"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "vej",
+      "target": "manière"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "skriv",
+      "target": "écrire"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "lang",
+      "target": "long"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "mærke",
+      "target": "rendre"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "ting",
+      "target": "quoi"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "se",
+      "target": "voir"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "to",
+      "target": "deux"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "se",
+      "target": "regarder"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "dag",
+      "target": "jour"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "gå",
+      "target": "aller"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "komme",
+      "target": "venir"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "antal",
+      "target": "numéro"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "lyd",
+      "target": "son"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "mennesker",
+      "target": "personnes"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "det ved jeg",
+      "target": "savoir"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "vand",
+      "target": "eau"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "ring",
+      "target": "appel"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "for det første",
+      "target": "premier"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "côté"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "finde",
+      "target": "trouver"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "hoved",
+      "target": "tête"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stå",
+      "target": "se tenir debout"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "egne",
+      "target": "précisément"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "side",
+      "target": "page"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "land",
+      "target": "pays"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "fundet",
+      "target": "fonder"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "svar",
+      "target": "réponse"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "skole",
+      "target": "école"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "vokse",
+      "target": "grandir"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "undersøgelse",
+      "target": "étude"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "lær",
+      "target": "apprendre"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "anlæg",
+      "target": "installation"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "dæksel",
+      "target": "couverture"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "fødevarer",
+      "target": "nourriture"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sol",
+      "target": "soleil"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "fire",
+      "target": "quatre"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "stat",
+      "target": "été"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "behold",
+      "target": "maintenir"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "øje",
+      "target": "oeil"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "sidst",
+      "target": "dernier"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "lad os gøre det.",
+      "target": "laisser"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "tænkte",
+      "target": "pensée"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "by",
+      "target": "ville"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "træ",
+      "target": "arbre"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "kryds",
+      "target": "traverser"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "landbrug",
+      "target": "ferme"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hårdt",
+      "target": "difficile"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "début"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "måske",
+      "target": "force"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "historie",
+      "target": "histoire"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "sav",
+      "target": "serrage"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "langt",
+      "target": "loin"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "hav",
+      "target": "mare"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "tegn",
+      "target": "dessiner"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "til venstre",
+      "target": "gauche"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "løb",
+      "target": "courir"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "tryk på",
+      "target": "impression"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "luk",
+      "target": "près"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "nat",
+      "target": "nuit"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "ægte",
+      "target": "réel"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "liv",
+      "target": "vie"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "nord",
+      "target": "nord"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "bog",
+      "target": "livre"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "medbring",
+      "target": "porter"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "videnskab",
+      "target": "science"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "spis",
+      "target": "manger"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "værelse",
+      "target": "chambre"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "ven",
+      "target": "ami"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "begyndte",
+      "target": "commencé"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idé",
+      "target": "idée"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fisk",
+      "target": "poisson"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "bjerg",
+      "target": "montagne"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stoppe",
+      "target": "arrêter"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "basis",
+      "target": "base"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hør",
+      "target": "entendre"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "hest",
+      "target": "cheval"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "klip",
+      "target": "coupe"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "ja",
+      "target": "sûr"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "se",
+      "target": "horloge"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "farve",
+      "target": "couleur"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "ansigt",
+      "target": "visage"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "træ",
+      "target": "bois"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "hoved",
+      "target": "principal"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "åbn",
+      "target": "ouvert"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "synes",
+      "target": "paraître"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "næste",
+      "target": "prochain"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "hvid",
+      "target": "blanc"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "børn",
+      "target": "enfants"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begynde",
+      "target": "début"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "gå",
+      "target": "marcher"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "eksempel",
+      "target": "exemple"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "lethed",
+      "target": "soulager"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "papir",
+      "target": "papier"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "gruppe",
+      "target": "groupe"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "musik",
+      "target": "musique"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mærke",
+      "target": "marque"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "brev",
+      "target": "lettre"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mil",
+      "target": "mille"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "floden",
+      "target": "rivière"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "bil",
+      "target": "voiture"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "fødder",
+      "target": "pieds"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "pleje",
+      "target": "soin"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "for det andet",
+      "target": "deuxième"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "almindelig",
+      "target": "plaine"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "pige",
+      "target": "fille"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "normalt",
+      "target": "d’habitude"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "unge",
+      "target": "jeune"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "klar",
+      "target": "prêt"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "rød",
+      "target": "rouge"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "liste",
+      "target": "liste"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "føl dig",
+      "target": "entendre"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "tale",
+      "target": "parler"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "fugl",
+      "target": "oiseau"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "krop",
+      "target": "corps"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "hund",
+      "target": "chien"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "familie",
+      "target": "famille"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direkte",
+      "target": "direct"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "positur",
+      "target": "pose"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "gå",
+      "target": "laisser"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "sang",
+      "target": "chanson"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "mål",
+      "target": "mesurer"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "dør",
+      "target": "porte"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "produkt",
+      "target": "produit"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "sort",
+      "target": "noir"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "kort",
+      "target": "bref"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "tal",
+      "target": "numérique"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "klasse",
+      "target": "classe"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "vind",
+      "target": "vent"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "spørgsmål",
+      "target": "demande"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "sker",
+      "target": "arriver"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "færdiggjort",
+      "target": "intégrale"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "skib",
+      "target": "navire"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "område",
+      "target": "zone"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "halvdelen",
+      "target": "moitié"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "klippe",
+      "target": "rocher"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "rækkefølge",
+      "target": "ordre"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "brand",
+      "target": "feu"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "syd",
+      "target": "sud"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "problème"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "stykke",
+      "target": "pièce"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "fortæl det.",
+      "target": "dire"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "passerer",
+      "target": "passer"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "sommet"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "hele",
+      "target": "tout"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "konge",
+      "target": "re"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "gade",
+      "target": "rue"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "tomme",
+      "target": "pouce"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiplicere",
+      "target": "multiplier"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "kursus",
+      "target": "cours"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "bliv",
+      "target": "rester"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "hjul",
+      "target": "roue"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "fuld",
+      "target": "complet"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "kraft",
+      "target": "vigueur"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blå",
+      "target": "bleu"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "objekt",
+      "target": "objet"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "beslut",
+      "target": "décider"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "overflade",
+      "target": "surface"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "dybt",
+      "target": "profondeur"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "måne",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "ø",
+      "target": "île"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "fod",
+      "target": "pied"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "système"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "optaget",
+      "target": "occupé"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "optagelse",
+      "target": "record"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "båd",
+      "target": "bateau"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "almindelig",
+      "target": "commune"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "guld",
+      "target": "or"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "muligt",
+      "target": "possible"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "fly",
+      "target": "plan"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "i stedet",
+      "target": "au lieu"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "tør",
+      "target": "sec"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "undren",
+      "target": "merveille"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "grin",
+      "target": "rire"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "tusind",
+      "target": "milliers"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "for siden",
+      "target": "fa"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "rn",
+      "target": "courses"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "kontroller",
+      "target": "vérifier"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "spil",
+      "target": "jeu"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "lig med hinanden",
+      "target": "égaler"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "varmt",
+      "target": "chaud"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "frøken",
+      "target": "perdre"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "medbragt",
+      "target": "apporté"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "varme",
+      "target": "chaleur"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "sne",
+      "target": "neige"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "dæk",
+      "target": "pneumatique"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "medbring",
+      "target": "porter"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "fjern",
+      "target": "loin"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fyld",
+      "target": "remplir"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "øst",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "maling",
+      "target": "peindre"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "sprog",
+      "target": "langue"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "enhed",
+      "target": "unités"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "strøm",
+      "target": "puissance"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "by",
+      "target": "ville"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fin",
+      "target": "fin"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "helt sikkert",
+      "target": "bien sûr"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "flyv",
+      "target": "voler"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "falde",
+      "target": "tomber"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "føre",
+      "target": "mener"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "græd",
+      "target": "cri"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "mørk",
+      "target": "sombre"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "maskine",
+      "target": "machine"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "bemærk",
+      "target": "note"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "vent",
+      "target": "attendre"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "plan"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figur",
+      "target": "figure"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "stjerne",
+      "target": "étoile"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "boks",
+      "target": "boîte"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "navneord",
+      "target": "nom"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "felt",
+      "target": "champ"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "hvil",
+      "target": "reste"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "korrekt",
+      "target": "correct"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "kan",
+      "target": "capable de"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pund",
+      "target": "livre"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "færdig",
+      "target": "fait"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "skønhed",
+      "target": "beauté"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "kør",
+      "target": "conduire"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "rejse sig",
+      "target": "se lever"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "indeholder",
+      "target": "contenir"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "forside",
+      "target": "frontale"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "undervis",
+      "target": "enseigner"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "ugen i parlamentet",
+      "target": "semaine"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "endelig",
+      "target": "finale"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "giv",
+      "target": "donner"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "grøn",
+      "target": "vert"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "hurtigt",
+      "target": "rapide"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "udvikle",
+      "target": "développer"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "océan"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "varm",
+      "target": "chaud"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "gratis",
+      "target": "gratuit"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minut",
+      "target": "minute"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "stærk",
+      "target": "fort"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "speciel",
+      "target": "spécial"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "helt ærligt",
+      "target": "ment"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "klart",
+      "target": "clair"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "hale",
+      "target": "queue"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produktion",
+      "target": "produire"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "faktum",
+      "target": "fait"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "plads",
+      "target": "espace"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "hørt",
+      "target": "entendu"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "bedst",
+      "target": "meilleur"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "time",
+      "target": "maintenant"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "bedre",
+      "target": "mieux"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "sand",
+      "target": "vrai"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "100",
+      "target": "cent"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "fem",
+      "target": "cinq"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "husk det.",
+      "target": "rappeler"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "trin",
+      "target": "étape"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "vent",
+      "target": "garder"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "vest",
+      "target": "ouest"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "jord",
+      "target": "terre"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "renter",
+      "target": "intérêt"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "nå",
+      "target": "atteindre"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "hurtig",
+      "target": "rapide"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verbum",
+      "target": "verbe"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "syng",
+      "target": "chanter"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "hør her",
+      "target": "écouter"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "seks",
+      "target": "six"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "tabel",
+      "target": "table"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "rejse",
+      "target": "voyager"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morgen",
+      "target": "matin"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ti",
+      "target": "dix"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "enkelt",
+      "target": "simple"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vokal",
+      "target": "vocale"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "krig",
+      "target": "guerre"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lægge",
+      "target": "poser"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "mønster",
+      "target": "modèle"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "langsomt",
+      "target": "lent"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "centrum",
+      "target": "centre"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "kærlighed",
+      "target": "amour"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "personne"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "penge",
+      "target": "argent"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "servere",
+      "target": "servir"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "vises",
+      "target": "apparaître"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "kort",
+      "target": "carte"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "regn",
+      "target": "pluie"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "regel",
+      "target": "règle"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "regering",
+      "target": "gouverner"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "træk",
+      "target": "tirer"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "koldt",
+      "target": "froid"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "bemærk",
+      "target": "avis"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "stemme",
+      "target": "voix"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energi",
+      "target": "énergie"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "jagt",
+      "target": "chasse"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "sandsynlig",
+      "target": "probable"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "seng",
+      "target": "lit"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "bror",
+      "target": "frère"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "æg",
+      "target": "oeuf"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "kør",
+      "target": "tour"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "celle",
+      "target": "cellule"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "tro",
+      "target": "croire"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "vælg",
+      "target": "choisir"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "pludselig",
+      "target": "soudain"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "tæl",
+      "target": "compter"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "firkant",
+      "target": "place"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "årsag",
+      "target": "raison"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "længde",
+      "target": "longueur"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "repræsentere",
+      "target": "représenter"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art.",
+      "target": "art"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "emne",
+      "target": "sujet"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "région"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "størrelse",
+      "target": "taille"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "varier",
+      "target": "varier"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "slå dig ned",
+      "target": "résoudre"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "tal",
+      "target": "parler"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "vægt",
+      "target": "poids"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "generelt",
+      "target": "général"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "is",
+      "target": "glace"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "lige meget",
+      "target": "matière"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "cirkel",
+      "target": "cercle"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "par",
+      "target": "couple"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "inkluder",
+      "target": "inclure"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "opdel",
+      "target": "divise"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "stavelse",
+      "target": "syllabe"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "filt",
+      "target": "feutre"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "stor",
+      "target": "grand"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "bold",
+      "target": "balle"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "bølge",
+      "target": "onda"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "dråbe",
+      "target": "tomber"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "hjerte",
+      "target": "coeur"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "til stede",
+      "target": "présent"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "tung",
+      "target": "lourde"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dans",
+      "target": "danse"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "motor",
+      "target": "moteur"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "position"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "bras"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "bred",
+      "target": "large"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sejl",
+      "target": "voile"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "materiale",
+      "target": "matériel"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraktion",
+      "target": "fraction"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "skov",
+      "target": "forêt"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sid",
+      "target": "s’asseoir"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "løb",
+      "target": "course"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "vindue",
+      "target": "fenêtre"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "opbevares",
+      "target": "boutique"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "sommer",
+      "target": "été"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "tog",
+      "target": "train"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sov",
+      "target": "sommeil"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "bevise",
+      "target": "démontrer"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "ensom",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "ben",
+      "target": "jambe"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "motion",
+      "target": "exercice"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "væg",
+      "target": "mur"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "fangst",
+      "target": "prendre"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "montering",
+      "target": "mont"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "ønsker",
+      "target": "désir"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "himmel",
+      "target": "ciel"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "tavle",
+      "target": "pension"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "glæde",
+      "target": "joie"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "vinter",
+      "target": "hiver"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "skriftlig",
+      "target": "écrit"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "vild",
+      "target": "sauvage"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "instrument"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "beholdt",
+      "target": "garder"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glas",
+      "target": "verre"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "græs",
+      "target": "herbe"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "ko",
+      "target": "vache"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "travail"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "kant",
+      "target": "bord"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "tegn",
+      "target": "signe"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "besøg",
+      "target": "visite"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "fortid",
+      "target": "passé"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "blød",
+      "target": "Doux"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "sjovt",
+      "target": "amusement"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "lys",
+      "target": "lumineux"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gaz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "vejret",
+      "target": "temps"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "måned",
+      "target": "mois"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "millioner",
+      "target": "million"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bjørn",
+      "target": "supporter"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "slut",
+      "target": "finition"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "glad",
+      "target": "heureux"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "håb",
+      "target": "espoir"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "blomst",
+      "target": "fleur"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "tøj",
+      "target": "habiller"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "mærkeligt",
+      "target": "étrange"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "gå",
+      "target": "aller"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "handel",
+      "target": "commerce"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melodi",
+      "target": "mélodie"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "rejse",
+      "target": "voyage"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "kontor",
+      "target": "bureau"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "modtag",
+      "target": "recevoir"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "række",
+      "target": "rangée"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mund",
+      "target": "bouche"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "nøjagtig",
+      "target": "exact"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "symbole"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "dø",
+      "target": "mourir"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "problemer",
+      "target": "difficultés"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "råb",
+      "target": "crier"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "frø",
+      "target": "semence"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "ton"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "deltag",
+      "target": "adhérer"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "foreslå",
+      "target": "suggérer"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "rengør",
+      "target": "propre"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "pause",
+      "target": "pause"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "dame",
+      "target": "Mme"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "værft",
+      "target": "chantier"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rejs dig",
+      "target": "monter"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "dårligt",
+      "target": "mal"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blæs",
+      "target": "coup"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "olie",
+      "target": "huile"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blod",
+      "target": "sang"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "tryk på",
+      "target": "toucher"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "voksede",
+      "target": "grandi"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "centième"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "bland",
+      "target": "mélanger"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "équipe"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "ledning",
+      "target": "fil"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "omkostninger",
+      "target": "coût"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "tabt",
+      "target": "perdu"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brun",
+      "target": "brun"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "slid",
+      "target": "porter"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "have",
+      "target": "jardin"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "lige",
+      "target": "pairs"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sendt",
+      "target": "envoyé"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "vælg",
+      "target": "choisir"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "faldt",
+      "target": "tombé"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "pasform",
+      "target": "adapter"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "strøm",
+      "target": "flux"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "marked",
+      "target": "fiera"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "banque"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "saml",
+      "target": "recueillir"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "gem",
+      "target": "sauver"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "kontrol",
+      "target": "contrôle"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "décimale"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "øre",
+      "target": "oreille"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "knækket",
+      "target": "cassé"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "sag",
+      "target": "cas"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "midt",
+      "target": "moyen"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "dræb",
+      "target": "tuer"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "søn",
+      "target": "fils"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "sø",
+      "target": "lac"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "moment"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "skalering",
+      "target": "échelle"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "højt",
+      "target": "fort"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "fjeder",
+      "target": "printemps"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "iagttag",
+      "target": "observer"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "barn",
+      "target": "enfant"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "lige",
+      "target": "droit"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "konsonant",
+      "target": "consonne"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "nation"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "ordbog",
+      "target": "dictionnaire"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "mælk",
+      "target": "lait"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "hastighed",
+      "target": "vitesse"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "metode",
+      "target": "méthode"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "organe"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "betal",
+      "target": "payer"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "alder",
+      "target": "âge"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "afsnit",
+      "target": "section"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "kjole",
+      "target": "robe"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "sky",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "overraskelse",
+      "target": "surprise"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "stille",
+      "target": "tranquille"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "sten",
+      "target": "pierre"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "lille",
+      "target": "petit"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "klatre",
+      "target": "escalader"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "køligt",
+      "target": "frais"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "conception"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "dårlig",
+      "target": "pauvre"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "parti",
+      "target": "lot"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "eksperiment",
+      "target": "expérience"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "nederst",
+      "target": "fond"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "nøgle",
+      "target": "clé"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "jern",
+      "target": "fer"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "enkelt",
+      "target": "unique"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "pind",
+      "target": "bâton"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flad",
+      "target": "appartement"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "20",
+      "target": "vingt"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "hud",
+      "target": "peau"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smil",
+      "target": "sourire"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "foldning",
+      "target": "plier"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hul",
+      "target": "foro"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "hop",
+      "target": "saut"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "enfant"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "otte",
+      "target": "huit"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "landsby",
+      "target": "village"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "mød",
+      "target": "se rencontrent"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "rod",
+      "target": "racines"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "køb",
+      "target": "acheter"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "hæv",
+      "target": "augmenter"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "løs",
+      "target": "résoudre"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "métal"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "tryk på",
+      "target": "pousser"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "syv",
+      "target": "sept"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "afsnit",
+      "target": "paragraphe"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "for det tredje",
+      "target": "troisième"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "afholdt",
+      "target": "tenu"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hår",
+      "target": "cheveux"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "beskriv",
+      "target": "décrire"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "kog",
+      "target": "cuisinier"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "gulv",
+      "target": "plan"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "resultat",
+      "target": "résultat"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "brænd",
+      "target": "brûler"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "bakke",
+      "target": "colline"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "sikker",
+      "target": "sûr"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "kat",
+      "target": "chat"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "århundrede",
+      "target": "siècle"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "overvej det.",
+      "target": "considérer"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "type"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "jura",
+      "target": "loi"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "kyst",
+      "target": "coûte"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "kopi",
+      "target": "copie"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "sætning",
+      "target": "phrase"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "lydløs",
+      "target": "silencieux"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "høj",
+      "target": "haut"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "sable"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "jord",
+      "target": "sol"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "rulle",
+      "target": "rouleau"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperatur",
+      "target": "température"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "dito"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industri",
+      "target": "industrie"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "værdi",
+      "target": "valeur"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "kæmp",
+      "target": "lutte"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "løgn",
+      "target": "mensonge"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "slag",
+      "target": "battre"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "ophidse",
+      "target": "exciter"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "naturlig",
+      "target": "naturel"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "udsigt",
+      "target": "vue"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sans",
+      "target": "sens"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "kapital",
+      "target": "capitale"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "fmd",
+      "target": "chaise"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "fare",
+      "target": "danger"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "frugt",
+      "target": "fruits"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rig",
+      "target": "riche"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "tyk",
+      "target": "souvent"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldat",
+      "target": "soldat"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "proces",
+      "target": "processus"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "betjen",
+      "target": "opérer"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "praksis",
+      "target": "pratique"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "adskilt",
+      "target": "séparé"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "vanskeligt",
+      "target": "difficile"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "læge",
+      "target": "médecin"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "tak",
+      "target": "s’il vous plaît"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "beskyt",
+      "target": "protéger"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "middag",
+      "target": "midi"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "afgrøde",
+      "target": "récolte"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "moderne",
+      "target": "moderne"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "élément"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "ramme",
+      "target": "frapper"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "studerende",
+      "target": "étudiant"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "hjørne",
+      "target": "angle"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "fest",
+      "target": "parti"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "forsyning",
+      "target": "fourniture"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "find",
+      "target": "identifier"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "anneau"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "tegn",
+      "target": "caractère"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insekt",
+      "target": "insecte"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "fanget",
+      "target": "capturé"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "periode",
+      "target": "période"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "angiv",
+      "target": "indiquer"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "tog ordet",
+      "target": "rayon"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atome"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "menneske",
+      "target": "humain"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "historie",
+      "target": "histoire"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effekt",
+      "target": "effet"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "elektrisk",
+      "target": "électrique"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "forvent",
+      "target": "attendre"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "knogler",
+      "target": "osso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "jernbane",
+      "target": "chemin de fer"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "forestil dig",
+      "target": "imaginer"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "tilvejebringelse",
+      "target": "fournir"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "enig",
+      "target": "convenir"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "blid",
+      "target": "doux"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "kvinde",
+      "target": "femme"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "kaptajn",
+      "target": "capitaine"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "gæt",
+      "target": "deviner"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "nødvendigt",
+      "target": "nécessaire"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "skarp",
+      "target": "tranchant"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "vinge",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "opret",
+      "target": "créer"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "nabo",
+      "target": "prochain"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "vask",
+      "target": "lavage"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "flagermus",
+      "target": "chauve-souris"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "folkemængde",
+      "target": "foule"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "majs",
+      "target": "mais"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "sammenlign",
+      "target": "comparer"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "digt",
+      "target": "poésie"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "streng",
+      "target": "serrer"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "klokke",
+      "target": "cloche"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "det afhænger af",
+      "target": "dépendre"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "kød",
+      "target": "viande"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "gnid",
+      "target": "frotter"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "rør",
+      "target": "tube"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "berømt",
+      "target": "célèbre"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dollar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "bæk",
+      "target": "ruisseau"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "frygt",
+      "target": "peur"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "syn",
+      "target": "vue"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "tynd",
+      "target": "mince"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "trekant",
+      "target": "triangle"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planeten",
+      "target": "planète"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "skynd dig",
+      "target": "hâte"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chef",
+      "target": "chef"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "koloni",
+      "target": "colonie"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "ur",
+      "target": "horloge"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "mine"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "binde",
+      "target": "cravate"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "indtast",
+      "target": "insérer"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "større",
+      "target": "plus"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "frisk",
+      "target": "frais"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "søg",
+      "target": "recherche"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "sende",
+      "target": "envoyer"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "gul",
+      "target": "jaune"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "pistol",
+      "target": "pistolet"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "tillad det.",
+      "target": "permettre"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "udskriv",
+      "target": "impression"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "død",
+      "target": "mort"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "plet",
+      "target": "tache"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "ørken",
+      "target": "désert"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "jakkesæt",
+      "target": "combinaison"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "nuværende",
+      "target": "courant"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "løft",
+      "target": "ascenseur"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "rose"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "ankomme",
+      "target": "arriver"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "mester",
+      "target": "maître"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "spor",
+      "target": "piste"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "forælder",
+      "target": "parent"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "kyst",
+      "target": "rive"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "afdeling",
+      "target": "division"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "ark",
+      "target": "feuille"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "indhold",
+      "target": "substance"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favorisere",
+      "target": "favoriser"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "tilslut",
+      "target": "connecter"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "indlæg",
+      "target": "message"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "udgifter",
+      "target": "dépenser"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "akkord",
+      "target": "accord"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fedt",
+      "target": "gras"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "heureux"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "original"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "del",
+      "target": "part"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "station"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "far",
+      "target": "papa"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "brød",
+      "target": "pain"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "opladning",
+      "target": "charge"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "korrekt",
+      "target": "correct"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "tilbud",
+      "target": "offre"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segment"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "esclave"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "ænder",
+      "target": "canard"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "øjeblik",
+      "target": "immédiat"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "marked",
+      "target": "marché"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "grad",
+      "target": "degré"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "udfyld",
+      "target": "populaire"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "kylling",
+      "target": "poussin"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "kære",
+      "target": "cher"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "fjende",
+      "target": "ennemi"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "svar",
+      "target": "répondre"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drik",
+      "target": "boisson"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "forekommer",
+      "target": "se produire"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "støtte",
+      "target": "soutien"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "tale",
+      "target": "discours"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "natur",
+      "target": "nature"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "rækkevidde",
+      "target": "gamme"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "damp",
+      "target": "vapeur"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "bevægelse",
+      "target": "moto"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "sti",
+      "target": "sentier"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "væske",
+      "target": "liquide"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "træstamme",
+      "target": "tronc"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "middel",
+      "target": "signifier"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "kvotient",
+      "target": "quotient"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "tænder",
+      "target": "dents"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "skal",
+      "target": "coquille"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "hals",
+      "target": "cou"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "ilt",
+      "target": "oxygène"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sukker",
+      "target": "sucre"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "død",
+      "target": "mort"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "færdighed",
+      "target": "compétence"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "kvinder",
+      "target": "femmes"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "sæson",
+      "target": "saison"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "løsning",
+      "target": "solution"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "aimant"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "sølv",
+      "target": "argent"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "tak",
+      "target": "merci"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "gren",
+      "target": "branche"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "kamp",
+      "target": "partie"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffiks",
+      "target": "suffixe"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "især",
+      "target": "particulièrement"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "figen",
+      "target": "fico"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "bange",
+      "target": "peur"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "kæmpe",
+      "target": "énorme"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "søster",
+      "target": "soeur"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "stål",
+      "target": "acier"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "diskuter",
+      "target": "discuter"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "lignende",
+      "target": "similaire"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "vejledning",
+      "target": "conduire"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "erfaring",
+      "target": "expérience"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "score"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "æble",
+      "target": "pomme"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "købt",
+      "target": "acheté"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "førte",
+      "target": "apporté"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "standplads",
+      "target": "pèche"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "frakke",
+      "target": "manteau"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "masse",
+      "target": "masse"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "kort",
+      "target": "carte"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "bånd",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "reb.",
+      "target": "corde"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "glissement"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "vind",
+      "target": "victoire"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "drøm",
+      "target": "rêver"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "aften",
+      "target": "sera"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "tilstand",
+      "target": "condition"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "foder",
+      "target": "alimentation"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "værktøj",
+      "target": "instrument"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "i alt",
+      "target": "total"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "grundlæggende",
+      "target": "de base"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "lugt",
+      "target": "odeur"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "dal",
+      "target": "vallée"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "dobbelt",
+      "target": "double"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "sæde",
+      "target": "siège"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "fortsæt",
+      "target": "continuer"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "en blok",
+      "target": "blocage"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "diagram",
+      "target": "graphique"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "chapeau"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sælg",
+      "target": "vendre"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "succes",
+      "target": "succès"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "en virksomhed",
+      "target": "entreprise"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "træk fra",
+      "target": "soustraire"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "begivenhed",
+      "target": "événement"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "særlig",
+      "target": "particulier"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "aftale",
+      "target": "affaire"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "svøm",
+      "target": "nage"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "betegnelse",
+      "target": "terme"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "modsat",
+      "target": "opposé"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "hustru",
+      "target": "femme"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "sko",
+      "target": "chaussure"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "skulder",
+      "target": "épaule"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spredning",
+      "target": "spargere"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arranger",
+      "target": "organiser"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "en lejr",
+      "target": "champ"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "opfinde",
+      "target": "inventer"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "bomuld",
+      "target": "coton"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "fødsel",
+      "target": "naissance"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "afgør",
+      "target": "déterminer"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "quart de gallon"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "ni",
+      "target": "neuf"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "lastbil",
+      "target": "camion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "støj",
+      "target": "bruit"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "niveau",
+      "target": "niveau"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "possibilité"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "saml",
+      "target": "recueillir"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "butik",
+      "target": "boutique"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "strækning",
+      "target": "trait"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "kast",
+      "target": "jeter"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "skinne",
+      "target": "briller"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "ejendom",
+      "target": "propriété"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "kolonne",
+      "target": "colonne"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molekyle",
+      "target": "molécule"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "vælg",
+      "target": "sélectionner"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "forkert",
+      "target": "faux"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "grå",
+      "target": "gris"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "gentag",
+      "target": "répétition"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "kræver",
+      "target": "demander"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "bredt",
+      "target": "large"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "forbered dig",
+      "target": "préparer"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "sale"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "næse",
+      "target": "nez"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "flertal",
+      "target": "pluriel"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "vrede",
+      "target": "colère"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "krav",
+      "target": "demande"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "europa-parlamentets forhandlinger",
+      "target": "continent"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "skærmbillede",
+      "target": "écran"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "flaske",
+      "target": "bouteille"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lampe",
+      "target": "lampe"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telefon",
+      "target": "téléphone"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "bukser",
+      "target": "pantalon"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "kind",
+      "target": "joue"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "blyant",
+      "target": "crayon"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "kuglepen",
+      "target": "plume"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "paladset",
+      "target": "palais"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "flyvemaskine",
+      "target": "avion"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "cykel",
+      "target": "vélo"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "ordinateurs"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "restaurant"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "vase"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "raket",
+      "target": "fusée"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "byttedyr",
+      "target": "prier"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "universitetet",
+      "target": "universités"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "trapper",
+      "target": "scale"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorcykel",
+      "target": "moto"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jakke",
+      "target": "veste"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "skrig",
+      "target": "crier"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "glæde",
+      "target": "joie"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "datter",
+      "target": "fille"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "mand",
+      "target": "mari"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "bedstemor",
+      "target": "grand-mère"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "bedstefar",
+      "target": "grand-père"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "onkel",
+      "target": "oncle"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "tante",
+      "target": "tante"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "fætter",
+      "target": "cousin"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "efterår",
+      "target": "automne"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "i dag",
+      "target": "aujourd'hui"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "i morgen",
+      "target": "demain"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "i går",
+      "target": "hier"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "ost",
+      "target": "fromage"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "smør",
+      "target": "beurre"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "kaffe",
+      "target": "café"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "te",
+      "target": "thé"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "vin",
+      "target": "vin"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "øl",
+      "target": "bière"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "ris",
+      "target": "riz"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "kartoffel",
+      "target": "pomme de terre"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomat",
+      "target": "tomate"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "løg",
+      "target": "oignon"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "citron",
+      "target": "citron"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "appelsin",
+      "target": "orange"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banan",
+      "target": "banane"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "drue",
+      "target": "raisin"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "gulerod",
+      "target": "carotte"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bønne",
+      "target": "haricot"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "mel",
+      "target": "farine"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "kage",
+      "target": "gâteau"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "kiks",
+      "target": "biscuit"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chokolade",
+      "target": "chocolat"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "is",
+      "target": "glace"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honning",
+      "target": "miel"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "suppe",
+      "target": "soupe"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salat",
+      "target": "salade"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "eddike",
+      "target": "vinaigre"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "peber",
+      "target": "poivre"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "saft",
+      "target": "jus"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "kylling",
+      "target": "poulet"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "gris",
+      "target": "cochon"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "får",
+      "target": "mouton"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "ged",
+      "target": "chèvre"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "kanin",
+      "target": "lapin"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mus",
+      "target": "souris"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bjørn",
+      "target": "ours"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "løve",
+      "target": "lion"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "ulv",
+      "target": "loup"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "ræv",
+      "target": "renard"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "abe",
+      "target": "singe"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elefant",
+      "target": "éléphant"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tigre"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraf",
+      "target": "girafe"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bi",
+      "target": "abeille"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "sommerfugl",
+      "target": "papillon"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "edderkop",
+      "target": "araignée"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "slange",
+      "target": "serpent"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "myre",
+      "target": "fourmi"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "flue",
+      "target": "mouche"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "myg",
+      "target": "moustique"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frø",
+      "target": "grenouille"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "haj",
+      "target": "requin"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "hval",
+      "target": "baleine"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "skildpadde",
+      "target": "tortue"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "gås",
+      "target": "oie"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "høne",
+      "target": "poule"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "kalkun",
+      "target": "dinde"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knæ",
+      "target": "genou"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "albue",
+      "target": "coude"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "læber",
+      "target": "lèvres"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "ryg",
+      "target": "dos"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "bryst",
+      "target": "poitrine"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "mave",
+      "target": "estomac"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "hjerne",
+      "target": "cerveau"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "negl",
+      "target": "ongle"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "skæg",
+      "target": "barbe"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tåre",
+      "target": "larme"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "køkken",
+      "target": "cuisine"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "badeværelse",
+      "target": "salle de bain"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "spejl",
+      "target": "miroir"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "kniv",
+      "target": "couteau"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "gaffel",
+      "target": "fourchette"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "ske",
+      "target": "cuillère"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "tallerken",
+      "target": "assiette"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "kop",
+      "target": "tasse"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "tag",
+      "target": "toit"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "sæbe",
+      "target": "savon"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "håndklæde",
+      "target": "serviette"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "børste",
+      "target": "brosse"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "paraply",
+      "target": "parapluie"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "kuffert",
+      "target": "valise"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "taske",
+      "target": "sac"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "tegnebog",
+      "target": "portefeuille"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "mønt",
+      "target": "pièce"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gave",
+      "target": "cadeau"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "legetøj",
+      "target": "jouet"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "dukke",
+      "target": "poupée"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "avis",
+      "target": "journal"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magasin",
+      "target": "magazine"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "film",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "hôpital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "kirke",
+      "target": "église"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "hôtel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "lufthavn",
+      "target": "aéroport"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "bibliotek",
+      "target": "bibliothèque"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "musée"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "parc"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "teater",
+      "target": "théâtre"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "apotek",
+      "target": "pharmacie"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "bus"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bro",
+      "target": "pont"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "slot",
+      "target": "château"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tårn",
+      "target": "tour"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "fabrik",
+      "target": "usine"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "strand",
+      "target": "plage"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "jungle"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "regnbue",
+      "target": "arc-en-ciel"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "torden",
+      "target": "tonnerre"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "røg",
+      "target": "fumée"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "aske",
+      "target": "cendre"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "sygeplejerske",
+      "target": "infirmier"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "advokat",
+      "target": "avocat"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "ingeniør",
+      "target": "ingénieur"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "forfatter",
+      "target": "écrivain"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "sanger",
+      "target": "chanteur"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "maler",
+      "target": "peintre"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "tjener",
+      "target": "serveur"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "landmand",
+      "target": "agriculteur"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "politibetjent",
+      "target": "policier"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "skjorte",
+      "target": "chemise"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "nederdel",
+      "target": "jupe"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "sokker",
+      "target": "chaussettes"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "handsker",
+      "target": "gants"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "bælte",
+      "target": "ceinture"
+    }
+  ]
+}

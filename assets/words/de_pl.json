@@ -1,0 +1,6009 @@
+{
+  "source": "de",
+  "target": "pl",
+  "sourceName": "Deutsch",
+  "targetName": "Polski",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "zu sein",
+      "target": "być"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "einer",
+      "target": "jeden"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "haben",
+      "target": "mieć"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "heiß",
+      "target": "gorący"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "Wort",
+      "target": "słowo"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "kann",
+      "target": "puszka"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "machen",
+      "target": "robić"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "Zeit",
+      "target": "czas"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "Wille",
+      "target": "wola"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "sagte",
+      "target": "powiedział"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "erzählen",
+      "target": "powiedz"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "setzen",
+      "target": "stały"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "drei",
+      "target": "trzy"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "Begehren",
+      "target": "życzenia"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "Luft",
+      "target": "powietrze"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "gut",
+      "target": "cóż"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "spielen",
+      "target": "odtwórz"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "klein",
+      "target": "mały"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "Ende",
+      "target": "koniec"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "setzen",
+      "target": "umieścić"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "Zuhause",
+      "target": "dom"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "lesen",
+      "target": "czytaj"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "Hand",
+      "target": "ręka"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "tragen",
+      "target": "przynieś"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "groß",
+      "target": "duży"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "Buchstabieren",
+      "target": "compite"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "hinzufügen",
+      "target": "dodaj"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "Land",
+      "target": "ziemia"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "groß",
+      "target": "duży"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "hoch",
+      "target": "wysoki"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "folgen",
+      "target": "śledź"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "handeln",
+      "target": "działaj"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "fragen",
+      "target": "zapytaj"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "Männer",
+      "target": "samce"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "eine Veränderung",
+      "target": "zmień"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "leicht",
+      "target": "światło"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "Art",
+      "target": "typ"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "ausgeschaltet",
+      "target": "wył"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "Notwendigkeit",
+      "target": "potrzeba"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "Haus",
+      "target": "dom"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "Bild",
+      "target": "obraz"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "versuchen",
+      "target": "spróbuj"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "Tier",
+      "target": "zwierzę"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "Punkt",
+      "target": "punkt"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "Mutter",
+      "target": "matka"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "Welt",
+      "target": "świat"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "nahe",
+      "target": "zamknij"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "bauen",
+      "target": "buduj"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "Erde",
+      "target": "ziemia"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "Vater",
+      "target": "ojcze"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "neu",
+      "target": "nowy"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "arbeiten",
+      "target": "praca"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "Teil",
+      "target": "część"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "nehmen",
+      "target": "weź"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "erhalten",
+      "target": "pobierz"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "Ort",
+      "target": "miejsce"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "leben",
+      "target": "na żywo"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "rund",
+      "target": "obróć"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "Mann",
+      "target": "człowiek"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "Jahr",
+      "target": "rok"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "zeigen",
+      "target": "pokaż"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "gut",
+      "target": "dobrze"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "geben",
+      "target": "daj"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "Name",
+      "target": "nazwa"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "Form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "Satz",
+      "target": "zdanie"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "groß",
+      "target": "duży"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "denken",
+      "target": "pomyśl"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "sagen",
+      "target": "powiedz"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "helfen",
+      "target": "pomoc"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "niedrig",
+      "target": "niski"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "Zeile",
+      "target": "linia"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "unterscheiden sich",
+      "target": "różne"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "drehen",
+      "target": "obróć"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "Ursache",
+      "target": "przyczyna"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "bedeutet",
+      "target": "powiedz"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "bewegen",
+      "target": "przenieś"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "richtig",
+      "target": "w prawo"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "Junge",
+      "target": "chłopcze"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "alt",
+      "target": "stare"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "verwenden",
+      "target": "użyj"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "Weg",
+      "target": "sposób"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "schreiben",
+      "target": "zapisz"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "lange",
+      "target": "długi"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "machen",
+      "target": "marka"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "Sache",
+      "target": "co"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "sehen",
+      "target": "patrz"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "zwei",
+      "target": "dwa"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "schau",
+      "target": "patrz"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "Tag",
+      "target": "dzień"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "gehen",
+      "target": "idź"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "kommen",
+      "target": "przyjdź"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "Zahl",
+      "target": "numer"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "Klang",
+      "target": "dźwięk"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "Menschen",
+      "target": "ludzie"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "wissen",
+      "target": "wiem"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "Wasser",
+      "target": "woda"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "rufen",
+      "target": "zadzwoń"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "zuerst",
+      "target": "najpierw"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "Seite",
+      "target": "boczny"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "finden",
+      "target": "znajdź"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "Kopf",
+      "target": "głowa"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stehen",
+      "target": "stojąc"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "eigenen",
+      "target": "dokładnie"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "Seite",
+      "target": "strona"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "Land",
+      "target": "kraj"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "gefunden",
+      "target": "ustanowienie"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "Antwort",
+      "target": "odpowiedź"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "Schule",
+      "target": "szkoła"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "wachsen",
+      "target": "rośnie"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "Studie",
+      "target": "badanie"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "lernen",
+      "target": "dowiedz się"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "Pflanze",
+      "target": "zakład"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "Abdeckung",
+      "target": "pokrywa"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "Nahrung",
+      "target": "jedzenie"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "Sonne",
+      "target": "słońce"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "vier",
+      "target": "cztery"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "Staat",
+      "target": "był"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "halten",
+      "target": "konserwacja"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "Auge",
+      "target": "oko"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "zuletzt",
+      "target": "ostatni"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "lassen",
+      "target": "opuść"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "Gedanke",
+      "target": "przemyślenia"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "Stadt",
+      "target": "miasto"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "Baum",
+      "target": "drzewo"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "kreuzen",
+      "target": "krzyżyk"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "Bauernhof",
+      "target": "gospodarstwo rolne"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hart",
+      "target": "trudne"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "starten",
+      "target": "początek"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "könnte",
+      "target": "siła"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "Geschichte",
+      "target": "historia"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "sah",
+      "target": "piła"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "weit weg",
+      "target": "daleko"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "Meer",
+      "target": "mare"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "ziehen",
+      "target": "rysuj"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "links",
+      "target": "w lewo"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "laufen",
+      "target": "uruchom"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "drücken",
+      "target": "drukowanie"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "schließen",
+      "target": "zamknij"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "Nacht",
+      "target": "noc"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "prawdziwe"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "Leben",
+      "target": "życie"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "Nord",
+      "target": "północ"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "Buch",
+      "target": "książka"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "tragen",
+      "target": "przynieś"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "Wissenschaft",
+      "target": "nauka"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "essen",
+      "target": "jedz"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "Zimmer",
+      "target": "pokój"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "Freund",
+      "target": "przyjacielu"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "begann",
+      "target": "rozpoczęte"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "Idee",
+      "target": "pomysł"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fischen",
+      "target": "ryby"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "Berg",
+      "target": "góry"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stopp",
+      "target": "zatrzymaj"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "Basis",
+      "target": "podstawa"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hören",
+      "target": "usłysz"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "Pferd",
+      "target": "koń"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "Schnitt",
+      "target": "cięcie"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sicher",
+      "target": "pewnie"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "beobachten",
+      "target": "zegar"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "Farbe",
+      "target": "kolor"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "Gesicht",
+      "target": "ściana"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "Holz",
+      "target": "drewno"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "Haupt",
+      "target": "główny"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "öffnen",
+      "target": "otwórz"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "scheinen",
+      "target": "wygląda"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "nächster",
+      "target": "dalej"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "weiß",
+      "target": "biały"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "Kinder",
+      "target": "dzieci"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "beginnen",
+      "target": "początek"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "gehen",
+      "target": "spacer"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "Beispiel",
+      "target": "przykład"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "Leichtigkeit",
+      "target": "zwolnij"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "Papier",
+      "target": "papier"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "Gruppe",
+      "target": "grupa"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "Musik",
+      "target": "muzyka"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "Marke",
+      "target": "marka"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "Buchstabe",
+      "target": "pismo"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "Meile",
+      "target": "mila"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "Fluss",
+      "target": "rzeki"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "Auto",
+      "target": "samochód"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "Füße",
+      "target": "stopy"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "Pflege",
+      "target": "ostrożnie"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "zweite",
+      "target": "po drugie"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "schlicht",
+      "target": "gładka"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "Mädchen",
+      "target": "dziewczyna"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "üblich",
+      "target": "zwykle"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "jung",
+      "target": "młody"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "bereit",
+      "target": "gotowy"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "rot",
+      "target": "czerwony"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "Liste",
+      "target": "lista"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "fühlen",
+      "target": "usłysz"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "sprechen",
+      "target": "rozmawiać"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "Vogel",
+      "target": "ptak"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "Körper",
+      "target": "ciało"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "Hund",
+      "target": "pies"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "Familie",
+      "target": "rodzina"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direkt",
+      "target": "bezpośrednio"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "Pose",
+      "target": "pozy"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "verlassen",
+      "target": "opuść"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "Lied",
+      "target": "piosenka"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "Maß",
+      "target": "zmierzyć"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "Tür",
+      "target": "drzwi"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "Produkt",
+      "target": "produkt"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "schwarz",
+      "target": "czarny"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "kurz",
+      "target": "krótki"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "Ziffer",
+      "target": "numeryczna"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "Klasse",
+      "target": "klasa"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "wiatr"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "Frage",
+      "target": "popyt"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "passieren",
+      "target": "tak się stało"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "vervollständigen",
+      "target": "całka"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "Schiff",
+      "target": "statek"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "Fläche",
+      "target": "obszar"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "halb",
+      "target": "połowa"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "Fels",
+      "target": "skała"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "Ordnung",
+      "target": "zamów"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "feuern",
+      "target": "ogień"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "Süden",
+      "target": "południe"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "Problem",
+      "target": "problem"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "Stück",
+      "target": "kawałek"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "erzählen",
+      "target": "powiedz"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "passieren",
+      "target": "zdał"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "oben",
+      "target": "szczyt"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "ganz",
+      "target": "wszystkie"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "König",
+      "target": "re"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "Straße",
+      "target": "ulica"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "Zoll",
+      "target": "kciuk"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "vervielfachen",
+      "target": "pomnożyć"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "Kurs",
+      "target": "kurs"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "bleiben",
+      "target": "zostań"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "Rad",
+      "target": "koło"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "voll",
+      "target": "ukończono"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "Kraft",
+      "target": "wigor"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blau",
+      "target": "niebieski"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "Einwand",
+      "target": "obiekt"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "entscheiden",
+      "target": "zdecyduj"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "Oberfläche",
+      "target": "powierzchnia"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "tief",
+      "target": "głębokość"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "Mond",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "Insel",
+      "target": "wyspa"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "Fuß",
+      "target": "stopa"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "System",
+      "target": "system"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "beschäftigt",
+      "target": "zajęty"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "Test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "Aufnahme",
+      "target": "rekord"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "Boot",
+      "target": "łódź"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "häufig",
+      "target": "wspólne"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "Gold",
+      "target": "złota"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "möglich",
+      "target": "możliwe"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "Flugzeug",
+      "target": "plan"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "statt",
+      "target": "zamiast tego"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "trocknen",
+      "target": "suchy"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wundern",
+      "target": "cudownie"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "lachen",
+      "target": "śmiej się"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "tausend",
+      "target": "tysiące"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "vor",
+      "target": "temu"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "lief",
+      "target": "biegi"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "überprüfen",
+      "target": "sprawdź"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "Spiel",
+      "target": "gra"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "Form",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "gleich",
+      "target": "równe"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "heiß",
+      "target": "gorący"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "vermissen",
+      "target": "przegrana"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "gebracht",
+      "target": "przyniesiono"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "Hitze",
+      "target": "ciepło"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "Schnee",
+      "target": "śnieg"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "Reifen",
+      "target": "pneumatyczny"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bringen",
+      "target": "przynieś"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distanziert",
+      "target": "daleko"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "füllen",
+      "target": "napełnianie"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "östlich",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "malen",
+      "target": "farba"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "Sprache",
+      "target": "język"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "Einheit",
+      "target": "jednostka"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "Macht",
+      "target": "zasilanie"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "Stadt",
+      "target": "miasto"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fein",
+      "target": "koniec"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "bestimmte",
+      "target": "pewnie"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fliegen",
+      "target": "latać"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fallen",
+      "target": "upadek"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "führen",
+      "target": "prowadzić"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "weinen",
+      "target": "płacz"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dunkel",
+      "target": "ciemny"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "Maschine",
+      "target": "maszyna"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "Hinweis",
+      "target": "uwaga"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "warten",
+      "target": "zaczekaj"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "planen",
+      "target": "plan"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "Zahl",
+      "target": "rysunek"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "Stern",
+      "target": "gwiazdka"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "Schachtel",
+      "target": "pudełko"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "Nomen",
+      "target": "rzeczownik"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "Feld",
+      "target": "pole"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "ruhen",
+      "target": "zostań"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "richtig",
+      "target": "prawidłowe"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "fähig",
+      "target": "można"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "Pfund",
+      "target": "funt"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "fertig",
+      "target": "zrobione"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "Schönheit",
+      "target": "piękno"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "Antrieb",
+      "target": "napęd"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "aufstehen",
+      "target": "wstać"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "enthalten",
+      "target": "zawiera"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "vorne",
+      "target": "przedni"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "unterrichten",
+      "target": "uczyć"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "Woche",
+      "target": "tydzień"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "endgültig",
+      "target": "finał"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "geben",
+      "target": "daj"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "grün",
+      "target": "zielony"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "schnell",
+      "target": "szybko"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "entwickeln",
+      "target": "rozwijaj"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "Ozean",
+      "target": "ocean"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "gorący"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "frei",
+      "target": "wolny"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "Minute",
+      "target": "minuta"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "stark",
+      "target": "silne"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "spezielles",
+      "target": "specjalne"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "Verstand",
+      "target": "uwaga"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "klar",
+      "target": "wyczyść"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "Schwanz",
+      "target": "ogon"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produzieren",
+      "target": "produkuj"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "Tatsache",
+      "target": "gotowe"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "Raum",
+      "target": "spacja"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "gehört",
+      "target": "usłyszano"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "beste",
+      "target": "najlepiej"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "Stunde",
+      "target": "teraz"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "besser",
+      "target": "lepiej"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "wahr",
+      "target": "prawdziwy"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundert",
+      "target": "stu"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "fünf",
+      "target": "pięć"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "erinnern",
+      "target": "pamiętaj"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "Schritt",
+      "target": "krok"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "halten",
+      "target": "zachowaj"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "Westen",
+      "target": "zachód"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "Boden",
+      "target": "ziemia"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "Zinsen",
+      "target": "zainteresowanie"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "erreichen",
+      "target": "zasięg"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "schnell",
+      "target": "szybko"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "Verb",
+      "target": "czasownik"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "singen",
+      "target": "śpiewaj"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "zuhören",
+      "target": "słuchaj"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "sechs",
+      "target": "sześć"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "Tabelle",
+      "target": "stół"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "reisen",
+      "target": "podróżować"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morgens",
+      "target": "rano"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "zehn",
+      "target": "dziesięć"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "einfach",
+      "target": "proste"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "Vokal",
+      "target": "wokal"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "Krieg",
+      "target": "wojna"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "legen",
+      "target": "umieścić"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "Muster",
+      "target": "model"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "langsam",
+      "target": "powoli"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "zentrieren",
+      "target": "środek"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "lieben",
+      "target": "miłość"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "osoba"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "Geld",
+      "target": "pieniądze"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "servieren",
+      "target": "służyć"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "erscheinen",
+      "target": "pojawi się"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "Karte",
+      "target": "mapa"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "Regen",
+      "target": "deszcz"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "Regel",
+      "target": "reguła"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "regieren",
+      "target": "rządzić"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "ziehen",
+      "target": "Pociągnąć"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "kalt",
+      "target": "zimny"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "Hinweis",
+      "target": "uwaga"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "Stimme",
+      "target": "głos"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "Energie",
+      "target": "energii"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "jagen",
+      "target": "polowanie"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "wahrscheinlich",
+      "target": "prawdopodobne"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "Bett",
+      "target": "łóżko"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "Bruder",
+      "target": "bracie"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "Ei",
+      "target": "jajko"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "fahren",
+      "target": "okrągły"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "Zelle",
+      "target": "komórka"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "glauben",
+      "target": "uwierz"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "auswählen",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "plötzlich",
+      "target": "nagłe"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "zählen",
+      "target": "zlicz"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "quadratisch",
+      "target": "kwadrat"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "Grund",
+      "target": "powód"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "Länge",
+      "target": "długość"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "vertreten",
+      "target": "reprezentować"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "Kunst",
+      "target": "sztuka"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "Gegenstand",
+      "target": "temat"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "Region",
+      "target": "region"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "Größe",
+      "target": "rozmiar"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "variieren",
+      "target": "różne"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "sich niederlassen",
+      "target": "rozwiąż"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "sprechen",
+      "target": "porozmawiaj"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "Gewicht",
+      "target": "waga"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "allgemein",
+      "target": "ogólne"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "Eis",
+      "target": "lód"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "Sache",
+      "target": "ważne"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "umkreisen",
+      "target": "okrąg"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "Paar",
+      "target": "para"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "einschließen",
+      "target": "dołącz"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "teilen",
+      "target": "dzieli"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "Silbe",
+      "target": "sylaba"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "gefühlt",
+      "target": "filcu"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "groß",
+      "target": "duży"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "Ball",
+      "target": "kulka"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "winken",
+      "target": "onda"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "Tropfen",
+      "target": "upadek"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "Herz",
+      "target": "serce"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "präsentieren",
+      "target": "obecny"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "schwer",
+      "target": "ciężki"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "tanzen",
+      "target": "tańcz"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "Motor",
+      "target": "silnik"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "Position",
+      "target": "lokalizacja"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "ramię"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "breit",
+      "target": "szeroki"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "segeln",
+      "target": "żagiel"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "materiał"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "Bruch",
+      "target": "ułamek"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "Wald",
+      "target": "leśny"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sitzen",
+      "target": "usiądź"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "Rasse",
+      "target": "wyścig"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "Fenster",
+      "target": "okno"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "Laden",
+      "target": "sklep"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "Sommer",
+      "target": "lato"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "trainieren",
+      "target": "pociąg"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "schlafen",
+      "target": "uśpienia"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "beweisen",
+      "target": "zademonstrować"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "einsam",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "Bein",
+      "target": "noga"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "Übung",
+      "target": "ćwiczenia"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "Wand",
+      "target": "ściana"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "fangen",
+      "target": "weź"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "Montieren",
+      "target": "zamontować"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "Wunsch",
+      "target": "pożądanie"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "Himmel",
+      "target": "niebo"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "Brett",
+      "target": "emerytura"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "Freude",
+      "target": "radość"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "Winter",
+      "target": "zima"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "geschrieben",
+      "target": "napisane"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "dziki"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "Instrument",
+      "target": "przyrząd"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "gehalten",
+      "target": "zachowaj"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "Glas",
+      "target": "szkło"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "Gras",
+      "target": "trawa"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "Kuh",
+      "target": "krowa"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "Stelle",
+      "target": "praca"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "Rand",
+      "target": "krawędź"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "Zeichen",
+      "target": "podpisz"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "besuchen",
+      "target": "odwiedź stronę"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "vorbei",
+      "target": "przeszłość"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "weich",
+      "target": "miękki"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "Spaß machen",
+      "target": "zabawa"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "hell",
+      "target": "jasne"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gaz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "Wetter",
+      "target": "czas"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "Monat",
+      "target": "miesiąc"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "Millionen",
+      "target": "milionów"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "ertragen",
+      "target": "niedźwiedź"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "beenden",
+      "target": "kończenie"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "glücklich",
+      "target": "szczęśliwy"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "Hoffnung",
+      "target": "nadzieja"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "Blume",
+      "target": "kwiat"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "kleiden",
+      "target": "sukienka"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "seltsam",
+      "target": "dziwne"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "gehen",
+      "target": "idź"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "Handel",
+      "target": "handel"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "Melodie",
+      "target": "melodia"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "Ausflug",
+      "target": "podróż"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "Büro",
+      "target": "biuro"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "empfangen",
+      "target": "odbieranie"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "Reif",
+      "target": "wiersz"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "Mund",
+      "target": "usta"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "genau",
+      "target": "dokładnie"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "Symbol",
+      "target": "symbol"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "sterben",
+      "target": "umrzeć"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "Ärger",
+      "target": "trudności"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "schreien",
+      "target": "krzycz"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "Samen",
+      "target": "nasiona"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "Ton",
+      "target": "ton"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "beitreten",
+      "target": "trzymać"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "vorschlagen",
+      "target": "zaproponuj"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "sauber",
+      "target": "oczyścić"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "Bruch",
+      "target": "wstrzymanie"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "Dame",
+      "target": "Pani"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "Hof",
+      "target": "plac budowy"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "steigen",
+      "target": "wspinaczka"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "schlecht",
+      "target": "źle"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "Schlag",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "Öl",
+      "target": "olej"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "Blut",
+      "target": "krwi"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "berühren",
+      "target": "dotknij"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "gewachsen",
+      "target": "urosła"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "cent"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mischen",
+      "target": "wymieszać"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "Team",
+      "target": "drużyna"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "Draht",
+      "target": "gwint"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "Kosten",
+      "target": "koszt"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "verloren",
+      "target": "utracone"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "braun",
+      "target": "brązowy"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "tragen",
+      "target": "zużycie"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "Garten",
+      "target": "ogród"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "gleich",
+      "target": "Równe"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "gesendet",
+      "target": "wysłano"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "wählen",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fiel",
+      "target": "upadł"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "passen",
+      "target": "przystosować"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "Fluss",
+      "target": "przepływ"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "Messe",
+      "target": "uczciwy"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "bank"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "sammeln",
+      "target": "zbieraj"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "spart",
+      "target": "zapisz"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "steuern",
+      "target": "sterowanie"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "dezimal",
+      "target": "dziesiętny"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "Ohr",
+      "target": "ucho"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "pleite",
+      "target": "złamane"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "Fall",
+      "target": "przypadek"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "Mitte",
+      "target": "połowa"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "töten",
+      "target": "zabić"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "Sohn",
+      "target": "synu"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "See",
+      "target": "jezioro"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "moment"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "Skala",
+      "target": "skala"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "laut",
+      "target": "silne"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "Frühling",
+      "target": "sprężyna"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "beobachten",
+      "target": "obserwuj"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "Kind",
+      "target": "dziecko"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "gerade",
+      "target": "prosto"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "Konsonant",
+      "target": "spółgłoska"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "Nation",
+      "target": "naród"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "Wörterbuch",
+      "target": "słownik"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "Milch",
+      "target": "mleko"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "Geschwindigkeit",
+      "target": "prędkość"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "Methode",
+      "target": "metoda"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "narząd"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "bezahlen",
+      "target": "zapłać"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "Alter",
+      "target": "wiek"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "Abschnitt",
+      "target": "sekcja"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "Kleid",
+      "target": "sukienka"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "Wolke",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "Überraschung",
+      "target": "niespodzianka"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "ruhig",
+      "target": "cichy"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "Stein",
+      "target": "kamień"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "klein",
+      "target": "mały"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "klettern",
+      "target": "wspinać się"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "kühl",
+      "target": "świeże"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "Design",
+      "target": "projekt"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "arm",
+      "target": "słabe"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "viel",
+      "target": "partia"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "Experiment",
+      "target": "eksperyment"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "unten",
+      "target": "dół"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "Schlüssel",
+      "target": "klucz"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "bügeln",
+      "target": "żelazo"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "einzeln",
+      "target": "pojedyncze"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "Stock",
+      "target": "ramię"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flach",
+      "target": "mieszkanie"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "zwanzig",
+      "target": "dwadzieścia"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "Haut",
+      "target": "skóra"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "lächeln",
+      "target": "uśmiechnij się"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "Falten",
+      "target": "złóż"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "Loch",
+      "target": "foro"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "springen",
+      "target": "skok"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "dziecko"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "acht",
+      "target": "osiem"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "Dorf",
+      "target": "wieś"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "treffen",
+      "target": "spotykają się"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "Wurzel",
+      "target": "korzeń"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "kaufen",
+      "target": "kup"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "erhöhen",
+      "target": "zwiększyć"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "lösen",
+      "target": "rozwiąż"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "Metall",
+      "target": "metalowy"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "drücken",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "sieben",
+      "target": "siedem"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "Absatz",
+      "target": "akapit"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "dritte",
+      "target": "po trzecie"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "gehalten",
+      "target": "wstrzymane"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "Haare",
+      "target": "włosy"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "beschreiben",
+      "target": "opisz"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "Koch",
+      "target": "gotuj"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "Etage",
+      "target": "plan"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "Ergebnis",
+      "target": "wynik"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "brennen",
+      "target": "wypal"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "Hügel",
+      "target": "wzgórze"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "sicher",
+      "target": "pewnie"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "Katze",
+      "target": "kat"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "Jahrhundert",
+      "target": "wiek"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "betrachten",
+      "target": "rozważ"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "Typ",
+      "target": "typ"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "Gesetz",
+      "target": "prawo"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "Küste",
+      "target": "koszt"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "Kopie",
+      "target": "kopiuj"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "Phrase",
+      "target": "zdanie"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "still",
+      "target": "cichy"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "hoch",
+      "target": "wysoki"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "piasek"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "Boden",
+      "target": "masa"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "Rolle",
+      "target": "rolka"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "Temperatur",
+      "target": "temperatura"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "Finger",
+      "target": "dito"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "Industrie",
+      "target": "przemysł"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "Wert",
+      "target": "wartość"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "kämpfen",
+      "target": "walcz"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lüge",
+      "target": "kłamać"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "schlagen",
+      "target": "uderzenie"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "erregen",
+      "target": "podniecenie"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natürlich",
+      "target": "naturalne"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "Ansicht",
+      "target": "wyświetl"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "Sinn",
+      "target": "wyczuwanie"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "Kapital",
+      "target": "kapitał"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "Stuhl",
+      "target": "krzesło"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "Gefahr",
+      "target": "niebezpieczeństwo"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "Frucht",
+      "target": "owoce"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "reich",
+      "target": "bogaty"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "dick",
+      "target": "często"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "Soldat",
+      "target": "żołnierz"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "Prozess",
+      "target": "proces"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operieren",
+      "target": "uruchomić"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "üben",
+      "target": "ćwicz"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separat",
+      "target": "oddziel"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "schwierig",
+      "target": "trudne"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "Arzt",
+      "target": "lekarz"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "bitte",
+      "target": "Proszę"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "schützen",
+      "target": "ochrona"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "Mittag",
+      "target": "południe"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "Ernte",
+      "target": "zbiór"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "nowoczesny"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "Element",
+      "target": "element"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "schlagen",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "Student",
+      "target": "studenta"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "Ecke",
+      "target": "narożnik"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "Partei",
+      "target": "impreza"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "Versorgung",
+      "target": "zasilanie"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "lokalisieren",
+      "target": "zlokalizuj"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "Ring",
+      "target": "pierścień"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "Charakter",
+      "target": "charakter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "Insekt",
+      "target": "owady"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "erwischt",
+      "target": "Złapany"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "Periode",
+      "target": "okres"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "anzeigen",
+      "target": "wskaż"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "Radio",
+      "target": "radioodtwarzacz"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "Speiche",
+      "target": "promień"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atom"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "menschlich",
+      "target": "człowieka"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "Geschichte",
+      "target": "historia"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "Wirkung",
+      "target": "efekt"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "elektrisch",
+      "target": "elektryczne"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "erwarten",
+      "target": "zaczekaj"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "Knochen",
+      "target": "osso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "Schiene",
+      "target": "kolej"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "vorstellen",
+      "target": "wyobraź sobie"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "bieten",
+      "target": "zapewnij"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "zustimmen",
+      "target": "zgadzam się"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "sanft",
+      "target": "słodka"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "Frau",
+      "target": "kobieta"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "Kapitän",
+      "target": "kapitanie"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "raten",
+      "target": "zgadnijcie"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "notwendig",
+      "target": "konieczne"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "scharf",
+      "target": "ostry"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "Flügel",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "erstellen",
+      "target": "utwórz"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "Nachbar",
+      "target": "dalej"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "waschen",
+      "target": "mycie"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "Fledermaus",
+      "target": "nietoperz"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "Menge",
+      "target": "tłum"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "Mais",
+      "target": "mais"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "vergleichen",
+      "target": "porównaj"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "Gedicht",
+      "target": "poezja"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "Zeichenfolge",
+      "target": "ciąg znaków"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "Glocke",
+      "target": "dzwonek"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "abhängig sein",
+      "target": "zależy"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "Fleisch",
+      "target": "mięso"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "reiben",
+      "target": "pocierać"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "Röhre",
+      "target": "rura"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "berühmt",
+      "target": "sławny"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dolar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "Strom",
+      "target": "strumień"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "Angst",
+      "target": "strach"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "Anblick",
+      "target": "wyświetl"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "dünn",
+      "target": "cienki"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "Dreieck",
+      "target": "trójkąt"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "Planet",
+      "target": "planeta"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "beeilen",
+      "target": "pospiesz się"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "Oberhaupt",
+      "target": "szef"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "Kolonie",
+      "target": "kolonii"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "Uhr",
+      "target": "zegar"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "kopalnia"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "binden",
+      "target": "opaska"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "betreten",
+      "target": "wstaw"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "größer",
+      "target": "większy"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "frisch",
+      "target": "świeże"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "Suche",
+      "target": "badania"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "senden",
+      "target": "wyślij"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "gelb",
+      "target": "żółty"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "Pistole",
+      "target": "pistolet"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "erlauben",
+      "target": "zezwól"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "drucken",
+      "target": "drukowanie"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "tot",
+      "target": "martwy"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "Fleck",
+      "target": "plama"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desertieren",
+      "target": "pustynia"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "Anzug",
+      "target": "kombinezon"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "aktuell",
+      "target": "prąd"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "Aufzug",
+      "target": "przenośnik"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "Rose",
+      "target": "róża"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "ankommen",
+      "target": "przyjedź"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "Meister",
+      "target": "mistrz"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "Spur",
+      "target": "ścieżka"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "Elternteil",
+      "target": "rodzic"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "Ufer",
+      "target": "brzeg"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "Teilung",
+      "target": "podział"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "Blatt",
+      "target": "arkusz"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "Substanz",
+      "target": "substancja"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "begünstigen",
+      "target": "zachęć"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "verbinden",
+      "target": "podłącz"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "posten",
+      "target": "wiadomość"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "ausgeben",
+      "target": "wydaj"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "Akkord",
+      "target": "umowa"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fett",
+      "target": "tłuszcz"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "froh",
+      "target": "szczęśliwy"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "oryginał"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "teilen",
+      "target": "przydział"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "Station",
+      "target": "stacja"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "Vater",
+      "target": "tato"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "Brot",
+      "target": "chleb"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "Ladung",
+      "target": "ładowanie"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "richtig",
+      "target": "prawidłowe"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "bieten",
+      "target": "oferta"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "Segment",
+      "target": "segment"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "Sklave",
+      "target": "niewolnik"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "Ente",
+      "target": "kaczka"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "sofortig",
+      "target": "natychmiast"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "Markt",
+      "target": "rynku"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "Grad",
+      "target": "stopień"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "bevölkern",
+      "target": "popularne"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "Küken",
+      "target": "pisklęta"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "lieber",
+      "target": "szanowny panie"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "Feind",
+      "target": "wróg"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "Antwort",
+      "target": "odpowiedz"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "trinken",
+      "target": "pić"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "auftreten",
+      "target": "występuje"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "Unterstützung",
+      "target": "wsparcie"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "Rede",
+      "target": "przemówienie"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "Natur",
+      "target": "przyroda"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "Reichweite",
+      "target": "zakres"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "Dampf",
+      "target": "para"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "Bewegung",
+      "target": "ruch"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "Pfad",
+      "target": "ścieżka"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "flüssig",
+      "target": "ciecz"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "Baumstamm",
+      "target": "bagażnik"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "bedeutet",
+      "target": "średnia"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "Quotient",
+      "target": "iloraz"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "Zähne",
+      "target": "zęby"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "Schale",
+      "target": "skorupa"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "Hals",
+      "target": "szyjka"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "Sauerstoff",
+      "target": "tlenu"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "Zucker",
+      "target": "cukier"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "Tod",
+      "target": "śmierć"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "Fähigkeit",
+      "target": "zdolność"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "Frauen",
+      "target": "kobiety"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "Jahreszeit",
+      "target": "sezon"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "Lösung",
+      "target": "rozwiązanie"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "Magnet",
+      "target": "magnes"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silber",
+      "target": "srebrny"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "danke",
+      "target": "dziękuję"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "Zweig",
+      "target": "odgałęzienie"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "Übereinstimmung",
+      "target": "dopasowanie"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "Suffix",
+      "target": "wyznacznik"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "besonders",
+      "target": "szczególnie"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "Feige",
+      "target": "fico"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "Angst",
+      "target": "strach"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "riesig",
+      "target": "ogromne"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "Schwester",
+      "target": "siostro"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "Stahl",
+      "target": "stal"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "diskutieren",
+      "target": "dyskutować"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "ähnlich",
+      "target": "podobne"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "Führer",
+      "target": "napęd"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "erleben",
+      "target": "doświadczenie"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "Punktzahl",
+      "target": "wynik"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "Apfel",
+      "target": "jabłko"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "gekauft",
+      "target": "kupiłem"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "führte",
+      "target": "przyniesiono"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "Tonhöhe",
+      "target": "nachylenie"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "Mantel",
+      "target": "płaszcz"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "Masse",
+      "target": "masa"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "Karte",
+      "target": "karta"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "Seil",
+      "target": "lina"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "Schlupf",
+      "target": "poślizg"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "gewinnen",
+      "target": "zwycięstwo"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "träumen",
+      "target": "sen"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "abends",
+      "target": "sera"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "Bedingung",
+      "target": "warunek"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "füttern",
+      "target": "karmienie"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "Werkzeug",
+      "target": "przyrząd"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "insgesamt",
+      "target": "łącznie"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "grundlegend",
+      "target": "podstawowe"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "riechen",
+      "target": "zapach"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "Tal",
+      "target": "dolina"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "doppelt",
+      "target": "podwójne"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "Sitz",
+      "target": "siedzisko"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "weiter",
+      "target": "kontynuuj"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "ein Block",
+      "target": "blok"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "Diagramm",
+      "target": "wykres"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "Hut",
+      "target": "kapelusz"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "verkaufen",
+      "target": "sprzedaj"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "Erfolg",
+      "target": "sukces"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "ein Unternehmen",
+      "target": "firmy"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtrahieren",
+      "target": "odejmij"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "Ereignis",
+      "target": "zdarzenie"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "besonders",
+      "target": "w szczególności"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "Geschäft",
+      "target": "biznes"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "schwimmen",
+      "target": "pływanie"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "Begriff",
+      "target": "termin"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "gegenüber",
+      "target": "odwrotnie"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "Ehefrau",
+      "target": "żona"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "Schuh",
+      "target": "kosz sitowy"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "Schulter",
+      "target": "ramię"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "Verbreitung",
+      "target": "spargere"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrangieren",
+      "target": "organizuj"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "ein Lager",
+      "target": "pole"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "erfinden",
+      "target": "wymyślić"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "Baumwolle",
+      "target": "bawełna"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "Geburt",
+      "target": "urodzenie"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "bestimmen",
+      "target": "określić"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "ćwierć galonu"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "neun",
+      "target": "dziewięć"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "Lastwagen",
+      "target": "ciężarówka"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "Lärm",
+      "target": "hałas"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "Ebene",
+      "target": "poziom"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "Chance",
+      "target": "możliwość"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "sammeln",
+      "target": "zbieraj"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "Laden",
+      "target": "sklep"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "Landstück",
+      "target": "przewód"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "werfen",
+      "target": "rzuć"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "glänzen",
+      "target": "połysk"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "Eigentum",
+      "target": "nieruchomości"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "Spalte",
+      "target": "kolumna"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "Molekül",
+      "target": "cząsteczka"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "wählen",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "falsch",
+      "target": "źle"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "grau",
+      "target": "szary"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "wiederholen",
+      "target": "powtarzanie"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "erfordern",
+      "target": "żądanie"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "breit",
+      "target": "szeroki"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "vorbereiten",
+      "target": "przygotuj się"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "Salz",
+      "target": "sale"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "Nase",
+      "target": "nos"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "liczba mnoga"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "Wut",
+      "target": "złość"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "Forderung",
+      "target": "żądanie"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "Kontinent",
+      "target": "kontynent"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "Bildschirm",
+      "target": "ekran"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "Flasche",
+      "target": "butelka"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "Lampe",
+      "target": "lampa"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "Telefon",
+      "target": "telefon"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "Hosen",
+      "target": "spodnie"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "Wange",
+      "target": "policzek"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "Bleistift",
+      "target": "ołówek"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "Stift",
+      "target": "pióro"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "Palast",
+      "target": "pałac"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "Flugzeug",
+      "target": "samolot"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "Fahrrad",
+      "target": "rower"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "Computer",
+      "target": "komputerów"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "Restaurant",
+      "target": "restauracja"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "Vase",
+      "target": "wazon"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "Rakete",
+      "target": "rakieta"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "Beute",
+      "target": "módl się"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "Universität",
+      "target": "uniwersytety"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "Treppe",
+      "target": "scale"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "Motorrad",
+      "target": "motocykl"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "Jacke",
+      "target": "kurtka"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "schreien",
+      "target": "krzycz"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "Freude",
+      "target": "radość"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "Tochter",
+      "target": "córka"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "Ehemann",
+      "target": "mąż"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "Großmutter",
+      "target": "babcia"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "Großvater",
+      "target": "dziadek"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "Onkel",
+      "target": "wujek"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "Tante",
+      "target": "ciotka"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "Cousin",
+      "target": "kuzyn"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "Herbst",
+      "target": "jesień"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "heute",
+      "target": "dzisiaj"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "morgen",
+      "target": "jutro"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "gestern",
+      "target": "wczoraj"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "Käse",
+      "target": "ser"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "Butter",
+      "target": "masło"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "Kaffee",
+      "target": "kawa"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "Tee",
+      "target": "herbata"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "Wein",
+      "target": "wino"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "Bier",
+      "target": "piwo"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "Reis",
+      "target": "ryż"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "Kartoffel",
+      "target": "ziemniak"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "Tomate",
+      "target": "pomidor"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "Zwiebel",
+      "target": "cebula"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "Zitrone",
+      "target": "cytryna"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "Orange",
+      "target": "pomarańcza"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "Banane",
+      "target": "banan"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "Traube",
+      "target": "winogrono"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "Karotte",
+      "target": "marchew"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "Bohne",
+      "target": "fasola"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "Mehl",
+      "target": "mąka"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "Kuchen",
+      "target": "ciasto"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "Keks",
+      "target": "ciastko"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "Schokolade",
+      "target": "czekolada"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "Eis",
+      "target": "lody"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "Honig",
+      "target": "miód"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "Suppe",
+      "target": "zupa"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "Salat",
+      "target": "sałatka"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "Essig",
+      "target": "ocet"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "Pfeffer",
+      "target": "pieprz"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "Saft",
+      "target": "sok"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "Huhn",
+      "target": "kurczak"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "Schwein",
+      "target": "świnia"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "Schaf",
+      "target": "owca"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "Ziege",
+      "target": "koza"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "Kaninchen",
+      "target": "królik"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "Maus",
+      "target": "mysz"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "Bär",
+      "target": "niedźwiedź"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "Löwe",
+      "target": "lew"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "Wolf",
+      "target": "wilk"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "Fuchs",
+      "target": "lis"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "Affe",
+      "target": "małpa"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "Elefant",
+      "target": "słoń"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "Tiger",
+      "target": "tygrys"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "Giraffe",
+      "target": "żyrafa"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "Biene",
+      "target": "pszczoła"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "Schmetterling",
+      "target": "motyl"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "Spinne",
+      "target": "pająk"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "Schlange",
+      "target": "wąż"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "Ameise",
+      "target": "mrówka"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "Fliege",
+      "target": "mucha"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "Mücke",
+      "target": "komar"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "Frosch",
+      "target": "żaba"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "Hai",
+      "target": "rekin"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "Wal",
+      "target": "wieloryb"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "Schildkröte",
+      "target": "żółw"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "Gans",
+      "target": "gęś"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "Henne",
+      "target": "kura"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "Truthahn",
+      "target": "indyk"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "Knie",
+      "target": "kolano"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "Ellbogen",
+      "target": "łokieć"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "Lippen",
+      "target": "usta"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "Rücken",
+      "target": "plecy"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "Brust",
+      "target": "pierś"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "Magen",
+      "target": "żołądek"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "Gehirn",
+      "target": "mózg"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "Nagel",
+      "target": "paznokieć"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "Bart",
+      "target": "broda"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "Träne",
+      "target": "łza"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "Küche",
+      "target": "kuchnia"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "Badezimmer",
+      "target": "łazienka"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "Spiegel",
+      "target": "lustro"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "Messer",
+      "target": "nóż"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "Gabel",
+      "target": "widelec"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "Löffel",
+      "target": "łyżka"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "Teller",
+      "target": "talerz"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "Tasse",
+      "target": "filiżanka"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "Dach",
+      "target": "dach"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "Seife",
+      "target": "mydło"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "Handtuch",
+      "target": "ręcznik"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "Bürste",
+      "target": "szczotka"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "Regenschirm",
+      "target": "parasol"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "Koffer",
+      "target": "walizka"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "Tasche",
+      "target": "torba"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "Geldbörse",
+      "target": "portfel"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "Münze",
+      "target": "moneta"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "Geschenk",
+      "target": "prezent"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "Spielzeug",
+      "target": "zabawka"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "Puppe",
+      "target": "lalka"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "Zeitung",
+      "target": "gazeta"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "Zeitschrift",
+      "target": "czasopismo"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "Film",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "Krankenhaus",
+      "target": "szpital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "Kirche",
+      "target": "kościół"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "Hotel",
+      "target": "hotel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "Flughafen",
+      "target": "lotnisko"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "Bibliothek",
+      "target": "biblioteka"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "Museum",
+      "target": "muzeum"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "Park",
+      "target": "park"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "Theater",
+      "target": "teatr"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "Apotheke",
+      "target": "apteka"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "Bus",
+      "target": "autobus"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "Brücke",
+      "target": "most"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "Schloss",
+      "target": "zamek"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "Turm",
+      "target": "wieża"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "Fabrik",
+      "target": "fabryka"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "Strand",
+      "target": "plaża"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "Dschungel",
+      "target": "dżungla"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "Regenbogen",
+      "target": "tęcza"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "Donner",
+      "target": "grzmot"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "Rauch",
+      "target": "dym"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "Asche",
+      "target": "popiół"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "Krankenpfleger",
+      "target": "pielęgniarz"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "Anwalt",
+      "target": "prawnik"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "Ingenieur",
+      "target": "inżynier"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "Schriftsteller",
+      "target": "pisarz"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "Sänger",
+      "target": "piosenkarz"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "Maler",
+      "target": "malarz"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "Kellner",
+      "target": "kelner"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "Bauer",
+      "target": "rolnik"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "Polizist",
+      "target": "policjant"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "Hemd",
+      "target": "koszula"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "Rock",
+      "target": "spódnica"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "Socken",
+      "target": "skarpetki"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "Handschuhe",
+      "target": "rękawiczki"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "Gürtel",
+      "target": "pasek"
+    }
+  ]
+}

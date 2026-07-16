@@ -1,0 +1,6009 @@
+{
+  "source": "fr",
+  "target": "it",
+  "sourceName": "Français",
+  "targetName": "Italiano",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "être",
+      "target": "essere"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "un",
+      "target": "uno"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "avoir",
+      "target": "avere"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "chaud",
+      "target": "caldo"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "mot",
+      "target": "parola"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "boîte",
+      "target": "lattina"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "faire",
+      "target": "fare"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "temps",
+      "target": "tempo"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "volonté",
+      "target": "volontà"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "dit",
+      "target": "detto"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "dire",
+      "target": "dire"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "fixe",
+      "target": "fisso"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "trois",
+      "target": "tre"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "désirer",
+      "target": "desiderare"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "aria"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "bien",
+      "target": "bene"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "jouer",
+      "target": "giocare"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "petit",
+      "target": "piccolo"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "fin",
+      "target": "fine"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "mettre",
+      "target": "mettere"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "maison",
+      "target": "casa"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "lire",
+      "target": "leggere"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "main",
+      "target": "mano"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "porter",
+      "target": "portare"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "comptez",
+      "target": "compitare"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "ajouter",
+      "target": "aggiungere"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "terre",
+      "target": "terra"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "haut",
+      "target": "alto"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "suivre",
+      "target": "seguire"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "acte",
+      "target": "atto"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "demander",
+      "target": "chiedere"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "mâles",
+      "target": "maschi"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "changement",
+      "target": "cambiamento"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "lumière",
+      "target": "luce"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "type",
+      "target": "tipo"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "éteint",
+      "target": "spento"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "besoin",
+      "target": "bisogno"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "maison",
+      "target": "casa"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "immagine"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "essayer",
+      "target": "provare"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "animale"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "punto"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mère",
+      "target": "madre"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "monde",
+      "target": "mondo"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "près",
+      "target": "vicino"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "construire",
+      "target": "costruire"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "terre",
+      "target": "terra"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "père",
+      "target": "padre"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "nouveau",
+      "target": "nuovo"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "travail",
+      "target": "lavoro"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "partie",
+      "target": "parte"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "prendre",
+      "target": "prendere"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "obtenir",
+      "target": "ottenere"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "posto"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "vivre",
+      "target": "vivere"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "tour",
+      "target": "turno"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "homme",
+      "target": "uomo"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "année",
+      "target": "anno"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "spectacle",
+      "target": "spettacolo"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "bon",
+      "target": "buono"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "donner",
+      "target": "dare"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "nom",
+      "target": "nome"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "forma",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "phrase",
+      "target": "frase"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "penser",
+      "target": "pensare"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "dire",
+      "target": "dire"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "aider",
+      "target": "aiutare"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "bas",
+      "target": "basso"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "ligne",
+      "target": "linea"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "différer",
+      "target": "differire"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "tour",
+      "target": "turno"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "causa"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "dire",
+      "target": "dire"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "déplacer",
+      "target": "spostare"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "droit",
+      "target": "diritto"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "garçon",
+      "target": "ragazzo"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "vieux",
+      "target": "vecchio"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "utilisation",
+      "target": "uso"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "manière",
+      "target": "modo"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "écrire",
+      "target": "scrivere"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "lungo"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "rendre",
+      "target": "rendere"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "quoi",
+      "target": "cosa"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "voir",
+      "target": "vedere"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "deux",
+      "target": "due"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "regarder",
+      "target": "guardare"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "jour",
+      "target": "giorno"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "aller",
+      "target": "andare"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "venir",
+      "target": "venire"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "numéro",
+      "target": "numero"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "son",
+      "target": "suono"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "personnes",
+      "target": "persone"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "savoir",
+      "target": "sapere"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "eau",
+      "target": "acqua"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "appel",
+      "target": "chiamata"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "premier",
+      "target": "primo"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "côté",
+      "target": "lato"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "trouver",
+      "target": "trovare"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "tête",
+      "target": "testa"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "se tenir debout",
+      "target": "stare in piedi"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "précisément",
+      "target": "proprio"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "pagina"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "pays",
+      "target": "paese"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "fonder",
+      "target": "fondare"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "réponse",
+      "target": "risposta"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "école",
+      "target": "scuola"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grandir",
+      "target": "crescere"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "étude",
+      "target": "studio"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "apprendre",
+      "target": "imparare"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "installation",
+      "target": "impianto"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "couverture",
+      "target": "copertura"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "nourriture",
+      "target": "cibo"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "soleil",
+      "target": "sole"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "quatre",
+      "target": "quattro"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "été",
+      "target": "stato"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "maintenir",
+      "target": "mantenere"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "oeil",
+      "target": "occhio"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "dernier",
+      "target": "ultimo"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "laisser",
+      "target": "lasciare"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "pensée",
+      "target": "pensiero"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "ville",
+      "target": "città"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "arbre",
+      "target": "albero"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "traverser",
+      "target": "attraversare"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "ferme",
+      "target": "fattoria"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "difficile",
+      "target": "difficile"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "début",
+      "target": "inizio"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "force",
+      "target": "forza"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "histoire",
+      "target": "storia"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "serrage",
+      "target": "sega"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "loin",
+      "target": "lontano"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "mare",
+      "target": "mare"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "dessiner",
+      "target": "disegnare"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "gauche",
+      "target": "sinistra"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "courir",
+      "target": "correre"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "impression",
+      "target": "stampa"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "près",
+      "target": "vicino"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "nuit",
+      "target": "notte"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "réel",
+      "target": "reale"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "vie",
+      "target": "vita"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "nord",
+      "target": "nord"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "livre",
+      "target": "libro"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "porter",
+      "target": "portare"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "scienza"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "manger",
+      "target": "mangiare"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "chambre",
+      "target": "camera"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "ami",
+      "target": "amico"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "commencé",
+      "target": "ha iniziato"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idée",
+      "target": "idea"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "poisson",
+      "target": "pesce"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "montagne",
+      "target": "montagna"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "arrêter",
+      "target": "fermare"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "base"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "entendre",
+      "target": "sentire"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "cheval",
+      "target": "cavallo"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "coupe",
+      "target": "taglio"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sûr",
+      "target": "sicuro"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "horloge",
+      "target": "orologio"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "couleur",
+      "target": "colore"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "visage",
+      "target": "volto"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "bois",
+      "target": "legno"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "principal",
+      "target": "principale"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "ouvert",
+      "target": "aperto"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "paraître",
+      "target": "sembrare"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "prochain",
+      "target": "prossimo"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "blanc",
+      "target": "bianco"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "enfants",
+      "target": "bambini"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "début",
+      "target": "inizio"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "marcher",
+      "target": "camminare"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "exemple",
+      "target": "esempio"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "soulager",
+      "target": "alleviare"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "papier",
+      "target": "carta"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "groupe",
+      "target": "gruppo"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "musique",
+      "target": "musica"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "marque",
+      "target": "marchio"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "lettre",
+      "target": "lettera"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mille",
+      "target": "miglio"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "rivière",
+      "target": "fiume"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "voiture",
+      "target": "automobile"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "pieds",
+      "target": "piedi"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "soin",
+      "target": "cura"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "deuxième",
+      "target": "secondo"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plaine",
+      "target": "pianura"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "fille",
+      "target": "ragazza"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "d’habitude",
+      "target": "solito"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "jeune",
+      "target": "giovane"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "prêt",
+      "target": "pronto"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "rouge",
+      "target": "rosso"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "liste",
+      "target": "elenco"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "entendre",
+      "target": "sentire"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "parler",
+      "target": "parlare"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "oiseau",
+      "target": "uccello"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "corps",
+      "target": "corpo"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "chien",
+      "target": "cane"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "famille",
+      "target": "famiglia"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "diretto"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "posa"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "laisser",
+      "target": "lasciare"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "chanson",
+      "target": "canzone"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "mesurer",
+      "target": "misurare"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "porte",
+      "target": "porta"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "produit",
+      "target": "prodotto"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "noir",
+      "target": "nero"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "bref",
+      "target": "breve"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numérique",
+      "target": "numerale"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "classe",
+      "target": "classe"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "vent",
+      "target": "vento"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "demande",
+      "target": "domanda"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "arriver",
+      "target": "accadere"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "intégrale",
+      "target": "integrale"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "navire",
+      "target": "nave"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "zone",
+      "target": "area"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "moitié",
+      "target": "metà"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rocher",
+      "target": "roccia"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "ordre",
+      "target": "ordine"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "feu",
+      "target": "fuoco"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "sud",
+      "target": "sud"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problème",
+      "target": "problema"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "pièce",
+      "target": "pezzo"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "dire",
+      "target": "dire"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "passer",
+      "target": "passare"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "sommet",
+      "target": "top"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "tout",
+      "target": "tutto"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "re",
+      "target": "re"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "rue",
+      "target": "strada"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "pouce",
+      "target": "pollice"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiplier",
+      "target": "moltiplicare"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "cours",
+      "target": "corso"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "rester",
+      "target": "soggiornare"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "roue",
+      "target": "ruota"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "complet",
+      "target": "completo"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "vigueur",
+      "target": "vigore"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "bleu",
+      "target": "blu"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "objet",
+      "target": "oggetto"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "décider",
+      "target": "decidere"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "superficie"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "profondeur",
+      "target": "profondità"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "luna",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "île",
+      "target": "isola"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "pied",
+      "target": "piede"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "système",
+      "target": "sistema"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "occupé",
+      "target": "occupato"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "record"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "bateau",
+      "target": "barca"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "commune",
+      "target": "comune"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "or",
+      "target": "oro"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "possibile"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plan",
+      "target": "piano"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "au lieu",
+      "target": "vece"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "sec",
+      "target": "asciutto"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "merveille",
+      "target": "meraviglia"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "rire",
+      "target": "ridere"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "milliers",
+      "target": "migliaia"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "fa",
+      "target": "fa"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "courses",
+      "target": "corse"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "vérifier",
+      "target": "controllare"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "jeu",
+      "target": "gioco"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "forma",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "égaler",
+      "target": "uguagliare"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "chaud",
+      "target": "caldo"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "perdre",
+      "target": "perdere"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "apporté",
+      "target": "portato"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "chaleur",
+      "target": "calore"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "neige",
+      "target": "neve"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "pneumatique",
+      "target": "pneumatico"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "porter",
+      "target": "portare"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "loin",
+      "target": "lontano"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "remplir",
+      "target": "riempire"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "est",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "peindre",
+      "target": "dipingere"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "langue",
+      "target": "lingua"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unités",
+      "target": "unità"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "puissance",
+      "target": "potenza"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "ville",
+      "target": "città"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fin",
+      "target": "fine"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "bien sûr",
+      "target": "certo"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "voler",
+      "target": "volare"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "tomber",
+      "target": "cadere"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "mener",
+      "target": "condurre"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cri",
+      "target": "grido"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "sombre",
+      "target": "scuro"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "macchina"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "attendre",
+      "target": "aspettare"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "piano"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "étoile",
+      "target": "stella"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "boîte",
+      "target": "scatola"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "nom",
+      "target": "sostantivo"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "champ",
+      "target": "campo"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "reste",
+      "target": "resto"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "corretto"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "capable de",
+      "target": "in grado di"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "livre",
+      "target": "libbra"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "fait",
+      "target": "fatto"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauté",
+      "target": "bellezza"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "conduire",
+      "target": "guidare"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "se lever",
+      "target": "alzarsi"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contenir",
+      "target": "contenere"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "frontale",
+      "target": "frontale"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "enseigner",
+      "target": "insegnare"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "semaine",
+      "target": "settimana"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "finale",
+      "target": "finale"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "donner",
+      "target": "dare"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "vert",
+      "target": "verde"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "rapide",
+      "target": "veloce"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "développer",
+      "target": "sviluppare"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "océan",
+      "target": "oceano"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "chaud",
+      "target": "caldo"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "gratuit",
+      "target": "gratuito"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "minuto"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "fort",
+      "target": "forte"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "spécial",
+      "target": "speciale"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "ment",
+      "target": "mente"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clair",
+      "target": "chiaro"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "queue",
+      "target": "coda"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produire",
+      "target": "produrre"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fait",
+      "target": "fatto"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "espace",
+      "target": "spazio"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "entendu",
+      "target": "sentito"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "meilleur",
+      "target": "migliore"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "maintenant",
+      "target": "ora"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "mieux",
+      "target": "meglio"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "vrai",
+      "target": "vero"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "cent",
+      "target": "cento"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "cinq",
+      "target": "cinque"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "rappeler",
+      "target": "ricordare"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "étape",
+      "target": "passo"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "garder",
+      "target": "tenere"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "ouest",
+      "target": "ovest"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "terre",
+      "target": "terra"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "intérêt",
+      "target": "interesse"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "atteindre",
+      "target": "raggiungere"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "rapide",
+      "target": "veloce"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verbe",
+      "target": "verbo"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "chanter",
+      "target": "cantare"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "écouter",
+      "target": "ascoltare"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "sei"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "tavolo"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "voyager",
+      "target": "viaggiare"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "matin",
+      "target": "mattina"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "dix",
+      "target": "dieci"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "semplice"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vocale",
+      "target": "vocale"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "guerre",
+      "target": "guerra"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "poser",
+      "target": "porre"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "modèle",
+      "target": "modello"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "lent",
+      "target": "lento"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "centre",
+      "target": "centro"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "amour",
+      "target": "amore"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "personne",
+      "target": "persona"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "argent",
+      "target": "soldi"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "servir",
+      "target": "servire"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "apparaître",
+      "target": "apparire"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "carte",
+      "target": "mappa"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "pluie",
+      "target": "pioggia"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "règle",
+      "target": "regola"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "gouverner",
+      "target": "governare"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "tirer",
+      "target": "tirare"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "froid",
+      "target": "freddo"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "avis",
+      "target": "avviso"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voix",
+      "target": "voce"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "énergie",
+      "target": "energia"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "chasse",
+      "target": "caccia"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "probabile"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "lit",
+      "target": "letto"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "frère",
+      "target": "fratello"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "oeuf",
+      "target": "uovo"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "tour",
+      "target": "giro"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cellule",
+      "target": "cella"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "croire",
+      "target": "credere"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "choisir",
+      "target": "scegliere"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "soudain",
+      "target": "improvviso"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "compter",
+      "target": "contare"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "place",
+      "target": "piazza"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "raison",
+      "target": "motivo"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "longueur",
+      "target": "lunghezza"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "représenter",
+      "target": "rappresentare"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "arte"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "sujet",
+      "target": "soggetto"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "région",
+      "target": "regione"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "taille",
+      "target": "dimensione"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "varier",
+      "target": "variare"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "résoudre",
+      "target": "risolvere"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "parler",
+      "target": "parlare"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "poids",
+      "target": "peso"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "général",
+      "target": "generale"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "glace",
+      "target": "ghiaccio"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matière",
+      "target": "materia"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "cercle",
+      "target": "cerchio"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "couple",
+      "target": "coppia"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "inclure",
+      "target": "includere"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divise",
+      "target": "divide"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllabe",
+      "target": "sillaba"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "feutre",
+      "target": "feltro"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "balle",
+      "target": "palla"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "onda",
+      "target": "onda"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "tomber",
+      "target": "cadere"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "coeur",
+      "target": "cuore"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "présent",
+      "target": "presente"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "lourde",
+      "target": "pesante"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "danse",
+      "target": "danza"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "moteur",
+      "target": "motore"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "posizione"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "bras",
+      "target": "braccio"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "large",
+      "target": "ampio"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "voile",
+      "target": "vela"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "matériel",
+      "target": "materiale"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "frazione"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forêt",
+      "target": "foresta"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "s’asseoir",
+      "target": "sedersi"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "course",
+      "target": "gara"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "fenêtre",
+      "target": "finestra"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "boutique",
+      "target": "negozio"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "été",
+      "target": "estate"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "treno"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sommeil",
+      "target": "sonno"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "démontrer",
+      "target": "dimostrare"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "solitario",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "jambe",
+      "target": "gamba"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercice",
+      "target": "esercizio"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "mur",
+      "target": "muro"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "prendre",
+      "target": "prendere"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mont",
+      "target": "monte"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "désir",
+      "target": "desiderio"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "ciel",
+      "target": "cielo"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "pension",
+      "target": "pensione"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joie",
+      "target": "gioia"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "hiver",
+      "target": "inverno"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "écrit",
+      "target": "scritto"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "sauvage",
+      "target": "selvaggio"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "strumento"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "garder",
+      "target": "tenere"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "verre",
+      "target": "vetro"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "herbe",
+      "target": "erba"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "vache",
+      "target": "mucca"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "travail",
+      "target": "lavoro"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "bord",
+      "target": "bordo"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "signe",
+      "target": "segno"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visite",
+      "target": "visita"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "passé",
+      "target": "passato"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "Doux",
+      "target": "morbido"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "amusement",
+      "target": "divertimento"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "lumineux",
+      "target": "luminoso"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gaz",
+      "target": "gas"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "temps",
+      "target": "tempo"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "mois",
+      "target": "mese"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "milione"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "supporter",
+      "target": "sopportare"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finition",
+      "target": "finitura"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "heureux",
+      "target": "felice"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "espoir",
+      "target": "speranza"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "fleur",
+      "target": "fiore"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "habiller",
+      "target": "vestire"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "étrange",
+      "target": "strano"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "aller",
+      "target": "andare"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "commerce",
+      "target": "commercio"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "mélodie",
+      "target": "melodia"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "voyage",
+      "target": "viaggio"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "bureau",
+      "target": "ufficio"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "recevoir",
+      "target": "ricevere"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "rangée",
+      "target": "fila"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "bouche",
+      "target": "bocca"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "esatto"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbole",
+      "target": "simbolo"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "mourir",
+      "target": "morire"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "difficultés",
+      "target": "difficoltà"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "crier",
+      "target": "urlare"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "semence",
+      "target": "seme"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "ton",
+      "target": "tono"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "adhérer",
+      "target": "aderire"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggérer",
+      "target": "suggerire"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "propre",
+      "target": "pulito"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "pause",
+      "target": "pausa"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "Mme",
+      "target": "signora"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "chantier",
+      "target": "cantiere"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "monter",
+      "target": "salire"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "mal",
+      "target": "male"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "coup",
+      "target": "colpo"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "huile",
+      "target": "olio"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "sang",
+      "target": "sangue"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "toucher",
+      "target": "toccare"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grandi",
+      "target": "è cresciuto"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "centième",
+      "target": "centesimo"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mélanger",
+      "target": "mescolare"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "équipe",
+      "target": "team"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "fil",
+      "target": "filo"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "coût",
+      "target": "costo"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "perdu",
+      "target": "perso"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brun",
+      "target": "marrone"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "porter",
+      "target": "indossare"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "jardin",
+      "target": "giardino"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "pairs",
+      "target": "pari"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "envoyé",
+      "target": "inviato"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choisir",
+      "target": "scegliere"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "tombé",
+      "target": "caduto"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "adapter",
+      "target": "adattarsi"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flux",
+      "target": "flusso"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fiera",
+      "target": "fiera"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "banque",
+      "target": "banca"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "recueillir",
+      "target": "raccogliere"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "sauver",
+      "target": "salvare"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "contrôle",
+      "target": "controllo"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "décimale",
+      "target": "decimale"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "oreille",
+      "target": "orecchio"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "cassé",
+      "target": "rotto"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "cas",
+      "target": "caso"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "moyen",
+      "target": "mezzo"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "tuer",
+      "target": "uccidere"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "fils",
+      "target": "figlio"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lac",
+      "target": "lago"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "momento"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "échelle",
+      "target": "scala"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "fort",
+      "target": "forte"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "printemps",
+      "target": "primavera"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observer",
+      "target": "osservare"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "enfant",
+      "target": "bambino"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "droit",
+      "target": "dritto"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonne",
+      "target": "consonante"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "nazione"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionnaire",
+      "target": "dizionario"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "lait",
+      "target": "latte"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "vitesse",
+      "target": "velocità"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "méthode",
+      "target": "metodo"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organe",
+      "target": "organo"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "payer",
+      "target": "pagare"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "âge",
+      "target": "età"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "sezione"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "robe",
+      "target": "vestito"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "nube",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "sorpresa"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "tranquille",
+      "target": "tranquillo"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "pierre",
+      "target": "pietra"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "petit",
+      "target": "piccolo"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "escalader",
+      "target": "scalare"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "frais",
+      "target": "fresco"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "conception",
+      "target": "design"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "pauvre",
+      "target": "povero"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "lotto"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "expérience",
+      "target": "esperimento"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "fond",
+      "target": "fondo"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "clé",
+      "target": "chiave"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "fer",
+      "target": "ferro"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "unique",
+      "target": "singolo"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "bâton",
+      "target": "bastone"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "appartement",
+      "target": "appartamento"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "vingt",
+      "target": "venti"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "peau",
+      "target": "pelle"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "sourire",
+      "target": "sorriso"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "plier",
+      "target": "piega"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "foro",
+      "target": "foro"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "saut",
+      "target": "salto"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "enfant",
+      "target": "bambino"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "huit",
+      "target": "otto"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "villaggio"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "se rencontrent",
+      "target": "si incontrano"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "racines",
+      "target": "radice"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "acheter",
+      "target": "acquistare"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "augmenter",
+      "target": "aumentare"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "résoudre",
+      "target": "risolvere"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "métal",
+      "target": "metallo"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "pousser",
+      "target": "spingere"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "sept",
+      "target": "sette"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraphe",
+      "target": "paragrafo"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "troisième",
+      "target": "terzo"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "tenu",
+      "target": "tenuto"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "cheveux",
+      "target": "capelli"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "décrire",
+      "target": "descrivere"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cuisinier",
+      "target": "cuoco"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "plan",
+      "target": "piano"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "résultat",
+      "target": "risultato"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "brûler",
+      "target": "bruciare"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "colline",
+      "target": "collina"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "sûr",
+      "target": "sicuro"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "chat",
+      "target": "gatto"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "siècle",
+      "target": "secolo"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "considérer",
+      "target": "considerare"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "tipo"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "loi",
+      "target": "legge"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coûte",
+      "target": "costa"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copie",
+      "target": "copia"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "frase"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silencieux",
+      "target": "silenzioso"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "haut",
+      "target": "alto"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sable",
+      "target": "sabbia"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "sol",
+      "target": "suolo"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "rouleau",
+      "target": "rotolo"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "température",
+      "target": "temperatura"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "dito",
+      "target": "dito"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industrie",
+      "target": "industria"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "valeur",
+      "target": "valore"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "lutte",
+      "target": "lotta"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "mensonge",
+      "target": "bugia"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "battre",
+      "target": "battere"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "exciter",
+      "target": "eccitare"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "naturel",
+      "target": "naturale"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "vue",
+      "target": "vista"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sens",
+      "target": "senso"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capitale",
+      "target": "capitale"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chaise",
+      "target": "sedia"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "pericolo"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruits",
+      "target": "frutta"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "riche",
+      "target": "ricco"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "souvent",
+      "target": "spesso"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldat",
+      "target": "soldato"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "processus",
+      "target": "processo"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "opérer",
+      "target": "operare"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "pratique",
+      "target": "pratica"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "séparé",
+      "target": "separato"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficile",
+      "target": "difficile"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "médecin",
+      "target": "medico"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "s’il vous plaît",
+      "target": "per favore"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protéger",
+      "target": "proteggere"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "midi",
+      "target": "mezzogiorno"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "récolte",
+      "target": "raccolto"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "moderne",
+      "target": "moderno"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "élément",
+      "target": "elemento"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "frapper",
+      "target": "colpire"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "étudiant",
+      "target": "studente"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "angle",
+      "target": "angolo"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "parti",
+      "target": "partito"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "fourniture",
+      "target": "fornitura"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "identifier",
+      "target": "individuare"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "anneau",
+      "target": "anello"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "caractère",
+      "target": "carattere"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insecte",
+      "target": "insetto"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "capturé",
+      "target": "catturato"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "période",
+      "target": "periodo"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indiquer",
+      "target": "indicare"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "rayon",
+      "target": "raggio"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atome",
+      "target": "atomo"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "humain",
+      "target": "umano"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "histoire",
+      "target": "storia"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effet",
+      "target": "effetto"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "électrique",
+      "target": "elettrico"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "attendre",
+      "target": "aspettare"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "osso",
+      "target": "osso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "chemin de fer",
+      "target": "ferrovia"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imaginer",
+      "target": "immaginare"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "fournir",
+      "target": "fornire"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "convenir",
+      "target": "concordare"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "doux",
+      "target": "dolce"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "femme",
+      "target": "donna"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "capitaine",
+      "target": "capitano"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "deviner",
+      "target": "indovinare"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "nécessaire",
+      "target": "necessario"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "tranchant",
+      "target": "tagliente"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "ala",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "créer",
+      "target": "creare"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "prochain",
+      "target": "prossimo"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "lavage",
+      "target": "lavaggio"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "chauve-souris",
+      "target": "pipistrello"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "foule",
+      "target": "folla"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "mais",
+      "target": "mais"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "comparer",
+      "target": "confrontare"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poésie",
+      "target": "poesia"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "serrer",
+      "target": "stringa"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "cloche",
+      "target": "campana"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "dépendre",
+      "target": "dipendere"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "viande",
+      "target": "carne"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "frotter",
+      "target": "strofinare"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "tubo"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "célèbre",
+      "target": "famoso"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dollaro"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "ruisseau",
+      "target": "ruscello"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "peur",
+      "target": "paura"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "vue",
+      "target": "vista"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "mince",
+      "target": "sottile"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "triangolo"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planète",
+      "target": "pianeta"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hâte",
+      "target": "fretta"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chef",
+      "target": "capo"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colonie",
+      "target": "colonia"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "horloge",
+      "target": "orologio"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "miniera"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "cravate",
+      "target": "cravatta"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "insérer",
+      "target": "inserire"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "plus",
+      "target": "maggiore"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "frais",
+      "target": "fresco"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "recherche",
+      "target": "ricerca"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "envoyer",
+      "target": "inviare"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "jaune",
+      "target": "giallo"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "pistolet",
+      "target": "pistola"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "permettre",
+      "target": "consentire"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "impression",
+      "target": "stampa"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "mort",
+      "target": "morto"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "tache",
+      "target": "spot"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "désert",
+      "target": "deserto"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "combinaison",
+      "target": "tuta"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "courant",
+      "target": "corrente"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "ascenseur",
+      "target": "ascensore"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "rosa"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arriver",
+      "target": "arrivare"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "maître",
+      "target": "maestro"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "piste",
+      "target": "pista"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "genitore"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "rive",
+      "target": "riva"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "divisione"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "feuille",
+      "target": "foglio"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "sostanza"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favoriser",
+      "target": "favorire"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connecter",
+      "target": "collegare"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "message",
+      "target": "messaggio"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "dépenser",
+      "target": "spendere"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "accord",
+      "target": "accordo"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "gras",
+      "target": "grasso"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "heureux",
+      "target": "felice"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "originale"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "part",
+      "target": "quota"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "stazione"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "papa",
+      "target": "papà"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "pain",
+      "target": "pane"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "carica"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "correct",
+      "target": "corretto"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offre",
+      "target": "offerta"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segmento"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "esclave",
+      "target": "schiavo"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "canard",
+      "target": "anatra"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "immédiat",
+      "target": "immediato"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "marché",
+      "target": "mercato"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degré",
+      "target": "grado"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populaire",
+      "target": "popolare"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "poussin",
+      "target": "pulcino"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "cher",
+      "target": "caro"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "ennemi",
+      "target": "nemico"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "répondre",
+      "target": "rispondere"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "boisson",
+      "target": "bevanda"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "se produire",
+      "target": "verificarsi"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "soutien",
+      "target": "supporto"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "discours",
+      "target": "discorso"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "natura"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "gamme",
+      "target": "gamma"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "vapeur",
+      "target": "vapore"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "moto",
+      "target": "moto"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "sentier",
+      "target": "sentiero"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquide",
+      "target": "liquido"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "tronc",
+      "target": "tronco"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "signifier",
+      "target": "significare"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "quoziente"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "dents",
+      "target": "denti"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "coquille",
+      "target": "guscio"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "cou",
+      "target": "collo"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygène",
+      "target": "ossigeno"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sucre",
+      "target": "zucchero"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "mort",
+      "target": "morte"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "compétence",
+      "target": "abilità"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "femmes",
+      "target": "donne"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "saison",
+      "target": "stagione"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "soluzione"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "aimant",
+      "target": "magnete"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "argent",
+      "target": "argento"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "merci",
+      "target": "grazie"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branche",
+      "target": "ramo"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "partie",
+      "target": "partita"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffixe",
+      "target": "suffisso"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "particulièrement",
+      "target": "particolarmente"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fico",
+      "target": "fico"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "peur",
+      "target": "impaurito"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "énorme",
+      "target": "enorme"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "soeur",
+      "target": "sorella"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "acier",
+      "target": "acciaio"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuter",
+      "target": "discutere"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similaire",
+      "target": "simile"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "conduire",
+      "target": "guidare"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "expérience",
+      "target": "esperienza"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "punteggio"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "pomme",
+      "target": "mela"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "acheté",
+      "target": "comprato"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "apporté",
+      "target": "portato"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pèche",
+      "target": "pece"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "manteau",
+      "target": "cappotto"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "masse",
+      "target": "massa"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "carte",
+      "target": "scheda"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "banda",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "corde",
+      "target": "corda"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "glissement",
+      "target": "slittamento"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "victoire",
+      "target": "vittoria"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "rêver",
+      "target": "sognare"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "sera",
+      "target": "sera"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "condizione"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "alimentation",
+      "target": "alimentazione"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "instrument",
+      "target": "strumento"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "totale"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "de base",
+      "target": "di base"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "odeur",
+      "target": "odore"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "vallée",
+      "target": "valle"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "doppio"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "siège",
+      "target": "sedile"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continuer",
+      "target": "continuare"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "blocage",
+      "target": "blocco"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "graphique",
+      "target": "grafico"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "chapeau",
+      "target": "cappello"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "vendre",
+      "target": "vendere"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "succès",
+      "target": "successo"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "entreprise",
+      "target": "azienda"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "soustraire",
+      "target": "sottrarre"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "événement",
+      "target": "evento"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particulier",
+      "target": "particolare"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "affaire",
+      "target": "affare"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "nage",
+      "target": "nuoto"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "terme",
+      "target": "termine"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposé",
+      "target": "opposto"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "femme",
+      "target": "moglie"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "chaussure",
+      "target": "scarpa"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "épaule",
+      "target": "spalla"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spargere",
+      "target": "spargere"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "organiser",
+      "target": "organizzare"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "champ",
+      "target": "campo"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "inventer",
+      "target": "inventare"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "coton",
+      "target": "cotone"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "naissance",
+      "target": "nascita"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "déterminer",
+      "target": "determinare"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart de gallon",
+      "target": "quarto di gallone"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "neuf",
+      "target": "nove"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "camion",
+      "target": "camion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "bruit",
+      "target": "rumore"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "niveau",
+      "target": "livello"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "possibilité",
+      "target": "possibilità"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "recueillir",
+      "target": "raccogliere"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "boutique",
+      "target": "negozio"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "trait",
+      "target": "tratto"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "jeter",
+      "target": "gettare"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "briller",
+      "target": "brillare"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "propriété",
+      "target": "proprietà"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "colonne",
+      "target": "colonna"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molécule",
+      "target": "molecola"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "sélectionner",
+      "target": "selezionare"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "faux",
+      "target": "sbagliato"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gris",
+      "target": "grigio"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "répétition",
+      "target": "ripetizione"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "demander",
+      "target": "richiedere"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "large",
+      "target": "ampio"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "préparer",
+      "target": "preparare"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "sale",
+      "target": "sale"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nez",
+      "target": "naso"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "pluriel",
+      "target": "plurale"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "colère",
+      "target": "rabbia"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "demande",
+      "target": "richiesta"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "continente"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "écran",
+      "target": "schermo"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bouteille",
+      "target": "bottiglia"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lampe",
+      "target": "lampada"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "téléphone",
+      "target": "telefono"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "pantalon",
+      "target": "pantaloni"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "joue",
+      "target": "guancia"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "crayon",
+      "target": "matita"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "plume",
+      "target": "penna"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palais",
+      "target": "palazzo"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "avion",
+      "target": "aeroplano"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "vélo",
+      "target": "bicicletta"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "ordinateurs",
+      "target": "computer"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "ristorante"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "vaso"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "fusée",
+      "target": "razzo"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prier",
+      "target": "pregare"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "universités",
+      "target": "università"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "scale",
+      "target": "scale"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "moto",
+      "target": "motocicletta"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "veste",
+      "target": "giacca"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "crier",
+      "target": "urlare"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joie",
+      "target": "allegria"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "fille",
+      "target": "figlia"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "mari",
+      "target": "marito"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grand-mère",
+      "target": "nonna"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grand-père",
+      "target": "nonno"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "oncle",
+      "target": "zio"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "tante",
+      "target": "zia"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "cugino"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "automne",
+      "target": "autunno"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "aujourd'hui",
+      "target": "oggi"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "demain",
+      "target": "domani"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "hier",
+      "target": "ieri"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "fromage",
+      "target": "formaggio"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "beurre",
+      "target": "burro"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "café",
+      "target": "caffè"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "thé",
+      "target": "tè"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "vin",
+      "target": "vino"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "bière",
+      "target": "birra"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "riz",
+      "target": "riso"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "pomme de terre",
+      "target": "patata"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomate",
+      "target": "pomodoro"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "oignon",
+      "target": "cipolla"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "citron",
+      "target": "limone"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "arancia"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banane",
+      "target": "banana"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "raisin",
+      "target": "uva"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carotte",
+      "target": "carota"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "haricot",
+      "target": "fagiolo"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "farine",
+      "target": "farina"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "gâteau",
+      "target": "torta"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "biscuit",
+      "target": "biscotto"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolat",
+      "target": "cioccolato"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "glace",
+      "target": "gelato"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "miel",
+      "target": "miele"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soupe",
+      "target": "zuppa"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salade",
+      "target": "insalata"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinaigre",
+      "target": "aceto"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "poivre",
+      "target": "pepe"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "jus",
+      "target": "succo"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "poulet",
+      "target": "pollo"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "cochon",
+      "target": "maiale"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "mouton",
+      "target": "pecora"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "chèvre",
+      "target": "capra"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "lapin",
+      "target": "coniglio"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "souris",
+      "target": "topo"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "ours",
+      "target": "orso"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "leone"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "loup",
+      "target": "lupo"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "renard",
+      "target": "volpe"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "singe",
+      "target": "scimmia"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "éléphant",
+      "target": "elefante"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tigre",
+      "target": "tigre"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "girafe",
+      "target": "giraffa"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "abeille",
+      "target": "ape"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "papillon",
+      "target": "farfalla"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "araignée",
+      "target": "ragno"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "serpent",
+      "target": "serpente"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "fourmi",
+      "target": "formica"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "mouche",
+      "target": "mosca"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "moustique",
+      "target": "zanzara"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "grenouille",
+      "target": "rana"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "requin",
+      "target": "squalo"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "baleine",
+      "target": "balena"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "tortue",
+      "target": "tartaruga"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "oie",
+      "target": "oca"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "poule",
+      "target": "gallina"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "dinde",
+      "target": "tacchino"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "genou",
+      "target": "ginocchio"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "coude",
+      "target": "gomito"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lèvres",
+      "target": "labbra"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "dos",
+      "target": "schiena"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "poitrine",
+      "target": "petto"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "estomac",
+      "target": "stomaco"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "cerveau",
+      "target": "cervello"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "ongle",
+      "target": "unghia"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "barbe",
+      "target": "barba"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "larme",
+      "target": "lacrima"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "cuisine",
+      "target": "cucina"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "salle de bain",
+      "target": "bagno"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "miroir",
+      "target": "specchio"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "couteau",
+      "target": "coltello"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fourchette",
+      "target": "forchetta"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "cuillère",
+      "target": "cucchiaio"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "assiette",
+      "target": "piatto"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "tasse",
+      "target": "tazza"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "toit",
+      "target": "tetto"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "savon",
+      "target": "sapone"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "serviette",
+      "target": "asciugamano"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brosse",
+      "target": "spazzola"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "parapluie",
+      "target": "ombrello"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "valise",
+      "target": "valigia"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "sac",
+      "target": "borsa"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "portefeuille",
+      "target": "portafoglio"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "pièce",
+      "target": "moneta"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "cadeau",
+      "target": "regalo"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "jouet",
+      "target": "giocattolo"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "poupée",
+      "target": "bambola"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "journal",
+      "target": "giornale"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "rivista"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "film",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hôpital",
+      "target": "ospedale"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "église",
+      "target": "chiesa"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hôtel",
+      "target": "albergo"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "aéroport",
+      "target": "aeroporto"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "bibliothèque",
+      "target": "biblioteca"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "musée",
+      "target": "museo"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "parc",
+      "target": "parco"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "théâtre",
+      "target": "teatro"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacie",
+      "target": "farmacia"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "autobus"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "pont",
+      "target": "ponte"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "château",
+      "target": "castello"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tour",
+      "target": "torre"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "usine",
+      "target": "fabbrica"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "plage",
+      "target": "spiaggia"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "giungla"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "arc-en-ciel",
+      "target": "arcobaleno"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "tonnerre",
+      "target": "tuono"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "fumée",
+      "target": "fumo"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "cendre",
+      "target": "cenere"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "infirmier",
+      "target": "infermiere"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "avocat",
+      "target": "avvocato"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "ingénieur",
+      "target": "ingegnere"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "écrivain",
+      "target": "scrittore"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "chanteur",
+      "target": "cantante"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "peintre",
+      "target": "pittore"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "serveur",
+      "target": "cameriere"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "agriculteur",
+      "target": "contadino"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policier",
+      "target": "poliziotto"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "chemise",
+      "target": "camicia"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "jupe",
+      "target": "gonna"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "chaussettes",
+      "target": "calzini"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gants",
+      "target": "guanti"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "ceinture",
+      "target": "cintura"
+    }
+  ]
+}

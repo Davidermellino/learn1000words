@@ -1,0 +1,6009 @@
+{
+  "source": "en",
+  "target": "it",
+  "sourceName": "English",
+  "targetName": "Italiano",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "to be",
+      "target": "essere"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "one",
+      "target": "uno"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "to have",
+      "target": "avere"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "hot",
+      "target": "caldo"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "word",
+      "target": "parola"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "can",
+      "target": "lattina"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "to do",
+      "target": "fare"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "time",
+      "target": "tempo"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "will",
+      "target": "volontà"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "said",
+      "target": "detto"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "tell",
+      "target": "dire"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "set",
+      "target": "fisso"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "three",
+      "target": "tre"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "desire",
+      "target": "desiderare"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "aria"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "well",
+      "target": "bene"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "play",
+      "target": "giocare"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "small",
+      "target": "piccolo"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "end",
+      "target": "fine"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "put",
+      "target": "mettere"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "home",
+      "target": "casa"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "read",
+      "target": "leggere"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hand",
+      "target": "mano"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "carry",
+      "target": "portare"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "large",
+      "target": "grande"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "spell",
+      "target": "compitare"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "add",
+      "target": "aggiungere"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "terra"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "big",
+      "target": "grande"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "high",
+      "target": "alto"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "follow",
+      "target": "seguire"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "act",
+      "target": "atto"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "ask",
+      "target": "chiedere"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "men",
+      "target": "maschi"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "change",
+      "target": "cambiamento"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "light",
+      "target": "luce"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "kind",
+      "target": "tipo"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "turned off",
+      "target": "spento"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "need",
+      "target": "bisogno"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "house",
+      "target": "casa"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "immagine"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "try",
+      "target": "provare"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "animale"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "punto"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mother",
+      "target": "madre"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "world",
+      "target": "mondo"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "near",
+      "target": "vicino"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "build",
+      "target": "costruire"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "earth",
+      "target": "terra"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "father",
+      "target": "padre"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "new",
+      "target": "nuovo"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "work",
+      "target": "lavoro"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "part",
+      "target": "parte"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "take",
+      "target": "prendere"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "get",
+      "target": "ottenere"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "posto"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "live",
+      "target": "vivere"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "round",
+      "target": "turno"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "man",
+      "target": "uomo"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "year",
+      "target": "anno"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "show",
+      "target": "spettacolo"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "good",
+      "target": "buono"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "give",
+      "target": "dare"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "name",
+      "target": "nome"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sentence",
+      "target": "frase"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "great",
+      "target": "grande"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "think",
+      "target": "pensare"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "say",
+      "target": "dire"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "help",
+      "target": "aiutare"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "low",
+      "target": "basso"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "line",
+      "target": "linea"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "differ",
+      "target": "differire"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turn",
+      "target": "turno"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "causa"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mean",
+      "target": "dire"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "move",
+      "target": "spostare"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "right",
+      "target": "diritto"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "boy",
+      "target": "ragazzo"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "old",
+      "target": "vecchio"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "use",
+      "target": "uso"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "way",
+      "target": "modo"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "write",
+      "target": "scrivere"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "lungo"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "make",
+      "target": "rendere"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "thing",
+      "target": "cosa"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "see",
+      "target": "vedere"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "two",
+      "target": "due"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "look",
+      "target": "guardare"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "day",
+      "target": "giorno"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "go",
+      "target": "andare"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "come",
+      "target": "venire"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "number",
+      "target": "numero"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "sound",
+      "target": "suono"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "people",
+      "target": "persone"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "know",
+      "target": "sapere"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "water",
+      "target": "acqua"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "call",
+      "target": "chiamata"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "first",
+      "target": "primo"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "lato"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "find",
+      "target": "trovare"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "head",
+      "target": "testa"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stand",
+      "target": "stare in piedi"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "own",
+      "target": "proprio"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "pagina"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "country",
+      "target": "paese"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "found",
+      "target": "fondare"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "answer",
+      "target": "risposta"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "school",
+      "target": "scuola"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grow",
+      "target": "crescere"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "study",
+      "target": "studio"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "learn",
+      "target": "imparare"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "plant",
+      "target": "impianto"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "cover",
+      "target": "copertura"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "food",
+      "target": "cibo"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sun",
+      "target": "sole"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "four",
+      "target": "quattro"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "state",
+      "target": "stato"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "keep",
+      "target": "mantenere"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "eye",
+      "target": "occhio"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "last",
+      "target": "ultimo"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "let",
+      "target": "lasciare"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "thought",
+      "target": "pensiero"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "city",
+      "target": "città"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "tree",
+      "target": "albero"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "cross",
+      "target": "attraversare"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "farm",
+      "target": "fattoria"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hard",
+      "target": "difficile"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "inizio"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "might",
+      "target": "forza"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "story",
+      "target": "storia"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "saw",
+      "target": "sega"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "far",
+      "target": "lontano"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "sea",
+      "target": "mare"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "draw",
+      "target": "disegnare"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "left",
+      "target": "sinistra"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "run",
+      "target": "correre"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "press",
+      "target": "stampa"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "close",
+      "target": "vicino"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "night",
+      "target": "notte"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "reale"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "life",
+      "target": "vita"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "north",
+      "target": "nord"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "book",
+      "target": "libro"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "carry",
+      "target": "portare"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "scienza"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eat",
+      "target": "mangiare"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "room",
+      "target": "camera"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "friend",
+      "target": "amico"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "began",
+      "target": "ha iniziato"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idea",
+      "target": "idea"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fish",
+      "target": "pesce"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "mountain",
+      "target": "montagna"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stop",
+      "target": "fermare"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "base"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hear",
+      "target": "sentire"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "horse",
+      "target": "cavallo"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "cut",
+      "target": "taglio"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sure",
+      "target": "sicuro"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "watch",
+      "target": "orologio"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "color",
+      "target": "colore"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "face",
+      "target": "volto"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "wood",
+      "target": "legno"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "main",
+      "target": "principale"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "open",
+      "target": "aperto"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "seem",
+      "target": "sembrare"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "next",
+      "target": "prossimo"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "white",
+      "target": "bianco"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "children",
+      "target": "bambini"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begin",
+      "target": "inizio"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "walk",
+      "target": "camminare"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "example",
+      "target": "esempio"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "ease",
+      "target": "alleviare"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "paper",
+      "target": "carta"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "group",
+      "target": "gruppo"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "music",
+      "target": "musica"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mark",
+      "target": "marchio"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "letter",
+      "target": "lettera"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mile",
+      "target": "miglio"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "river",
+      "target": "fiume"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "car",
+      "target": "automobile"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "feet",
+      "target": "piedi"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "care",
+      "target": "cura"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "second",
+      "target": "secondo"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plain",
+      "target": "pianura"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "girl",
+      "target": "ragazza"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "usual",
+      "target": "solito"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "young",
+      "target": "giovane"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "ready",
+      "target": "pronto"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "red",
+      "target": "rosso"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "list",
+      "target": "elenco"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "feel",
+      "target": "sentire"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "talk",
+      "target": "parlare"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "bird",
+      "target": "uccello"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "body",
+      "target": "corpo"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "dog",
+      "target": "cane"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "family",
+      "target": "famiglia"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "diretto"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "posa"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "leave",
+      "target": "lasciare"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "song",
+      "target": "canzone"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "measure",
+      "target": "misurare"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "door",
+      "target": "porta"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "product",
+      "target": "prodotto"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "black",
+      "target": "nero"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "short",
+      "target": "breve"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numeral",
+      "target": "numerale"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "class",
+      "target": "classe"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "vento"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "question",
+      "target": "domanda"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "happen",
+      "target": "accadere"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "complete",
+      "target": "integrale"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "ship",
+      "target": "nave"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "area",
+      "target": "area"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "half",
+      "target": "metà"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rock",
+      "target": "roccia"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "order",
+      "target": "ordine"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "fire",
+      "target": "fuoco"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "south",
+      "target": "sud"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "problema"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "piece",
+      "target": "pezzo"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "tell",
+      "target": "dire"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "pass",
+      "target": "passare"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "top"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "whole",
+      "target": "tutto"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "king",
+      "target": "re"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "street",
+      "target": "strada"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "inch",
+      "target": "pollice"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiply",
+      "target": "moltiplicare"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "course",
+      "target": "corso"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "stay",
+      "target": "soggiornare"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "wheel",
+      "target": "ruota"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "full",
+      "target": "completo"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "force",
+      "target": "vigore"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blue",
+      "target": "blu"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "object",
+      "target": "oggetto"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "decide",
+      "target": "decidere"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "superficie"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "deep",
+      "target": "profondità"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "moon",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "island",
+      "target": "isola"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "foot",
+      "target": "piede"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "sistema"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "busy",
+      "target": "occupato"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "record"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "boat",
+      "target": "barca"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "common",
+      "target": "comune"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "gold",
+      "target": "oro"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "possibile"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plane",
+      "target": "piano"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "stead",
+      "target": "vece"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "dry",
+      "target": "asciutto"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wonder",
+      "target": "meraviglia"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "laugh",
+      "target": "ridere"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "thousand",
+      "target": "migliaia"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "ago",
+      "target": "fa"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "ran",
+      "target": "corse"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "check",
+      "target": "controllare"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "game",
+      "target": "gioco"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "shape",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "equate",
+      "target": "uguagliare"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "hot",
+      "target": "caldo"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "miss",
+      "target": "perdere"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "brought",
+      "target": "portato"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "heat",
+      "target": "calore"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "snow",
+      "target": "neve"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "tire",
+      "target": "pneumatico"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bring",
+      "target": "portare"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distant",
+      "target": "lontano"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fill",
+      "target": "riempire"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "east",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "paint",
+      "target": "dipingere"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "language",
+      "target": "lingua"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unit",
+      "target": "unità"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "power",
+      "target": "potenza"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "town",
+      "target": "città"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fine",
+      "target": "fine"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "certain",
+      "target": "certo"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fly",
+      "target": "volare"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fall",
+      "target": "cadere"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "lead",
+      "target": "condurre"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cry",
+      "target": "grido"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dark",
+      "target": "scuro"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "macchina"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "wait",
+      "target": "aspettare"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "piano"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "star",
+      "target": "stella"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "box",
+      "target": "scatola"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "noun",
+      "target": "sostantivo"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "field",
+      "target": "campo"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "rest",
+      "target": "resto"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "corretto"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "able",
+      "target": "in grado di"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pound",
+      "target": "libbra"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "done",
+      "target": "fatto"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauty",
+      "target": "bellezza"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "drive",
+      "target": "guidare"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "stand up",
+      "target": "alzarsi"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contain",
+      "target": "contenere"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "front",
+      "target": "frontale"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "teach",
+      "target": "insegnare"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "week",
+      "target": "settimana"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "final",
+      "target": "finale"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "give",
+      "target": "dare"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "green",
+      "target": "verde"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "quick",
+      "target": "veloce"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "develop",
+      "target": "sviluppare"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "oceano"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "caldo"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "free",
+      "target": "gratuito"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "minuto"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "strong",
+      "target": "forte"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "special",
+      "target": "speciale"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "mind",
+      "target": "mente"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clear",
+      "target": "chiaro"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "tail",
+      "target": "coda"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produce",
+      "target": "produrre"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fact",
+      "target": "fatto"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "space",
+      "target": "spazio"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "heard",
+      "target": "sentito"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "best",
+      "target": "migliore"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "hour",
+      "target": "ora"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "better",
+      "target": "meglio"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "true",
+      "target": "vero"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundred",
+      "target": "cento"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "five",
+      "target": "cinque"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "remember",
+      "target": "ricordare"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "step",
+      "target": "passo"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "hold",
+      "target": "tenere"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "west",
+      "target": "ovest"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "ground",
+      "target": "terra"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "interest",
+      "target": "interesse"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "reach",
+      "target": "raggiungere"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "fast",
+      "target": "veloce"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verb",
+      "target": "verbo"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "sing",
+      "target": "cantare"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "listen",
+      "target": "ascoltare"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "sei"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "tavolo"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "travel",
+      "target": "viaggiare"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morning",
+      "target": "mattina"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ten",
+      "target": "dieci"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "semplice"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vowel",
+      "target": "vocale"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "war",
+      "target": "guerra"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lay",
+      "target": "porre"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "pattern",
+      "target": "modello"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "slow",
+      "target": "lento"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "center",
+      "target": "centro"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "love",
+      "target": "amore"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "persona"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "money",
+      "target": "soldi"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "serve",
+      "target": "servire"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "appear",
+      "target": "apparire"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "map",
+      "target": "mappa"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "rain",
+      "target": "pioggia"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "rule",
+      "target": "regola"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "govern",
+      "target": "governare"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "pull",
+      "target": "tirare"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "cold",
+      "target": "freddo"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "notice",
+      "target": "avviso"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voice",
+      "target": "voce"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energy",
+      "target": "energia"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "hunt",
+      "target": "caccia"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "probabile"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "bed",
+      "target": "letto"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "brother",
+      "target": "fratello"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "egg",
+      "target": "uovo"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "ride",
+      "target": "giro"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cell",
+      "target": "cella"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "believe",
+      "target": "credere"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "pick",
+      "target": "scegliere"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "sudden",
+      "target": "improvviso"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "count",
+      "target": "contare"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "square",
+      "target": "piazza"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "reason",
+      "target": "motivo"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "length",
+      "target": "lunghezza"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "represent",
+      "target": "rappresentare"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "arte"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "subject",
+      "target": "soggetto"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "regione"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "size",
+      "target": "dimensione"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "vary",
+      "target": "variare"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "settle",
+      "target": "risolvere"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "speak",
+      "target": "parlare"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "weight",
+      "target": "peso"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "general",
+      "target": "generale"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "ice",
+      "target": "ghiaccio"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matter",
+      "target": "materia"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "circle",
+      "target": "cerchio"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pair",
+      "target": "coppia"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "include",
+      "target": "includere"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divide",
+      "target": "divide"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllable",
+      "target": "sillaba"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "felt",
+      "target": "feltro"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "grande"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "ball",
+      "target": "palla"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "wave",
+      "target": "onda"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "drop",
+      "target": "cadere"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "heart",
+      "target": "cuore"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "present",
+      "target": "presente"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "heavy",
+      "target": "pesante"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dance",
+      "target": "danza"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "engine",
+      "target": "motore"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "posizione"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "braccio"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "wide",
+      "target": "ampio"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sail",
+      "target": "vela"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "materiale"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "frazione"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forest",
+      "target": "foresta"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sit",
+      "target": "sedersi"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "race",
+      "target": "gara"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "window",
+      "target": "finestra"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "store",
+      "target": "negozio"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "summer",
+      "target": "estate"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "treno"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sleep",
+      "target": "sonno"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "prove",
+      "target": "dimostrare"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "lone",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "leg",
+      "target": "gamba"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercise",
+      "target": "esercizio"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "wall",
+      "target": "muro"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "catch",
+      "target": "prendere"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mount",
+      "target": "monte"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "wish",
+      "target": "desiderio"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "sky",
+      "target": "cielo"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "board",
+      "target": "pensione"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joy",
+      "target": "gioia"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "winter",
+      "target": "inverno"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "written",
+      "target": "scritto"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "selvaggio"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "strumento"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "kept",
+      "target": "tenere"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glass",
+      "target": "vetro"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "grass",
+      "target": "erba"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "cow",
+      "target": "mucca"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "lavoro"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "edge",
+      "target": "bordo"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "sign",
+      "target": "segno"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visit",
+      "target": "visita"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "past",
+      "target": "passato"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "soft",
+      "target": "morbido"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "fun",
+      "target": "divertimento"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "bright",
+      "target": "luminoso"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gas"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "weather",
+      "target": "tempo"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "month",
+      "target": "mese"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "milione"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bear",
+      "target": "sopportare"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finish",
+      "target": "finitura"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "happy",
+      "target": "felice"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "hope",
+      "target": "speranza"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "flower",
+      "target": "fiore"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "clothe",
+      "target": "vestire"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "strange",
+      "target": "strano"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "go",
+      "target": "andare"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "trade",
+      "target": "commercio"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melody",
+      "target": "melodia"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "trip",
+      "target": "viaggio"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "office",
+      "target": "ufficio"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "receive",
+      "target": "ricevere"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "row",
+      "target": "fila"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mouth",
+      "target": "bocca"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "esatto"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "simbolo"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "die",
+      "target": "morire"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "trouble",
+      "target": "difficoltà"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "shout",
+      "target": "urlare"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "seed",
+      "target": "seme"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "tono"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "join",
+      "target": "aderire"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggest",
+      "target": "suggerire"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "clean",
+      "target": "pulito"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "break",
+      "target": "pausa"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "lady",
+      "target": "signora"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "yard",
+      "target": "cantiere"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rise",
+      "target": "salire"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "bad",
+      "target": "male"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blow",
+      "target": "colpo"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "oil",
+      "target": "olio"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blood",
+      "target": "sangue"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "touch",
+      "target": "toccare"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grew",
+      "target": "è cresciuto"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "centesimo"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mix",
+      "target": "mescolare"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "team"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "wire",
+      "target": "filo"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "cost",
+      "target": "costo"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "lost",
+      "target": "perso"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brown",
+      "target": "marrone"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "wear",
+      "target": "indossare"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "garden",
+      "target": "giardino"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "equal",
+      "target": "pari"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sent",
+      "target": "inviato"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choose",
+      "target": "scegliere"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fell",
+      "target": "caduto"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "fit",
+      "target": "adattarsi"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flow",
+      "target": "flusso"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fair",
+      "target": "fiera"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "banca"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "collect",
+      "target": "raccogliere"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "save",
+      "target": "salvare"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "control",
+      "target": "controllo"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "decimale"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "ear",
+      "target": "orecchio"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "broke",
+      "target": "rotto"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "case",
+      "target": "caso"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "middle",
+      "target": "mezzo"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "kill",
+      "target": "uccidere"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "son",
+      "target": "figlio"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lake",
+      "target": "lago"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "momento"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "scale",
+      "target": "scala"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "loud",
+      "target": "forte"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "spring",
+      "target": "primavera"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observe",
+      "target": "osservare"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "child",
+      "target": "bambino"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "straight",
+      "target": "dritto"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonant",
+      "target": "consonante"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "nazione"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionary",
+      "target": "dizionario"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "milk",
+      "target": "latte"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "speed",
+      "target": "velocità"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "method",
+      "target": "metodo"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "organo"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "pay",
+      "target": "pagare"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "age",
+      "target": "età"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "sezione"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "dress",
+      "target": "vestito"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "cloud",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "sorpresa"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "quiet",
+      "target": "tranquillo"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "stone",
+      "target": "pietra"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "tiny",
+      "target": "piccolo"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "climb",
+      "target": "scalare"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "cool",
+      "target": "fresco"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "design"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "poor",
+      "target": "povero"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "lotto"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "experiment",
+      "target": "esperimento"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "bottom",
+      "target": "fondo"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "key",
+      "target": "chiave"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "iron",
+      "target": "ferro"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "single",
+      "target": "singolo"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "stick",
+      "target": "bastone"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flat",
+      "target": "appartamento"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "twenty",
+      "target": "venti"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "skin",
+      "target": "pelle"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smile",
+      "target": "sorriso"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "crease",
+      "target": "piega"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hole",
+      "target": "foro"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "jump",
+      "target": "salto"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "bambino"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "eight",
+      "target": "otto"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "villaggio"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "meet",
+      "target": "si incontrano"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "root",
+      "target": "radice"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "buy",
+      "target": "acquistare"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "raise",
+      "target": "aumentare"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "solve",
+      "target": "risolvere"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "metallo"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "push",
+      "target": "spingere"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "seven",
+      "target": "sette"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraph",
+      "target": "paragrafo"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "third",
+      "target": "terzo"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "held",
+      "target": "tenuto"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hair",
+      "target": "capelli"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "describe",
+      "target": "descrivere"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cook",
+      "target": "cuoco"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "floor",
+      "target": "piano"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "result",
+      "target": "risultato"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "burn",
+      "target": "bruciare"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "hill",
+      "target": "collina"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "safe",
+      "target": "sicuro"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cat",
+      "target": "gatto"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "century",
+      "target": "secolo"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "consider",
+      "target": "considerare"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "tipo"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "law",
+      "target": "legge"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coast",
+      "target": "costa"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copy",
+      "target": "copia"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "frase"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silent",
+      "target": "silenzioso"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "tall",
+      "target": "alto"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "sabbia"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "soil",
+      "target": "suolo"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "roll",
+      "target": "rotolo"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperature",
+      "target": "temperatura"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "dito"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industry",
+      "target": "industria"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "value",
+      "target": "valore"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "fight",
+      "target": "lotta"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lie",
+      "target": "bugia"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "beat",
+      "target": "battere"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "excite",
+      "target": "eccitare"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natural",
+      "target": "naturale"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "view",
+      "target": "vista"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sense",
+      "target": "senso"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capital",
+      "target": "capitale"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chair",
+      "target": "sedia"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "pericolo"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruit",
+      "target": "frutta"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rich",
+      "target": "ricco"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "thick",
+      "target": "spesso"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldier",
+      "target": "soldato"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "process",
+      "target": "processo"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operate",
+      "target": "operare"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "practice",
+      "target": "pratica"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separate",
+      "target": "separato"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficult",
+      "target": "difficile"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "doctor",
+      "target": "medico"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "please",
+      "target": "per favore"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protect",
+      "target": "proteggere"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "noon",
+      "target": "mezzogiorno"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "crop",
+      "target": "raccolto"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "moderno"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "elemento"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "hit",
+      "target": "colpire"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "student",
+      "target": "studente"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "corner",
+      "target": "angolo"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "party",
+      "target": "partito"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "supply",
+      "target": "fornitura"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "locate",
+      "target": "individuare"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "anello"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "character",
+      "target": "carattere"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insect",
+      "target": "insetto"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "caught",
+      "target": "catturato"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "period",
+      "target": "periodo"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indicate",
+      "target": "indicare"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "spoke",
+      "target": "raggio"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atomo"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "human",
+      "target": "umano"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "history",
+      "target": "storia"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effect",
+      "target": "effetto"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "electric",
+      "target": "elettrico"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "expect",
+      "target": "aspettare"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "bone",
+      "target": "osso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "rail",
+      "target": "ferrovia"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imagine",
+      "target": "immaginare"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "provide",
+      "target": "fornire"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "agree",
+      "target": "concordare"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "gentle",
+      "target": "dolce"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "woman",
+      "target": "donna"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "captain",
+      "target": "capitano"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "guess",
+      "target": "indovinare"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "necessary",
+      "target": "necessario"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "sharp",
+      "target": "tagliente"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "wing",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "create",
+      "target": "creare"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "neighbor",
+      "target": "prossimo"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "wash",
+      "target": "lavaggio"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "bat",
+      "target": "pipistrello"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "crowd",
+      "target": "folla"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "corn",
+      "target": "mais"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "compare",
+      "target": "confrontare"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poem",
+      "target": "poesia"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "string",
+      "target": "stringa"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "bell",
+      "target": "campana"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "depend",
+      "target": "dipendere"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "meat",
+      "target": "carne"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "rub",
+      "target": "strofinare"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "tubo"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "famous",
+      "target": "famoso"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dollaro"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "stream",
+      "target": "ruscello"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "fear",
+      "target": "paura"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "sight",
+      "target": "vista"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "thin",
+      "target": "sottile"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "triangolo"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planet",
+      "target": "pianeta"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hurry",
+      "target": "fretta"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chief",
+      "target": "capo"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colony",
+      "target": "colonia"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "clock",
+      "target": "orologio"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "miniera"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "tie",
+      "target": "cravatta"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "enter",
+      "target": "inserire"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "major",
+      "target": "maggiore"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "fresh",
+      "target": "fresco"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "search",
+      "target": "ricerca"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "send",
+      "target": "inviare"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "yellow",
+      "target": "giallo"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "gun",
+      "target": "pistola"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "allow",
+      "target": "consentire"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "print",
+      "target": "stampa"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "dead",
+      "target": "morto"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "spot",
+      "target": "spot"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desert",
+      "target": "deserto"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "suit",
+      "target": "tuta"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "current",
+      "target": "corrente"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "ascensore"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "rosa"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arrive",
+      "target": "arrivare"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "master",
+      "target": "maestro"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "track",
+      "target": "pista"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "genitore"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "shore",
+      "target": "riva"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "divisione"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "sheet",
+      "target": "foglio"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "sostanza"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favor",
+      "target": "favorire"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connect",
+      "target": "collegare"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "post",
+      "target": "messaggio"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "spend",
+      "target": "spendere"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "chord",
+      "target": "accordo"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fat",
+      "target": "grasso"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "felice"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "originale"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "share",
+      "target": "quota"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "stazione"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "dad",
+      "target": "papà"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "bread",
+      "target": "pane"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "carica"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "proper",
+      "target": "corretto"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offer",
+      "target": "offerta"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segmento"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "schiavo"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "duck",
+      "target": "anatra"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "instant",
+      "target": "immediato"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "market",
+      "target": "mercato"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degree",
+      "target": "grado"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populate",
+      "target": "popolare"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "chick",
+      "target": "pulcino"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "dear",
+      "target": "caro"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "enemy",
+      "target": "nemico"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "reply",
+      "target": "rispondere"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drink",
+      "target": "bevanda"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "occur",
+      "target": "verificarsi"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "support",
+      "target": "supporto"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "speech",
+      "target": "discorso"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "natura"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "range",
+      "target": "gamma"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "steam",
+      "target": "vapore"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "motion",
+      "target": "moto"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "path",
+      "target": "sentiero"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquid",
+      "target": "liquido"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "log",
+      "target": "tronco"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "mean",
+      "target": "significare"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "quoziente"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "teeth",
+      "target": "denti"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "shell",
+      "target": "guscio"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "neck",
+      "target": "collo"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygen",
+      "target": "ossigeno"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sugar",
+      "target": "zucchero"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "death",
+      "target": "morte"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "skill",
+      "target": "abilità"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "women",
+      "target": "donne"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "season",
+      "target": "stagione"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "soluzione"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "magnete"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silver",
+      "target": "argento"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "thank",
+      "target": "grazie"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branch",
+      "target": "ramo"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "match",
+      "target": "partita"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffix",
+      "target": "suffisso"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "especially",
+      "target": "particolarmente"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fig",
+      "target": "fico"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "afraid",
+      "target": "impaurito"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "huge",
+      "target": "enorme"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "sister",
+      "target": "sorella"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "steel",
+      "target": "acciaio"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuss",
+      "target": "discutere"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similar",
+      "target": "simile"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "guide",
+      "target": "guidare"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "experience",
+      "target": "esperienza"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "punteggio"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "apple",
+      "target": "mela"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "bought",
+      "target": "comprato"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "led",
+      "target": "portato"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pitch",
+      "target": "pece"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "coat",
+      "target": "cappotto"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "mass",
+      "target": "massa"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "card",
+      "target": "scheda"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "rope",
+      "target": "corda"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "slittamento"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "win",
+      "target": "vittoria"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "dream",
+      "target": "sognare"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "evening",
+      "target": "sera"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "condizione"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "feed",
+      "target": "alimentazione"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "tool",
+      "target": "strumento"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "totale"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "basic",
+      "target": "di base"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "smell",
+      "target": "odore"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "valley",
+      "target": "valle"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "doppio"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "seat",
+      "target": "sedile"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continue",
+      "target": "continuare"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "block",
+      "target": "blocco"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "chart",
+      "target": "grafico"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "cappello"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sell",
+      "target": "vendere"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "success",
+      "target": "successo"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "company",
+      "target": "azienda"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtract",
+      "target": "sottrarre"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "event",
+      "target": "evento"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particular",
+      "target": "particolare"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "deal",
+      "target": "affare"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "swim",
+      "target": "nuoto"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "term",
+      "target": "termine"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposite",
+      "target": "opposto"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "wife",
+      "target": "moglie"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "shoe",
+      "target": "scarpa"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "shoulder",
+      "target": "spalla"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spread",
+      "target": "spargere"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrange",
+      "target": "organizzare"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "camp",
+      "target": "campo"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "invent",
+      "target": "inventare"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "cotton",
+      "target": "cotone"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "birth",
+      "target": "nascita"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "determine",
+      "target": "determinare"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "quarto di gallone"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "nine",
+      "target": "nove"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "truck",
+      "target": "camion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "noise",
+      "target": "rumore"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "level",
+      "target": "livello"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "possibilità"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "gather",
+      "target": "raccogliere"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "shop",
+      "target": "negozio"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "stretch",
+      "target": "tratto"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "throw",
+      "target": "gettare"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "shine",
+      "target": "brillare"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "property",
+      "target": "proprietà"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "column",
+      "target": "colonna"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molecule",
+      "target": "molecola"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "select",
+      "target": "selezionare"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "wrong",
+      "target": "sbagliato"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gray",
+      "target": "grigio"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "repeat",
+      "target": "ripetizione"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "require",
+      "target": "richiedere"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "broad",
+      "target": "ampio"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "prepare",
+      "target": "preparare"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "sale"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nose",
+      "target": "naso"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "plurale"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "anger",
+      "target": "rabbia"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "claim",
+      "target": "richiesta"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "continente"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "screen",
+      "target": "schermo"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bottle",
+      "target": "bottiglia"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lamp",
+      "target": "lampada"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telephone",
+      "target": "telefono"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "trousers",
+      "target": "pantaloni"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "cheek",
+      "target": "guancia"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "pencil",
+      "target": "matita"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "pen",
+      "target": "penna"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palace",
+      "target": "palazzo"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "aeroplane",
+      "target": "aeroplano"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bike",
+      "target": "bicicletta"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "computer"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "ristorante"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "vaso"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rocket",
+      "target": "razzo"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prey",
+      "target": "pregare"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "university",
+      "target": "università"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "stairs",
+      "target": "scale"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorbike",
+      "target": "motocicletta"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jacket",
+      "target": "giacca"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "scream",
+      "target": "urlare"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joy",
+      "target": "allegria"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "daughter",
+      "target": "figlia"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "husband",
+      "target": "marito"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grandmother",
+      "target": "nonna"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grandfather",
+      "target": "nonno"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "uncle",
+      "target": "zio"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "aunt",
+      "target": "zia"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "cugino"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "autumn",
+      "target": "autunno"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "today",
+      "target": "oggi"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "tomorrow",
+      "target": "domani"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "yesterday",
+      "target": "ieri"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "cheese",
+      "target": "formaggio"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "butter",
+      "target": "burro"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "coffee",
+      "target": "caffè"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "tè"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "wine",
+      "target": "vino"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "beer",
+      "target": "birra"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rice",
+      "target": "riso"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "potato",
+      "target": "patata"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomato",
+      "target": "pomodoro"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "onion",
+      "target": "cipolla"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "lemon",
+      "target": "limone"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "arancia"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banana",
+      "target": "banana"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "grape",
+      "target": "uva"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carrot",
+      "target": "carota"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bean",
+      "target": "fagiolo"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "flour",
+      "target": "farina"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "cake",
+      "target": "torta"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "cookie",
+      "target": "biscotto"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolate",
+      "target": "cioccolato"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "ice cream",
+      "target": "gelato"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honey",
+      "target": "miele"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soup",
+      "target": "zuppa"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salad",
+      "target": "insalata"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinegar",
+      "target": "aceto"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "pepper",
+      "target": "pepe"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "juice",
+      "target": "succo"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "chicken",
+      "target": "pollo"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "pig",
+      "target": "maiale"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "sheep",
+      "target": "pecora"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "goat",
+      "target": "capra"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "rabbit",
+      "target": "coniglio"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mouse",
+      "target": "topo"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bear",
+      "target": "orso"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "leone"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "wolf",
+      "target": "lupo"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "fox",
+      "target": "volpe"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "monkey",
+      "target": "scimmia"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elephant",
+      "target": "elefante"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tigre"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraffe",
+      "target": "giraffa"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bee",
+      "target": "ape"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "butterfly",
+      "target": "farfalla"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "spider",
+      "target": "ragno"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "snake",
+      "target": "serpente"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "ant",
+      "target": "formica"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "fly",
+      "target": "mosca"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "mosquito",
+      "target": "zanzara"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frog",
+      "target": "rana"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "shark",
+      "target": "squalo"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "whale",
+      "target": "balena"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "turtle",
+      "target": "tartaruga"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "goose",
+      "target": "oca"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "hen",
+      "target": "gallina"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "turkey",
+      "target": "tacchino"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knee",
+      "target": "ginocchio"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "elbow",
+      "target": "gomito"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lips",
+      "target": "labbra"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "back",
+      "target": "schiena"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "chest",
+      "target": "petto"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "stomach",
+      "target": "stomaco"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "brain",
+      "target": "cervello"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "nail",
+      "target": "unghia"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "beard",
+      "target": "barba"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tear",
+      "target": "lacrima"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "kitchen",
+      "target": "cucina"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "bathroom",
+      "target": "bagno"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "mirror",
+      "target": "specchio"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "knife",
+      "target": "coltello"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fork",
+      "target": "forchetta"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "spoon",
+      "target": "cucchiaio"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "plate",
+      "target": "piatto"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "cup",
+      "target": "tazza"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "roof",
+      "target": "tetto"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "soap",
+      "target": "sapone"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "towel",
+      "target": "asciugamano"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brush",
+      "target": "spazzola"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "umbrella",
+      "target": "ombrello"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "suitcase",
+      "target": "valigia"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "bag",
+      "target": "borsa"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "wallet",
+      "target": "portafoglio"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "coin",
+      "target": "moneta"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gift",
+      "target": "regalo"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "toy",
+      "target": "giocattolo"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "doll",
+      "target": "bambola"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "newspaper",
+      "target": "giornale"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "rivista"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "movie",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "ospedale"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "church",
+      "target": "chiesa"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "albergo"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "airport",
+      "target": "aeroporto"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "library",
+      "target": "biblioteca"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "museo"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "parco"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "theatre",
+      "target": "teatro"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacy",
+      "target": "farmacia"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "autobus"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bridge",
+      "target": "ponte"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "castle",
+      "target": "castello"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tower",
+      "target": "torre"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "factory",
+      "target": "fabbrica"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "beach",
+      "target": "spiaggia"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "giungla"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "rainbow",
+      "target": "arcobaleno"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "thunder",
+      "target": "tuono"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "smoke",
+      "target": "fumo"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "ash",
+      "target": "cenere"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "nurse",
+      "target": "infermiere"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "lawyer",
+      "target": "avvocato"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "engineer",
+      "target": "ingegnere"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "writer",
+      "target": "scrittore"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "singer",
+      "target": "cantante"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "painter",
+      "target": "pittore"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "waiter",
+      "target": "cameriere"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "farmer",
+      "target": "contadino"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policeman",
+      "target": "poliziotto"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "shirt",
+      "target": "camicia"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "skirt",
+      "target": "gonna"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "socks",
+      "target": "calzini"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gloves",
+      "target": "guanti"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "belt",
+      "target": "cintura"
+    }
+  ]
+}

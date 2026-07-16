@@ -1,0 +1,6009 @@
+{
+  "source": "en",
+  "target": "ro",
+  "sourceName": "English",
+  "targetName": "Română",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "to be",
+      "target": "fi"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "one",
+      "target": "unu"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "to have",
+      "target": "pentru a avea"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "hot",
+      "target": "fierbinte"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "word",
+      "target": "cuvânt"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "can",
+      "target": "doză"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "to do",
+      "target": "a face"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "time",
+      "target": "timp"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "will",
+      "target": "voință"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "said",
+      "target": "spus"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "tell",
+      "target": "spune"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "set",
+      "target": "setare"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "three",
+      "target": "trei"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "desire",
+      "target": "dorință"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "aer"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "well",
+      "target": "ei bine"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "play",
+      "target": "redare"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "small",
+      "target": "mică"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "end",
+      "target": "sfârșit"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "put",
+      "target": "puneți"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "home",
+      "target": "casă"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "read",
+      "target": "citiți"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hand",
+      "target": "mână"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "carry",
+      "target": "transportați"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "large",
+      "target": "mare"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "spell",
+      "target": "ortografie"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "add",
+      "target": "adăuga"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "pământ"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "big",
+      "target": "mare"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "high",
+      "target": "înalt"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "follow",
+      "target": "urmați"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "act",
+      "target": "act"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "ask",
+      "target": "întrebați"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "men",
+      "target": "bărbați"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "change",
+      "target": "o schimbare"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "light",
+      "target": "lumină"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "kind",
+      "target": "bun"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "turned off",
+      "target": "oprit"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "need",
+      "target": "nevoie"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "house",
+      "target": "casă"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "imagine"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "try",
+      "target": "încercați"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "animal"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "punct"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mother",
+      "target": "mamă"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "world",
+      "target": "lume"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "near",
+      "target": "aproape"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "build",
+      "target": "construiți"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "earth",
+      "target": "împământare"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "father",
+      "target": "tată"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "new",
+      "target": "nou"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "work",
+      "target": "muncă"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "part",
+      "target": "piesă"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "take",
+      "target": "luați"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "get",
+      "target": "obține"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "locul"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "live",
+      "target": "trăi"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "round",
+      "target": "rotund"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "man",
+      "target": "bărbat"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "year",
+      "target": "anul"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "show",
+      "target": "afișare"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "good",
+      "target": "bine"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "give",
+      "target": "dăruiește"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "name",
+      "target": "nume"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "formă"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sentence",
+      "target": "frază"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "great",
+      "target": "excelent"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "think",
+      "target": "gândiți-vă"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "say",
+      "target": "spune"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "help",
+      "target": "ajutor"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "low",
+      "target": "scăzut"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "line",
+      "target": "linie"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "differ",
+      "target": "diferă"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turn",
+      "target": "rotiți"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "cauză"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mean",
+      "target": "medie"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "move",
+      "target": "mutare"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "right",
+      "target": "dreapta"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "boy",
+      "target": "băiete"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "old",
+      "target": "vechi"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "use",
+      "target": "utilizare"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "way",
+      "target": "calea"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "write",
+      "target": "scriere"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "lung"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "make",
+      "target": "marca"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "thing",
+      "target": "lucru"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "see",
+      "target": "consultați"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "two",
+      "target": "două"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "look",
+      "target": "priviți"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "day",
+      "target": "zi"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "go",
+      "target": "merge"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "come",
+      "target": "veni"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "number",
+      "target": "număr"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "sound",
+      "target": "sunet"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "people",
+      "target": "oameni"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "know",
+      "target": "știți"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "water",
+      "target": "apă"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "call",
+      "target": "apelați"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "first",
+      "target": "mai întâi"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "lateral"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "find",
+      "target": "găsiți"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "head",
+      "target": "cap"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stand",
+      "target": "a sta în picioare"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "own",
+      "target": "proprii"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "pagina"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "country",
+      "target": "țara"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "found",
+      "target": "găsit"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "answer",
+      "target": "răspuns"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "school",
+      "target": "școală"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grow",
+      "target": "creșteți"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "study",
+      "target": "studiu"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "learn",
+      "target": "învățați"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "plant",
+      "target": "plantare"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "cover",
+      "target": "capac"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "food",
+      "target": "alimente"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sun",
+      "target": "soare"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "four",
+      "target": "patru"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "state",
+      "target": "statul"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "keep",
+      "target": "păstrați"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "eye",
+      "target": "ochi"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "last",
+      "target": "ultimul"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "let",
+      "target": "se lasă"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "thought",
+      "target": "gândire"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "city",
+      "target": "oraș"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "tree",
+      "target": "copac"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "cross",
+      "target": "cruce"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "farm",
+      "target": "fermă"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hard",
+      "target": "tare"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "pornire"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "might",
+      "target": "poate"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "story",
+      "target": "poveste"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "saw",
+      "target": "am văzut"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "far",
+      "target": "departe"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "sea",
+      "target": "sea"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "draw",
+      "target": "desenați"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "left",
+      "target": "stânga"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "run",
+      "target": "rulare"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "press",
+      "target": "apăsați"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "close",
+      "target": "închideți"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "night",
+      "target": "noapte"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "reală"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "life",
+      "target": "viața"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "north",
+      "target": "nord"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "book",
+      "target": "carte"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "carry",
+      "target": "transportați"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "știință"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eat",
+      "target": "mâncați"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "room",
+      "target": "cameră"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "friend",
+      "target": "prieten"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "began",
+      "target": "început"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idea",
+      "target": "idee"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fish",
+      "target": "pește"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "mountain",
+      "target": "munte"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stop",
+      "target": "opriți"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "bază"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hear",
+      "target": "ascultați"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "horse",
+      "target": "cai"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "cut",
+      "target": "tăiați"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sure",
+      "target": "sigur"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "watch",
+      "target": "atenție"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "color",
+      "target": "culoare"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "face",
+      "target": "față"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "wood",
+      "target": "lemn"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "main",
+      "target": "principal"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "open",
+      "target": "deschis"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "seem",
+      "target": "pare"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "next",
+      "target": "următor"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "white",
+      "target": "alb"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "children",
+      "target": "copii"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begin",
+      "target": "începe"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "walk",
+      "target": "mers pe jos."
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "example",
+      "target": "exemplu"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "ease",
+      "target": "ușurință"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "paper",
+      "target": "hârtie"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "group",
+      "target": "grup"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "music",
+      "target": "muzică"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mark",
+      "target": "marcaj"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "letter",
+      "target": "scrisoare"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mile",
+      "target": "milă"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "river",
+      "target": "râu"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "car",
+      "target": "mașină"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "feet",
+      "target": "picioare"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "care",
+      "target": "grijă"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "second",
+      "target": "în al doilea rând"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plain",
+      "target": "simplu"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "girl",
+      "target": "fată"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "usual",
+      "target": "de obicei"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "young",
+      "target": "tânăr"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "ready",
+      "target": "pregătit"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "red",
+      "target": "roșu"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "list",
+      "target": "listă"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "feel",
+      "target": "simțiți"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "talk",
+      "target": "a vorbi"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "bird",
+      "target": "pasăre"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "body",
+      "target": "corp"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "dog",
+      "target": "câine"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "family",
+      "target": "familie"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "direct"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "poză"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "leave",
+      "target": "pleacă"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "song",
+      "target": "cântec"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "measure",
+      "target": "măsură"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "door",
+      "target": "ușă"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "product",
+      "target": "produs"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "black",
+      "target": "negru"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "short",
+      "target": "scurt"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numeral",
+      "target": "numeral"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "class",
+      "target": "clasa"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "vânt"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "question",
+      "target": "întrebare"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "happen",
+      "target": "se întâmplă"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "complete",
+      "target": "finalizată"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "ship",
+      "target": "expediați"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "area",
+      "target": "zonă"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "half",
+      "target": "jumătate"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rock",
+      "target": "stâncă"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "order",
+      "target": "comandă"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "fire",
+      "target": "foc"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "south",
+      "target": "sud"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "problemă"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "piece",
+      "target": "bucată"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "tell",
+      "target": "spune"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "pass",
+      "target": "trece"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "sus"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "whole",
+      "target": "întreg"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "king",
+      "target": "rege"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "street",
+      "target": "stradă"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "inch",
+      "target": "țol"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiply",
+      "target": "înmulțiți"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "course",
+      "target": "curs"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "stay",
+      "target": "rămâneți"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "wheel",
+      "target": "roată"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "full",
+      "target": "plin"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "force",
+      "target": "forță"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blue",
+      "target": "albastru"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "object",
+      "target": "obiect"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "decide",
+      "target": "decide"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "suprafață"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "deep",
+      "target": "adânc"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "moon",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "island",
+      "target": "insulă"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "foot",
+      "target": "picior"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "sistem"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "busy",
+      "target": "ocupat"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "înregistrare"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "boat",
+      "target": "barcă"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "common",
+      "target": "comun"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "gold",
+      "target": "aur"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "posibil"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plane",
+      "target": "avion"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "stead",
+      "target": "loc"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "dry",
+      "target": "uscat"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wonder",
+      "target": "minune"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "laugh",
+      "target": "râzi"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "thousand",
+      "target": "mii"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "ago",
+      "target": "acum"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "ran",
+      "target": "alerga"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "check",
+      "target": "verificați"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "game",
+      "target": "joc"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "shape",
+      "target": "formă"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "equate",
+      "target": "egalează"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "hot",
+      "target": "fierbinte"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "miss",
+      "target": "domnișoară"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "brought",
+      "target": "adus"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "heat",
+      "target": "se încălzește"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "snow",
+      "target": "zăpadă"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "tire",
+      "target": "anvelopă"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bring",
+      "target": "aduceți"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distant",
+      "target": "distantă"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fill",
+      "target": "umpleți"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "east",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "paint",
+      "target": "vopsea"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "language",
+      "target": "limbă"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unit",
+      "target": "unitate"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "power",
+      "target": "alimentare"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "town",
+      "target": "oraș"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fine",
+      "target": "bine"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "certain",
+      "target": "sigur"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fly",
+      "target": "zboară"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fall",
+      "target": "cădea"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "lead",
+      "target": "a conduce"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cry",
+      "target": "plângi"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dark",
+      "target": "întuneric"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "utilaj"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "notă"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "wait",
+      "target": "așteptați"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "planificați"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "star",
+      "target": "stea"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "box",
+      "target": "cutie"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "noun",
+      "target": "substantiv"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "field",
+      "target": "câmp"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "rest",
+      "target": "odihnă"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "corect"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "able",
+      "target": "capabil"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pound",
+      "target": "lira sterlină"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "done",
+      "target": "gata"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauty",
+      "target": "frumusețe"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "drive",
+      "target": "conduceți"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "stand up",
+      "target": "a se ridica"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contain",
+      "target": "conține"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "front",
+      "target": "față"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "teach",
+      "target": "învățați"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "week",
+      "target": "săptămână"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "final",
+      "target": "finală"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "give",
+      "target": "dăruiește"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "green",
+      "target": "verde"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "quick",
+      "target": "rapid"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "develop",
+      "target": "dezvoltați"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "ocean"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "cald"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "free",
+      "target": "liber"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "minut"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "strong",
+      "target": "puternică"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "special",
+      "target": "special"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "mind",
+      "target": "atenție"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clear",
+      "target": "clar"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "tail",
+      "target": "coadă"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produce",
+      "target": "produce"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fact",
+      "target": "fapt"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "space",
+      "target": "spațiu"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "heard",
+      "target": "auzit"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "best",
+      "target": "cel mai bun"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "hour",
+      "target": "oră"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "better",
+      "target": "mai bine"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "true",
+      "target": "adevărat"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundred",
+      "target": "sută"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "five",
+      "target": "cinci"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "remember",
+      "target": "rețineți"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "step",
+      "target": "pas"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "hold",
+      "target": "țineți apăsat"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "west",
+      "target": "vest"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "ground",
+      "target": "împământare"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "interest",
+      "target": "interes"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "reach",
+      "target": "ajunge"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "fast",
+      "target": "rapid"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verb",
+      "target": "verb"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "sing",
+      "target": "cântați"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "listen",
+      "target": "ascultați"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "șase"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "tabelul"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "travel",
+      "target": "a călători"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morning",
+      "target": "dimineața"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ten",
+      "target": "zece"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "simplu"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vowel",
+      "target": "vocală"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "war",
+      "target": "război"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lay",
+      "target": "așezare"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "pattern",
+      "target": "model"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "slow",
+      "target": "lent"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "center",
+      "target": "centru"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "love",
+      "target": "iubire"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "persoană"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "money",
+      "target": "bani"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "serve",
+      "target": "servi"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "appear",
+      "target": "apare"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "map",
+      "target": "hartă"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "rain",
+      "target": "ploaie"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "rule",
+      "target": "regulă"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "govern",
+      "target": "guverna"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "pull",
+      "target": "trageți"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "cold",
+      "target": "rece"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "notice",
+      "target": "notă"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voice",
+      "target": "voce"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energy",
+      "target": "energie"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "hunt",
+      "target": "vânătoare"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "probabil"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "bed",
+      "target": "pat"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "brother",
+      "target": "frate"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "egg",
+      "target": "ouă"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "ride",
+      "target": "plimbare"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cell",
+      "target": "celulă"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "believe",
+      "target": "credeți"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "pick",
+      "target": "alegeți"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "sudden",
+      "target": "brusc"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "count",
+      "target": "contorizare"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "square",
+      "target": "pătrat"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "reason",
+      "target": "expunere de motive"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "length",
+      "target": "lungime"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "represent",
+      "target": "reprezentați"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "artă"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "subject",
+      "target": "subiect"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "regiune"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "size",
+      "target": "mărime"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "vary",
+      "target": "variază"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "settle",
+      "target": "stabiliți"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "speak",
+      "target": "vorbește"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "weight",
+      "target": "greutate"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "general",
+      "target": "generalități"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "ice",
+      "target": "gheață"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matter",
+      "target": "caz"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "circle",
+      "target": "cerc"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pair",
+      "target": "asociere"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "include",
+      "target": "includere"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divide",
+      "target": "împărțiți"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllable",
+      "target": "silabă"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "felt",
+      "target": "simțită"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "mare"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "ball",
+      "target": "minge"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "wave",
+      "target": "undă"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "drop",
+      "target": "picătură"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "heart",
+      "target": "inimă"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "present",
+      "target": "prezent"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "heavy",
+      "target": "grea"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dance",
+      "target": "dansează"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "engine",
+      "target": "motor"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "poziție"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "braț"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "wide",
+      "target": "largă"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sail",
+      "target": "navighează"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "material"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "fracție"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forest",
+      "target": "pădure"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sit",
+      "target": "ia loc"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "race",
+      "target": "cursă"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "window",
+      "target": "fereastră"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "store",
+      "target": "depozitați"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "summer",
+      "target": "vară"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "tren"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sleep",
+      "target": "somn"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "prove",
+      "target": "dovedi"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "lone",
+      "target": "singur"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "leg",
+      "target": "picior"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercise",
+      "target": "exercițiu"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "wall",
+      "target": "perete"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "catch",
+      "target": "captură"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mount",
+      "target": "montare"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "wish",
+      "target": "doresc"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "sky",
+      "target": "cer"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "board",
+      "target": "bord"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joy",
+      "target": "bucurie"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "winter",
+      "target": "iarnă"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "written",
+      "target": "scris"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "sălbatică"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "instrument"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "kept",
+      "target": "păstrat"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glass",
+      "target": "sticlă"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "grass",
+      "target": "iarbă"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "cow",
+      "target": "vacă"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "operație"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "edge",
+      "target": "margine"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "sign",
+      "target": "semnați"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visit",
+      "target": "vizitați"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "past",
+      "target": "trecut"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "soft",
+      "target": "moale"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "fun",
+      "target": "distractiv"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "bright",
+      "target": "luminos"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gaz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "weather",
+      "target": "vreme"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "month",
+      "target": "lună"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "milioane"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bear",
+      "target": "urs"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finish",
+      "target": "finalizați"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "happy",
+      "target": "fericit"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "hope",
+      "target": "speranță"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "flower",
+      "target": "floare"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "clothe",
+      "target": "îmbrăcați"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "strange",
+      "target": "ciudat"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "go",
+      "target": "merge"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "trade",
+      "target": "comerț"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melody",
+      "target": "melodie"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "trip",
+      "target": "călătorie"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "office",
+      "target": "birou"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "receive",
+      "target": "primire"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "row",
+      "target": "rând"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mouth",
+      "target": "gură"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "exact"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "simbol"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "die",
+      "target": "muri"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "trouble",
+      "target": "probleme"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "shout",
+      "target": "strigați"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "seed",
+      "target": "semințe"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "ton"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "join",
+      "target": "alăturați-vă"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggest",
+      "target": "sugerați"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "clean",
+      "target": "curățați"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "break",
+      "target": "pauză"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "lady",
+      "target": "doamnă"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "yard",
+      "target": "curte"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rise",
+      "target": "creștere"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "bad",
+      "target": "rău"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blow",
+      "target": "suflați"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "oil",
+      "target": "ulei"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blood",
+      "target": "sânge"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "touch",
+      "target": "atingeți"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grew",
+      "target": "creștea"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "cent"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mix",
+      "target": "se amestecă"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "echipă"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "wire",
+      "target": "sârmă"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "cost",
+      "target": "cost"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "lost",
+      "target": "pierdut"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brown",
+      "target": "maro"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "wear",
+      "target": "uzură"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "garden",
+      "target": "grădină"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "equal",
+      "target": "egal"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sent",
+      "target": "trimis"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choose",
+      "target": "alegeți"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fell",
+      "target": "căzut"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "fit",
+      "target": "potrivire"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flow",
+      "target": "debit"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fair",
+      "target": "corect"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "bancă"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "collect",
+      "target": "colectați"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "save",
+      "target": "salvare"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "control",
+      "target": "control"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "zecimală"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "ear",
+      "target": "ureche"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "broke",
+      "target": "rupt"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "case",
+      "target": "caz"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "middle",
+      "target": "mijloc"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "kill",
+      "target": "ucideți"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "son",
+      "target": "fiu"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lake",
+      "target": "lacul"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "moment"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "scale",
+      "target": "scală"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "loud",
+      "target": "tare"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "spring",
+      "target": "primăvară"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observe",
+      "target": "observați"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "child",
+      "target": "copil"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "straight",
+      "target": "drept"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonant",
+      "target": "consoană"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "națiune"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionary",
+      "target": "dicționar"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "milk",
+      "target": "lapte"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "speed",
+      "target": "viteză"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "method",
+      "target": "metodă"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "organ"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "pay",
+      "target": "plătiți"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "age",
+      "target": "vârsta"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "secțiunea"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "dress",
+      "target": "rochie"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "cloud",
+      "target": "nor"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "surpriză"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "quiet",
+      "target": "liniște"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "stone",
+      "target": "piatră"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "tiny",
+      "target": "mică"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "climb",
+      "target": "a urca"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "cool",
+      "target": "se răcește"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "design"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "poor",
+      "target": "săracă"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "lot"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "experiment",
+      "target": "experiment"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "bottom",
+      "target": "partea inferioară"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "key",
+      "target": "apăsați tasta"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "iron",
+      "target": "fier de călcat"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "single",
+      "target": "unică"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "stick",
+      "target": "băț"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flat",
+      "target": "plat"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "twenty",
+      "target": "douăzeci"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "skin",
+      "target": "piele"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smile",
+      "target": "zâmbește"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "crease",
+      "target": "cută"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hole",
+      "target": "orificiu"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "jump",
+      "target": "salt"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "bebeluș"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "eight",
+      "target": "opt"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "sat"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "meet",
+      "target": "faceți cunoștință"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "root",
+      "target": "rădăcină"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "buy",
+      "target": "cumpărați"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "raise",
+      "target": "ridicare"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "solve",
+      "target": "rezolvați"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "metal"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "push",
+      "target": "apăsați"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "seven",
+      "target": "șapte"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraph",
+      "target": "paragraf"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "third",
+      "target": "în al treilea rând"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "held",
+      "target": "reținut"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hair",
+      "target": "păr"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "describe",
+      "target": "descrieți"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cook",
+      "target": "gătiți"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "floor",
+      "target": "etaj"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "result",
+      "target": "rezultat"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "burn",
+      "target": "ardeți"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "hill",
+      "target": "deal"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "safe",
+      "target": "sigur"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cat",
+      "target": "pisică"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "century",
+      "target": "secolul"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "consider",
+      "target": "luați în considerare"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "tip"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "law",
+      "target": "legea"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coast",
+      "target": "coastă"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copy",
+      "target": "copiere"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "frază"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silent",
+      "target": "silențios"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "tall",
+      "target": "înalt"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "nisip"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "soil",
+      "target": "sol"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "roll",
+      "target": "rulou"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperature",
+      "target": "temperatură"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "deget"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industry",
+      "target": "industrie"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "value",
+      "target": "valoare"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "fight",
+      "target": "luptă"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lie",
+      "target": "minciună"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "beat",
+      "target": "bateți"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "excite",
+      "target": "excita"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natural",
+      "target": "natural"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "view",
+      "target": "vizualizare"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sense",
+      "target": "sens"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capital",
+      "target": "capital"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chair",
+      "target": "scaun"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "pericol"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruit",
+      "target": "fructe"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rich",
+      "target": "bogat"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "thick",
+      "target": "gros"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldier",
+      "target": "soldat"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "process",
+      "target": "proces"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operate",
+      "target": "operați"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "practice",
+      "target": "practică"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separate",
+      "target": "separat"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficult",
+      "target": "dificil"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "doctor",
+      "target": "doctor"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "please",
+      "target": "vă rog"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protect",
+      "target": "protejați"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "noon",
+      "target": "amiază"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "crop",
+      "target": "recoltă"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "modern"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "element"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "hit",
+      "target": "lovi"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "student",
+      "target": "student"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "corner",
+      "target": "colț"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "party",
+      "target": "petrecere"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "supply",
+      "target": "alimentare"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "locate",
+      "target": "localizați"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "inel"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "character",
+      "target": "caracter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insect",
+      "target": "insectă"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "caught",
+      "target": "prins"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "period",
+      "target": "perioadă"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indicate",
+      "target": "se indica"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radio"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "spoke",
+      "target": "vorbit"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atom"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "human",
+      "target": "umană"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "history",
+      "target": "istoric"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effect",
+      "target": "efect"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "electric",
+      "target": "electric"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "expect",
+      "target": "așteptați"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "bone",
+      "target": "os"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "rail",
+      "target": "cale ferată"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imagine",
+      "target": "imaginați-vă"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "provide",
+      "target": "furnizați"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "agree",
+      "target": "de acord."
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "gentle",
+      "target": "delicată"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "woman",
+      "target": "femeie"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "captain",
+      "target": "căpitan"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "guess",
+      "target": "ghiciți"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "necessary",
+      "target": "necesară"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "sharp",
+      "target": "ascuțită"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "wing",
+      "target": "aripă"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "create",
+      "target": "creați"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "neighbor",
+      "target": "vecinului"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "wash",
+      "target": "spălați"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "bat",
+      "target": "liliac"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "crowd",
+      "target": "mulțime"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "corn",
+      "target": "porumb"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "compare",
+      "target": "comparare"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poem",
+      "target": "poem"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "string",
+      "target": "șir de caractere"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "bell",
+      "target": "clopot"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "depend",
+      "target": "depinde"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "meat",
+      "target": "carne"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "rub",
+      "target": "frecați"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "tub"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "famous",
+      "target": "celebru"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dolar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "stream",
+      "target": "flux"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "fear",
+      "target": "frică"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "sight",
+      "target": "vedere"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "thin",
+      "target": "subțire"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "triunghi"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planet",
+      "target": "planetă"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hurry",
+      "target": "grăbiți-vă"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chief",
+      "target": "șef"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colony",
+      "target": "colonie"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "clock",
+      "target": "ceas"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "mină"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "tie",
+      "target": "cravată"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "enter",
+      "target": "introduceți"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "major",
+      "target": "majoră"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "fresh",
+      "target": "proaspăt"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "search",
+      "target": "căutare"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "send",
+      "target": "trimitere"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "yellow",
+      "target": "galben"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "gun",
+      "target": "pistol"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "allow",
+      "target": "se permite"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "print",
+      "target": "imprimare"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "dead",
+      "target": "mort"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "spot",
+      "target": "pată"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desert",
+      "target": "deșert"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "suit",
+      "target": "costum"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "current",
+      "target": "curentă"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "ridicare"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "trandafir"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arrive",
+      "target": "sosi"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "master",
+      "target": "maestru"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "track",
+      "target": "urmărire"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "părinte"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "shore",
+      "target": "țărm"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "diviziune"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "sheet",
+      "target": "foaie"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "substanță"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favor",
+      "target": "favoriza"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connect",
+      "target": "conectați"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "post",
+      "target": "mesaj"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "spend",
+      "target": "cheltuiți"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "chord",
+      "target": "acord"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fat",
+      "target": "grăsime"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "bucuros"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "original"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "share",
+      "target": "partajați"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "stație"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "dad",
+      "target": "tată"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "bread",
+      "target": "pâine"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "încărcați"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "proper",
+      "target": "corect"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offer",
+      "target": "ofertă"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segment"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "sclav"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "duck",
+      "target": "rață"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "instant",
+      "target": "instant"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "market",
+      "target": "piață"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degree",
+      "target": "grad"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populate",
+      "target": "popula"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "chick",
+      "target": "pui"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "dear",
+      "target": "stimate"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "enemy",
+      "target": "inamic"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "reply",
+      "target": "răspuns"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drink",
+      "target": "beți"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "occur",
+      "target": "se produce"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "support",
+      "target": "asistență"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "speech",
+      "target": "vorbire"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "natură"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "range",
+      "target": "interval"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "steam",
+      "target": "abur"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "motion",
+      "target": "mișcare"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "path",
+      "target": "cale"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquid",
+      "target": "lichid"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "log",
+      "target": "jurnal"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "mean",
+      "target": "medie"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "coeficient"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "teeth",
+      "target": "dinți"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "shell",
+      "target": "coajă"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "neck",
+      "target": "gât"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygen",
+      "target": "oxigen"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sugar",
+      "target": "zahăr"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "death",
+      "target": "moarte"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "skill",
+      "target": "abilitate"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "women",
+      "target": "femei"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "season",
+      "target": "sezon"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "soluție"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "magnet"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silver",
+      "target": "argintiu"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "thank",
+      "target": "mulțumesc"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branch",
+      "target": "sucursală"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "match",
+      "target": "potrivire"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffix",
+      "target": "sufix"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "especially",
+      "target": "mai ales"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fig",
+      "target": "smochină"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "afraid",
+      "target": "frică"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "huge",
+      "target": "uriașă"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "sister",
+      "target": "soră"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "steel",
+      "target": "oțel"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuss",
+      "target": "discutați"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similar",
+      "target": "similar"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "guide",
+      "target": "ghid"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "experience",
+      "target": "experiență"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "scor"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "apple",
+      "target": "măr"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "bought",
+      "target": "cumpărată"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "led",
+      "target": "condus"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pitch",
+      "target": "înclinare"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "coat",
+      "target": "haină"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "mass",
+      "target": "masă"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "card",
+      "target": "cartelă"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "bandă"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "rope",
+      "target": "frânghie"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "alunecare"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "win",
+      "target": "câștigați"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "dream",
+      "target": "visează"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "evening",
+      "target": "seara"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "condiție"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "feed",
+      "target": "alimentare"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "tool",
+      "target": "instrument"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "total"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "basic",
+      "target": "de bază"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "smell",
+      "target": "miroase"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "valley",
+      "target": "valea"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "dublă"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "seat",
+      "target": "scaun"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continue",
+      "target": "continuați"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "block",
+      "target": "un bloc"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "chart",
+      "target": "diagramă"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "pălărie"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sell",
+      "target": "vindeți"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "success",
+      "target": "succes"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "company",
+      "target": "o companie"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtract",
+      "target": "scădeți"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "event",
+      "target": "eveniment"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particular",
+      "target": "special"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "deal",
+      "target": "ofertă"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "swim",
+      "target": "înot"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "term",
+      "target": "termen"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposite",
+      "target": "opus"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "wife",
+      "target": "soție"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "shoe",
+      "target": "pantof"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "shoulder",
+      "target": "umăr"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spread",
+      "target": "răspândiți"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrange",
+      "target": "aranjați"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "camp",
+      "target": "o tabără"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "invent",
+      "target": "inventează"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "cotton",
+      "target": "bumbac"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "birth",
+      "target": "naștere"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "determine",
+      "target": "determinați"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "sfert de galon"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "nine",
+      "target": "nouă"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "truck",
+      "target": "camion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "noise",
+      "target": "zgomot"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "level",
+      "target": "nivel"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "șansă"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "gather",
+      "target": "adunați"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "shop",
+      "target": "cumpărați"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "stretch",
+      "target": "întindere"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "throw",
+      "target": "aruncați"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "shine",
+      "target": "strălucire"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "property",
+      "target": "proprietate"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "column",
+      "target": "coloană"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molecule",
+      "target": "moleculă"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "select",
+      "target": "selectați"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "wrong",
+      "target": "greșit"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gray",
+      "target": "gri"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "repeat",
+      "target": "repetați"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "require",
+      "target": "necesită"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "broad",
+      "target": "largă"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "prepare",
+      "target": "pregătiți"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "sare"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nose",
+      "target": "nas"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "plural"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "anger",
+      "target": "furie"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "claim",
+      "target": "revendicare"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "continent"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "screen",
+      "target": "ecran"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bottle",
+      "target": "flacon"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lamp",
+      "target": "lampă"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telephone",
+      "target": "telefon"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "trousers",
+      "target": "pantaloni"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "cheek",
+      "target": "obraz"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "pencil",
+      "target": "creion"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "pen",
+      "target": "stilou"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palace",
+      "target": "palatul"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "aeroplane",
+      "target": "avion"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bike",
+      "target": "bicicletă"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "calculator"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "restaurant"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "vază"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rocket",
+      "target": "rachetă"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prey",
+      "target": "pradă"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "university",
+      "target": "universitatea"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "stairs",
+      "target": "scări"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorbike",
+      "target": "motocicletă"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jacket",
+      "target": "jachetă"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "scream",
+      "target": "țipă"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joy",
+      "target": "bucurie"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "daughter",
+      "target": "fiică"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "husband",
+      "target": "soț"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grandmother",
+      "target": "bunică"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grandfather",
+      "target": "bunic"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "uncle",
+      "target": "unchi"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "aunt",
+      "target": "mătușă"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "văr"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "autumn",
+      "target": "toamnă"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "today",
+      "target": "azi"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "tomorrow",
+      "target": "mâine"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "yesterday",
+      "target": "ieri"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "cheese",
+      "target": "brânză"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "butter",
+      "target": "unt"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "coffee",
+      "target": "cafea"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "ceai"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "wine",
+      "target": "vin"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "beer",
+      "target": "bere"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rice",
+      "target": "orez"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "potato",
+      "target": "cartof"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomato",
+      "target": "roșie"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "onion",
+      "target": "ceapă"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "lemon",
+      "target": "lămâie"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "portocală"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banana",
+      "target": "banană"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "grape",
+      "target": "strugure"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carrot",
+      "target": "morcov"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bean",
+      "target": "fasole"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "flour",
+      "target": "făină"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "cake",
+      "target": "tort"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "cookie",
+      "target": "biscuit"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolate",
+      "target": "ciocolată"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "ice cream",
+      "target": "înghețată"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honey",
+      "target": "miere"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soup",
+      "target": "supă"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salad",
+      "target": "salată"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinegar",
+      "target": "oțet"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "pepper",
+      "target": "piper"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "juice",
+      "target": "suc"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "chicken",
+      "target": "pui"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "pig",
+      "target": "porc"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "sheep",
+      "target": "oaie"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "goat",
+      "target": "capră"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "rabbit",
+      "target": "iepure"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mouse",
+      "target": "șoarece"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bear",
+      "target": "urs"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "leu"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "wolf",
+      "target": "lup"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "fox",
+      "target": "vulpe"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "monkey",
+      "target": "maimuță"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elephant",
+      "target": "elefant"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tigru"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraffe",
+      "target": "girafă"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bee",
+      "target": "albină"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "butterfly",
+      "target": "fluture"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "spider",
+      "target": "păianjen"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "snake",
+      "target": "șarpe"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "ant",
+      "target": "furnică"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "fly",
+      "target": "muscă"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "mosquito",
+      "target": "țânțar"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frog",
+      "target": "broască"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "shark",
+      "target": "rechin"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "whale",
+      "target": "balenă"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "turtle",
+      "target": "broască țestoasă"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "goose",
+      "target": "gâscă"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "hen",
+      "target": "găină"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "turkey",
+      "target": "curcan"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knee",
+      "target": "genunchi"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "elbow",
+      "target": "cot"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lips",
+      "target": "buze"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "back",
+      "target": "spate"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "chest",
+      "target": "piept"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "stomach",
+      "target": "stomac"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "brain",
+      "target": "creier"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "nail",
+      "target": "unghie"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "beard",
+      "target": "barbă"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tear",
+      "target": "lacrimă"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "kitchen",
+      "target": "bucătărie"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "bathroom",
+      "target": "baie"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "mirror",
+      "target": "oglindă"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "knife",
+      "target": "cuțit"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fork",
+      "target": "furculiță"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "spoon",
+      "target": "lingură"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "plate",
+      "target": "farfurie"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "cup",
+      "target": "ceașcă"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "roof",
+      "target": "acoperiș"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "soap",
+      "target": "săpun"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "towel",
+      "target": "prosop"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brush",
+      "target": "perie"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "umbrella",
+      "target": "umbrelă"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "suitcase",
+      "target": "valiză"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "bag",
+      "target": "geantă"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "wallet",
+      "target": "portofel"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "coin",
+      "target": "monedă"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gift",
+      "target": "cadou"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "toy",
+      "target": "jucărie"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "doll",
+      "target": "păpușă"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "newspaper",
+      "target": "ziar"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "revistă"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "movie",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "spital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "church",
+      "target": "biserică"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "hotel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "airport",
+      "target": "aeroport"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "library",
+      "target": "bibliotecă"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "muzeu"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "parc"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "theatre",
+      "target": "teatru"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacy",
+      "target": "farmacie"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "autobuz"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bridge",
+      "target": "pod"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "castle",
+      "target": "castel"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tower",
+      "target": "turn"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "factory",
+      "target": "fabrică"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "beach",
+      "target": "plajă"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "junglă"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "rainbow",
+      "target": "curcubeu"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "thunder",
+      "target": "tunet"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "smoke",
+      "target": "fum"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "ash",
+      "target": "cenușă"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "nurse",
+      "target": "asistent"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "lawyer",
+      "target": "avocat"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "engineer",
+      "target": "inginer"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "writer",
+      "target": "scriitor"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "singer",
+      "target": "cântăreț"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "painter",
+      "target": "pictor"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "waiter",
+      "target": "chelner"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "farmer",
+      "target": "fermier"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policeman",
+      "target": "polițist"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "shirt",
+      "target": "cămașă"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "skirt",
+      "target": "fustă"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "socks",
+      "target": "șosete"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gloves",
+      "target": "mănuși"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "belt",
+      "target": "curea"
+    }
+  ]
+}

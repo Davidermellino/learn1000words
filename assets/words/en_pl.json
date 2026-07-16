@@ -1,0 +1,6009 @@
+{
+  "source": "en",
+  "target": "pl",
+  "sourceName": "English",
+  "targetName": "Polski",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "to be",
+      "target": "być"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "one",
+      "target": "jeden"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "to have",
+      "target": "mieć"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "hot",
+      "target": "gorący"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "word",
+      "target": "słowo"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "can",
+      "target": "puszka"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "to do",
+      "target": "robić"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "time",
+      "target": "czas"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "will",
+      "target": "wola"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "said",
+      "target": "powiedział"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "tell",
+      "target": "powiedz"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "set",
+      "target": "stały"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "three",
+      "target": "trzy"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "desire",
+      "target": "życzenia"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "powietrze"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "well",
+      "target": "cóż"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "play",
+      "target": "odtwórz"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "small",
+      "target": "mały"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "end",
+      "target": "koniec"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "put",
+      "target": "umieścić"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "home",
+      "target": "dom"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "read",
+      "target": "czytaj"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hand",
+      "target": "ręka"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "carry",
+      "target": "przynieś"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "large",
+      "target": "duży"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "spell",
+      "target": "compite"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "add",
+      "target": "dodaj"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "ziemia"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "big",
+      "target": "duży"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "high",
+      "target": "wysoki"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "follow",
+      "target": "śledź"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "act",
+      "target": "działaj"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "ask",
+      "target": "zapytaj"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "men",
+      "target": "samce"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "change",
+      "target": "zmień"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "light",
+      "target": "światło"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "kind",
+      "target": "typ"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "turned off",
+      "target": "wył"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "need",
+      "target": "potrzeba"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "house",
+      "target": "dom"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "obraz"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "try",
+      "target": "spróbuj"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "zwierzę"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "punkt"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mother",
+      "target": "matka"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "world",
+      "target": "świat"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "near",
+      "target": "zamknij"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "build",
+      "target": "buduj"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "earth",
+      "target": "ziemia"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "father",
+      "target": "ojcze"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "new",
+      "target": "nowy"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "work",
+      "target": "praca"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "part",
+      "target": "część"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "take",
+      "target": "weź"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "get",
+      "target": "pobierz"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "miejsce"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "live",
+      "target": "na żywo"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "round",
+      "target": "obróć"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "man",
+      "target": "człowiek"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "year",
+      "target": "rok"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "show",
+      "target": "pokaż"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "good",
+      "target": "dobrze"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "give",
+      "target": "daj"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "name",
+      "target": "nazwa"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sentence",
+      "target": "zdanie"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "great",
+      "target": "duży"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "think",
+      "target": "pomyśl"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "say",
+      "target": "powiedz"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "help",
+      "target": "pomoc"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "low",
+      "target": "niski"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "line",
+      "target": "linia"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "differ",
+      "target": "różne"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turn",
+      "target": "obróć"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "przyczyna"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mean",
+      "target": "powiedz"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "move",
+      "target": "przenieś"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "right",
+      "target": "w prawo"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "boy",
+      "target": "chłopcze"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "old",
+      "target": "stare"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "use",
+      "target": "użyj"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "way",
+      "target": "sposób"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "write",
+      "target": "zapisz"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "długi"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "make",
+      "target": "marka"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "thing",
+      "target": "co"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "see",
+      "target": "patrz"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "two",
+      "target": "dwa"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "look",
+      "target": "patrz"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "day",
+      "target": "dzień"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "go",
+      "target": "idź"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "come",
+      "target": "przyjdź"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "number",
+      "target": "numer"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "sound",
+      "target": "dźwięk"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "people",
+      "target": "ludzie"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "know",
+      "target": "wiem"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "water",
+      "target": "woda"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "call",
+      "target": "zadzwoń"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "first",
+      "target": "najpierw"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "boczny"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "find",
+      "target": "znajdź"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "head",
+      "target": "głowa"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stand",
+      "target": "stojąc"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "own",
+      "target": "dokładnie"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "strona"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "country",
+      "target": "kraj"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "found",
+      "target": "ustanowienie"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "answer",
+      "target": "odpowiedź"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "school",
+      "target": "szkoła"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grow",
+      "target": "rośnie"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "study",
+      "target": "badanie"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "learn",
+      "target": "dowiedz się"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "plant",
+      "target": "zakład"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "cover",
+      "target": "pokrywa"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "food",
+      "target": "jedzenie"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sun",
+      "target": "słońce"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "four",
+      "target": "cztery"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "state",
+      "target": "był"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "keep",
+      "target": "konserwacja"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "eye",
+      "target": "oko"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "last",
+      "target": "ostatni"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "let",
+      "target": "opuść"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "thought",
+      "target": "przemyślenia"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "city",
+      "target": "miasto"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "tree",
+      "target": "drzewo"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "cross",
+      "target": "krzyżyk"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "farm",
+      "target": "gospodarstwo rolne"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hard",
+      "target": "trudne"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "początek"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "might",
+      "target": "siła"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "story",
+      "target": "historia"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "saw",
+      "target": "piła"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "far",
+      "target": "daleko"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "sea",
+      "target": "mare"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "draw",
+      "target": "rysuj"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "left",
+      "target": "w lewo"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "run",
+      "target": "uruchom"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "press",
+      "target": "drukowanie"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "close",
+      "target": "zamknij"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "night",
+      "target": "noc"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "prawdziwe"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "life",
+      "target": "życie"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "north",
+      "target": "północ"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "book",
+      "target": "książka"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "carry",
+      "target": "przynieś"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "nauka"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eat",
+      "target": "jedz"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "room",
+      "target": "pokój"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "friend",
+      "target": "przyjacielu"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "began",
+      "target": "rozpoczęte"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idea",
+      "target": "pomysł"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fish",
+      "target": "ryby"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "mountain",
+      "target": "góry"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stop",
+      "target": "zatrzymaj"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "podstawa"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hear",
+      "target": "usłysz"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "horse",
+      "target": "koń"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "cut",
+      "target": "cięcie"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sure",
+      "target": "pewnie"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "watch",
+      "target": "zegar"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "color",
+      "target": "kolor"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "face",
+      "target": "ściana"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "wood",
+      "target": "drewno"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "main",
+      "target": "główny"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "open",
+      "target": "otwórz"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "seem",
+      "target": "wygląda"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "next",
+      "target": "dalej"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "white",
+      "target": "biały"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "children",
+      "target": "dzieci"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begin",
+      "target": "początek"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "walk",
+      "target": "spacer"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "example",
+      "target": "przykład"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "ease",
+      "target": "zwolnij"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "paper",
+      "target": "papier"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "group",
+      "target": "grupa"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "music",
+      "target": "muzyka"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mark",
+      "target": "marka"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "letter",
+      "target": "pismo"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mile",
+      "target": "mila"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "river",
+      "target": "rzeki"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "car",
+      "target": "samochód"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "feet",
+      "target": "stopy"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "care",
+      "target": "ostrożnie"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "second",
+      "target": "po drugie"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plain",
+      "target": "gładka"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "girl",
+      "target": "dziewczyna"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "usual",
+      "target": "zwykle"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "young",
+      "target": "młody"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "ready",
+      "target": "gotowy"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "red",
+      "target": "czerwony"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "list",
+      "target": "lista"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "feel",
+      "target": "usłysz"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "talk",
+      "target": "rozmawiać"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "bird",
+      "target": "ptak"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "body",
+      "target": "ciało"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "dog",
+      "target": "pies"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "family",
+      "target": "rodzina"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "bezpośrednio"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "pozy"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "leave",
+      "target": "opuść"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "song",
+      "target": "piosenka"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "measure",
+      "target": "zmierzyć"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "door",
+      "target": "drzwi"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "product",
+      "target": "produkt"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "black",
+      "target": "czarny"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "short",
+      "target": "krótki"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numeral",
+      "target": "numeryczna"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "class",
+      "target": "klasa"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "wiatr"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "question",
+      "target": "popyt"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "happen",
+      "target": "tak się stało"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "complete",
+      "target": "całka"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "ship",
+      "target": "statek"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "area",
+      "target": "obszar"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "half",
+      "target": "połowa"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rock",
+      "target": "skała"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "order",
+      "target": "zamów"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "fire",
+      "target": "ogień"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "south",
+      "target": "południe"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "problem"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "piece",
+      "target": "kawałek"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "tell",
+      "target": "powiedz"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "pass",
+      "target": "zdał"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "szczyt"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "whole",
+      "target": "wszystkie"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "king",
+      "target": "re"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "street",
+      "target": "ulica"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "inch",
+      "target": "kciuk"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiply",
+      "target": "pomnożyć"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "course",
+      "target": "kurs"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "stay",
+      "target": "zostań"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "wheel",
+      "target": "koło"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "full",
+      "target": "ukończono"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "force",
+      "target": "wigor"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blue",
+      "target": "niebieski"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "object",
+      "target": "obiekt"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "decide",
+      "target": "zdecyduj"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "powierzchnia"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "deep",
+      "target": "głębokość"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "moon",
+      "target": "luna"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "island",
+      "target": "wyspa"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "foot",
+      "target": "stopa"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "system"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "busy",
+      "target": "zajęty"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "test"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "rekord"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "boat",
+      "target": "łódź"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "common",
+      "target": "wspólne"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "gold",
+      "target": "złota"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "możliwe"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plane",
+      "target": "plan"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "stead",
+      "target": "zamiast tego"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "dry",
+      "target": "suchy"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wonder",
+      "target": "cudownie"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "laugh",
+      "target": "śmiej się"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "thousand",
+      "target": "tysiące"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "ago",
+      "target": "temu"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "ran",
+      "target": "biegi"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "check",
+      "target": "sprawdź"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "game",
+      "target": "gra"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "shape",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "equate",
+      "target": "równe"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "hot",
+      "target": "gorący"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "miss",
+      "target": "przegrana"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "brought",
+      "target": "przyniesiono"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "heat",
+      "target": "ciepło"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "snow",
+      "target": "śnieg"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "tire",
+      "target": "pneumatyczny"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bring",
+      "target": "przynieś"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distant",
+      "target": "daleko"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fill",
+      "target": "napełnianie"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "east",
+      "target": "est"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "paint",
+      "target": "farba"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "language",
+      "target": "język"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unit",
+      "target": "jednostka"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "power",
+      "target": "zasilanie"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "town",
+      "target": "miasto"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fine",
+      "target": "koniec"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "certain",
+      "target": "pewnie"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fly",
+      "target": "latać"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fall",
+      "target": "upadek"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "lead",
+      "target": "prowadzić"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cry",
+      "target": "płacz"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dark",
+      "target": "ciemny"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "maszyna"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "uwaga"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "wait",
+      "target": "zaczekaj"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "plan"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "rysunek"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "star",
+      "target": "gwiazdka"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "box",
+      "target": "pudełko"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "noun",
+      "target": "rzeczownik"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "field",
+      "target": "pole"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "rest",
+      "target": "zostań"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "prawidłowe"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "able",
+      "target": "można"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pound",
+      "target": "funt"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "done",
+      "target": "zrobione"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauty",
+      "target": "piękno"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "drive",
+      "target": "napęd"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "stand up",
+      "target": "wstać"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contain",
+      "target": "zawiera"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "front",
+      "target": "przedni"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "teach",
+      "target": "uczyć"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "week",
+      "target": "tydzień"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "final",
+      "target": "finał"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "give",
+      "target": "daj"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "green",
+      "target": "zielony"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "quick",
+      "target": "szybko"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "develop",
+      "target": "rozwijaj"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "ocean"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "gorący"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "free",
+      "target": "wolny"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "minuta"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "strong",
+      "target": "silne"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "special",
+      "target": "specjalne"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "mind",
+      "target": "uwaga"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clear",
+      "target": "wyczyść"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "tail",
+      "target": "ogon"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produce",
+      "target": "produkuj"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fact",
+      "target": "gotowe"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "space",
+      "target": "spacja"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "heard",
+      "target": "usłyszano"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "best",
+      "target": "najlepiej"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "hour",
+      "target": "teraz"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "better",
+      "target": "lepiej"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "true",
+      "target": "prawdziwy"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundred",
+      "target": "stu"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "five",
+      "target": "pięć"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "remember",
+      "target": "pamiętaj"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "step",
+      "target": "krok"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "hold",
+      "target": "zachowaj"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "west",
+      "target": "zachód"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "ground",
+      "target": "ziemia"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "interest",
+      "target": "zainteresowanie"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "reach",
+      "target": "zasięg"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "fast",
+      "target": "szybko"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verb",
+      "target": "czasownik"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "sing",
+      "target": "śpiewaj"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "listen",
+      "target": "słuchaj"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "sześć"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "stół"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "travel",
+      "target": "podróżować"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morning",
+      "target": "rano"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ten",
+      "target": "dziesięć"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "proste"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vowel",
+      "target": "wokal"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "war",
+      "target": "wojna"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lay",
+      "target": "umieścić"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "pattern",
+      "target": "model"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "slow",
+      "target": "powoli"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "center",
+      "target": "środek"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "love",
+      "target": "miłość"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "osoba"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "money",
+      "target": "pieniądze"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "serve",
+      "target": "służyć"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "appear",
+      "target": "pojawi się"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "map",
+      "target": "mapa"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "rain",
+      "target": "deszcz"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "rule",
+      "target": "reguła"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "govern",
+      "target": "rządzić"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "pull",
+      "target": "Pociągnąć"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "cold",
+      "target": "zimny"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "notice",
+      "target": "uwaga"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voice",
+      "target": "głos"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energy",
+      "target": "energii"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "hunt",
+      "target": "polowanie"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "prawdopodobne"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "bed",
+      "target": "łóżko"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "brother",
+      "target": "bracie"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "egg",
+      "target": "jajko"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "ride",
+      "target": "okrągły"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cell",
+      "target": "komórka"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "believe",
+      "target": "uwierz"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "pick",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "sudden",
+      "target": "nagłe"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "count",
+      "target": "zlicz"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "square",
+      "target": "kwadrat"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "reason",
+      "target": "powód"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "length",
+      "target": "długość"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "represent",
+      "target": "reprezentować"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "sztuka"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "subject",
+      "target": "temat"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "region"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "size",
+      "target": "rozmiar"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "vary",
+      "target": "różne"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "settle",
+      "target": "rozwiąż"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "speak",
+      "target": "porozmawiaj"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "weight",
+      "target": "waga"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "general",
+      "target": "ogólne"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "ice",
+      "target": "lód"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matter",
+      "target": "ważne"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "circle",
+      "target": "okrąg"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pair",
+      "target": "para"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "include",
+      "target": "dołącz"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divide",
+      "target": "dzieli"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllable",
+      "target": "sylaba"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "felt",
+      "target": "filcu"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "duży"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "ball",
+      "target": "kulka"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "wave",
+      "target": "onda"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "drop",
+      "target": "upadek"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "heart",
+      "target": "serce"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "present",
+      "target": "obecny"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "heavy",
+      "target": "ciężki"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dance",
+      "target": "tańcz"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "engine",
+      "target": "silnik"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "lokalizacja"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "ramię"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "wide",
+      "target": "szeroki"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sail",
+      "target": "żagiel"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "materiał"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "ułamek"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forest",
+      "target": "leśny"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sit",
+      "target": "usiądź"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "race",
+      "target": "wyścig"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "window",
+      "target": "okno"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "store",
+      "target": "sklep"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "summer",
+      "target": "lato"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "pociąg"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sleep",
+      "target": "uśpienia"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "prove",
+      "target": "zademonstrować"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "lone",
+      "target": "solitario"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "leg",
+      "target": "noga"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercise",
+      "target": "ćwiczenia"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "wall",
+      "target": "ściana"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "catch",
+      "target": "weź"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mount",
+      "target": "zamontować"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "wish",
+      "target": "pożądanie"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "sky",
+      "target": "niebo"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "board",
+      "target": "emerytura"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joy",
+      "target": "radość"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "winter",
+      "target": "zima"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "written",
+      "target": "napisane"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "dziki"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "przyrząd"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "kept",
+      "target": "zachowaj"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glass",
+      "target": "szkło"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "grass",
+      "target": "trawa"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "cow",
+      "target": "krowa"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "praca"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "edge",
+      "target": "krawędź"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "sign",
+      "target": "podpisz"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visit",
+      "target": "odwiedź stronę"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "past",
+      "target": "przeszłość"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "soft",
+      "target": "miękki"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "fun",
+      "target": "zabawa"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "bright",
+      "target": "jasne"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gaz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "weather",
+      "target": "czas"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "month",
+      "target": "miesiąc"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "milionów"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bear",
+      "target": "niedźwiedź"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finish",
+      "target": "kończenie"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "happy",
+      "target": "szczęśliwy"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "hope",
+      "target": "nadzieja"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "flower",
+      "target": "kwiat"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "clothe",
+      "target": "sukienka"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "strange",
+      "target": "dziwne"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "go",
+      "target": "idź"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "trade",
+      "target": "handel"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melody",
+      "target": "melodia"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "trip",
+      "target": "podróż"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "office",
+      "target": "biuro"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "receive",
+      "target": "odbieranie"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "row",
+      "target": "wiersz"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mouth",
+      "target": "usta"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "dokładnie"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "symbol"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "die",
+      "target": "umrzeć"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "trouble",
+      "target": "trudności"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "shout",
+      "target": "krzycz"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "seed",
+      "target": "nasiona"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "ton"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "join",
+      "target": "trzymać"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggest",
+      "target": "zaproponuj"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "clean",
+      "target": "oczyścić"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "break",
+      "target": "wstrzymanie"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "lady",
+      "target": "Pani"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "yard",
+      "target": "plac budowy"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rise",
+      "target": "wspinaczka"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "bad",
+      "target": "źle"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blow",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "oil",
+      "target": "olej"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blood",
+      "target": "krwi"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "touch",
+      "target": "dotknij"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grew",
+      "target": "urosła"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "cent"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mix",
+      "target": "wymieszać"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "drużyna"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "wire",
+      "target": "gwint"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "cost",
+      "target": "koszt"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "lost",
+      "target": "utracone"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brown",
+      "target": "brązowy"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "wear",
+      "target": "zużycie"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "garden",
+      "target": "ogród"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "equal",
+      "target": "Równe"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sent",
+      "target": "wysłano"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choose",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fell",
+      "target": "upadł"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "fit",
+      "target": "przystosować"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flow",
+      "target": "przepływ"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fair",
+      "target": "uczciwy"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "bank"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "collect",
+      "target": "zbieraj"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "save",
+      "target": "zapisz"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "control",
+      "target": "sterowanie"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "dziesiętny"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "ear",
+      "target": "ucho"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "broke",
+      "target": "złamane"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "case",
+      "target": "przypadek"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "middle",
+      "target": "połowa"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "kill",
+      "target": "zabić"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "son",
+      "target": "synu"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lake",
+      "target": "jezioro"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "moment"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "scale",
+      "target": "skala"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "loud",
+      "target": "silne"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "spring",
+      "target": "sprężyna"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observe",
+      "target": "obserwuj"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "child",
+      "target": "dziecko"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "straight",
+      "target": "prosto"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonant",
+      "target": "spółgłoska"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "naród"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionary",
+      "target": "słownik"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "milk",
+      "target": "mleko"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "speed",
+      "target": "prędkość"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "method",
+      "target": "metoda"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "narząd"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "pay",
+      "target": "zapłać"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "age",
+      "target": "wiek"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "sekcja"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "dress",
+      "target": "sukienka"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "cloud",
+      "target": "nube"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "niespodzianka"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "quiet",
+      "target": "cichy"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "stone",
+      "target": "kamień"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "tiny",
+      "target": "mały"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "climb",
+      "target": "wspinać się"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "cool",
+      "target": "świeże"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "projekt"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "poor",
+      "target": "słabe"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "partia"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "experiment",
+      "target": "eksperyment"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "bottom",
+      "target": "dół"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "key",
+      "target": "klucz"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "iron",
+      "target": "żelazo"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "single",
+      "target": "pojedyncze"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "stick",
+      "target": "ramię"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flat",
+      "target": "mieszkanie"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "twenty",
+      "target": "dwadzieścia"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "skin",
+      "target": "skóra"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smile",
+      "target": "uśmiechnij się"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "crease",
+      "target": "złóż"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hole",
+      "target": "foro"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "jump",
+      "target": "skok"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "dziecko"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "eight",
+      "target": "osiem"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "wieś"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "meet",
+      "target": "spotykają się"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "root",
+      "target": "korzeń"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "buy",
+      "target": "kup"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "raise",
+      "target": "zwiększyć"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "solve",
+      "target": "rozwiąż"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "metalowy"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "push",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "seven",
+      "target": "siedem"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraph",
+      "target": "akapit"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "third",
+      "target": "po trzecie"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "held",
+      "target": "wstrzymane"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hair",
+      "target": "włosy"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "describe",
+      "target": "opisz"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cook",
+      "target": "gotuj"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "floor",
+      "target": "plan"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "result",
+      "target": "wynik"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "burn",
+      "target": "wypal"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "hill",
+      "target": "wzgórze"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "safe",
+      "target": "pewnie"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cat",
+      "target": "kat"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "century",
+      "target": "wiek"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "consider",
+      "target": "rozważ"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "typ"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "law",
+      "target": "prawo"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coast",
+      "target": "koszt"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copy",
+      "target": "kopiuj"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "zdanie"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silent",
+      "target": "cichy"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "tall",
+      "target": "wysoki"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "piasek"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "soil",
+      "target": "masa"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "roll",
+      "target": "rolka"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperature",
+      "target": "temperatura"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "dito"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industry",
+      "target": "przemysł"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "value",
+      "target": "wartość"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "fight",
+      "target": "walcz"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lie",
+      "target": "kłamać"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "beat",
+      "target": "uderzenie"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "excite",
+      "target": "podniecenie"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natural",
+      "target": "naturalne"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "view",
+      "target": "wyświetl"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sense",
+      "target": "wyczuwanie"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capital",
+      "target": "kapitał"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chair",
+      "target": "krzesło"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "niebezpieczeństwo"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruit",
+      "target": "owoce"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rich",
+      "target": "bogaty"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "thick",
+      "target": "często"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldier",
+      "target": "żołnierz"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "process",
+      "target": "proces"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operate",
+      "target": "uruchomić"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "practice",
+      "target": "ćwicz"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separate",
+      "target": "oddziel"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficult",
+      "target": "trudne"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "doctor",
+      "target": "lekarz"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "please",
+      "target": "Proszę"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protect",
+      "target": "ochrona"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "noon",
+      "target": "południe"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "crop",
+      "target": "zbiór"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "nowoczesny"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "element"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "hit",
+      "target": "naciśnij przycisk"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "student",
+      "target": "studenta"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "corner",
+      "target": "narożnik"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "party",
+      "target": "impreza"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "supply",
+      "target": "zasilanie"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "locate",
+      "target": "zlokalizuj"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "pierścień"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "character",
+      "target": "charakter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insect",
+      "target": "owady"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "caught",
+      "target": "Złapany"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "period",
+      "target": "okres"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indicate",
+      "target": "wskaż"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "radioodtwarzacz"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "spoke",
+      "target": "promień"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atom"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "human",
+      "target": "człowieka"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "history",
+      "target": "historia"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effect",
+      "target": "efekt"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "electric",
+      "target": "elektryczne"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "expect",
+      "target": "zaczekaj"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "bone",
+      "target": "osso"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "rail",
+      "target": "kolej"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imagine",
+      "target": "wyobraź sobie"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "provide",
+      "target": "zapewnij"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "agree",
+      "target": "zgadzam się"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "gentle",
+      "target": "słodka"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "woman",
+      "target": "kobieta"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "captain",
+      "target": "kapitanie"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "guess",
+      "target": "zgadnijcie"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "necessary",
+      "target": "konieczne"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "sharp",
+      "target": "ostry"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "wing",
+      "target": "ala"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "create",
+      "target": "utwórz"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "neighbor",
+      "target": "dalej"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "wash",
+      "target": "mycie"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "bat",
+      "target": "nietoperz"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "crowd",
+      "target": "tłum"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "corn",
+      "target": "mais"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "compare",
+      "target": "porównaj"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poem",
+      "target": "poezja"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "string",
+      "target": "ciąg znaków"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "bell",
+      "target": "dzwonek"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "depend",
+      "target": "zależy"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "meat",
+      "target": "mięso"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "rub",
+      "target": "pocierać"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "rura"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "famous",
+      "target": "sławny"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dolar"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "stream",
+      "target": "strumień"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "fear",
+      "target": "strach"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "sight",
+      "target": "wyświetl"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "thin",
+      "target": "cienki"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "trójkąt"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planet",
+      "target": "planeta"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hurry",
+      "target": "pospiesz się"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chief",
+      "target": "szef"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colony",
+      "target": "kolonii"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "clock",
+      "target": "zegar"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "kopalnia"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "tie",
+      "target": "opaska"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "enter",
+      "target": "wstaw"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "major",
+      "target": "większy"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "fresh",
+      "target": "świeże"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "search",
+      "target": "badania"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "send",
+      "target": "wyślij"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "yellow",
+      "target": "żółty"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "gun",
+      "target": "pistolet"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "allow",
+      "target": "zezwól"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "print",
+      "target": "drukowanie"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "dead",
+      "target": "martwy"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "spot",
+      "target": "plama"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desert",
+      "target": "pustynia"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "suit",
+      "target": "kombinezon"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "current",
+      "target": "prąd"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "przenośnik"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "róża"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arrive",
+      "target": "przyjedź"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "master",
+      "target": "mistrz"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "track",
+      "target": "ścieżka"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "rodzic"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "shore",
+      "target": "brzeg"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "podział"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "sheet",
+      "target": "arkusz"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "substancja"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favor",
+      "target": "zachęć"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connect",
+      "target": "podłącz"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "post",
+      "target": "wiadomość"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "spend",
+      "target": "wydaj"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "chord",
+      "target": "umowa"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fat",
+      "target": "tłuszcz"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "szczęśliwy"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "oryginał"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "share",
+      "target": "przydział"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "stacja"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "dad",
+      "target": "tato"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "bread",
+      "target": "chleb"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "ładowanie"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "proper",
+      "target": "prawidłowe"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bar"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offer",
+      "target": "oferta"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "segment"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "niewolnik"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "duck",
+      "target": "kaczka"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "instant",
+      "target": "natychmiast"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "market",
+      "target": "rynku"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degree",
+      "target": "stopień"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populate",
+      "target": "popularne"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "chick",
+      "target": "pisklęta"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "dear",
+      "target": "szanowny panie"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "enemy",
+      "target": "wróg"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "reply",
+      "target": "odpowiedz"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drink",
+      "target": "pić"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "occur",
+      "target": "występuje"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "support",
+      "target": "wsparcie"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "speech",
+      "target": "przemówienie"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "przyroda"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "range",
+      "target": "zakres"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "steam",
+      "target": "para"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "motion",
+      "target": "ruch"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "path",
+      "target": "ścieżka"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquid",
+      "target": "ciecz"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "log",
+      "target": "bagażnik"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "mean",
+      "target": "średnia"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "iloraz"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "teeth",
+      "target": "zęby"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "shell",
+      "target": "skorupa"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "neck",
+      "target": "szyjka"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygen",
+      "target": "tlenu"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sugar",
+      "target": "cukier"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "death",
+      "target": "śmierć"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "skill",
+      "target": "zdolność"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "women",
+      "target": "kobiety"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "season",
+      "target": "sezon"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "rozwiązanie"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "magnes"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silver",
+      "target": "srebrny"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "thank",
+      "target": "dziękuję"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branch",
+      "target": "odgałęzienie"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "match",
+      "target": "dopasowanie"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffix",
+      "target": "wyznacznik"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "especially",
+      "target": "szczególnie"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fig",
+      "target": "fico"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "afraid",
+      "target": "strach"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "huge",
+      "target": "ogromne"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "sister",
+      "target": "siostro"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "steel",
+      "target": "stal"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuss",
+      "target": "dyskutować"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similar",
+      "target": "podobne"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "guide",
+      "target": "napęd"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "experience",
+      "target": "doświadczenie"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "wynik"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "apple",
+      "target": "jabłko"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "bought",
+      "target": "kupiłem"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "led",
+      "target": "przyniesiono"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pitch",
+      "target": "nachylenie"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "coat",
+      "target": "płaszcz"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "mass",
+      "target": "masa"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "card",
+      "target": "karta"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "banda"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "rope",
+      "target": "lina"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "poślizg"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "win",
+      "target": "zwycięstwo"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "dream",
+      "target": "sen"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "evening",
+      "target": "sera"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "warunek"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "feed",
+      "target": "karmienie"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "tool",
+      "target": "przyrząd"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "łącznie"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "basic",
+      "target": "podstawowe"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "smell",
+      "target": "zapach"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "valley",
+      "target": "dolina"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "podwójne"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "seat",
+      "target": "siedzisko"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continue",
+      "target": "kontynuuj"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "block",
+      "target": "blok"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "chart",
+      "target": "wykres"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "kapelusz"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sell",
+      "target": "sprzedaj"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "success",
+      "target": "sukces"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "company",
+      "target": "firmy"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtract",
+      "target": "odejmij"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "event",
+      "target": "zdarzenie"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particular",
+      "target": "w szczególności"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "deal",
+      "target": "biznes"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "swim",
+      "target": "pływanie"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "term",
+      "target": "termin"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposite",
+      "target": "odwrotnie"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "wife",
+      "target": "żona"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "shoe",
+      "target": "kosz sitowy"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "shoulder",
+      "target": "ramię"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spread",
+      "target": "spargere"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrange",
+      "target": "organizuj"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "camp",
+      "target": "pole"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "invent",
+      "target": "wymyślić"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "cotton",
+      "target": "bawełna"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "birth",
+      "target": "urodzenie"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "determine",
+      "target": "określić"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "ćwierć galonu"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "nine",
+      "target": "dziewięć"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "truck",
+      "target": "ciężarówka"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "noise",
+      "target": "hałas"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "level",
+      "target": "poziom"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "możliwość"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "gather",
+      "target": "zbieraj"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "shop",
+      "target": "sklep"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "stretch",
+      "target": "przewód"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "throw",
+      "target": "rzuć"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "shine",
+      "target": "połysk"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "property",
+      "target": "nieruchomości"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "column",
+      "target": "kolumna"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molecule",
+      "target": "cząsteczka"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "select",
+      "target": "wybierz opcję"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "wrong",
+      "target": "źle"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gray",
+      "target": "szary"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "repeat",
+      "target": "powtarzanie"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "require",
+      "target": "żądanie"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "broad",
+      "target": "szeroki"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "prepare",
+      "target": "przygotuj się"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "sale"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nose",
+      "target": "nos"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "liczba mnoga"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "anger",
+      "target": "złość"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "claim",
+      "target": "żądanie"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "kontynent"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "screen",
+      "target": "ekran"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bottle",
+      "target": "butelka"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lamp",
+      "target": "lampa"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telephone",
+      "target": "telefon"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "trousers",
+      "target": "spodnie"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "cheek",
+      "target": "policzek"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "pencil",
+      "target": "ołówek"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "pen",
+      "target": "pióro"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palace",
+      "target": "pałac"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "aeroplane",
+      "target": "samolot"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bike",
+      "target": "rower"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "komputerów"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "restauracja"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "wazon"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rocket",
+      "target": "rakieta"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prey",
+      "target": "módl się"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "university",
+      "target": "uniwersytety"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "stairs",
+      "target": "scale"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorbike",
+      "target": "motocykl"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jacket",
+      "target": "kurtka"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "scream",
+      "target": "krzycz"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joy",
+      "target": "radość"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "daughter",
+      "target": "córka"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "husband",
+      "target": "mąż"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grandmother",
+      "target": "babcia"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grandfather",
+      "target": "dziadek"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "uncle",
+      "target": "wujek"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "aunt",
+      "target": "ciotka"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "kuzyn"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "autumn",
+      "target": "jesień"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "today",
+      "target": "dzisiaj"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "tomorrow",
+      "target": "jutro"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "yesterday",
+      "target": "wczoraj"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "cheese",
+      "target": "ser"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "butter",
+      "target": "masło"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "coffee",
+      "target": "kawa"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "herbata"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "wine",
+      "target": "wino"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "beer",
+      "target": "piwo"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rice",
+      "target": "ryż"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "potato",
+      "target": "ziemniak"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomato",
+      "target": "pomidor"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "onion",
+      "target": "cebula"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "lemon",
+      "target": "cytryna"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "pomarańcza"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banana",
+      "target": "banan"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "grape",
+      "target": "winogrono"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carrot",
+      "target": "marchew"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bean",
+      "target": "fasola"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "flour",
+      "target": "mąka"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "cake",
+      "target": "ciasto"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "cookie",
+      "target": "ciastko"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolate",
+      "target": "czekolada"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "ice cream",
+      "target": "lody"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honey",
+      "target": "miód"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soup",
+      "target": "zupa"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salad",
+      "target": "sałatka"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinegar",
+      "target": "ocet"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "pepper",
+      "target": "pieprz"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "juice",
+      "target": "sok"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "chicken",
+      "target": "kurczak"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "pig",
+      "target": "świnia"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "sheep",
+      "target": "owca"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "goat",
+      "target": "koza"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "rabbit",
+      "target": "królik"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mouse",
+      "target": "mysz"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bear",
+      "target": "niedźwiedź"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "lew"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "wolf",
+      "target": "wilk"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "fox",
+      "target": "lis"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "monkey",
+      "target": "małpa"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elephant",
+      "target": "słoń"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tygrys"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraffe",
+      "target": "żyrafa"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bee",
+      "target": "pszczoła"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "butterfly",
+      "target": "motyl"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "spider",
+      "target": "pająk"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "snake",
+      "target": "wąż"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "ant",
+      "target": "mrówka"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "fly",
+      "target": "mucha"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "mosquito",
+      "target": "komar"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frog",
+      "target": "żaba"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "shark",
+      "target": "rekin"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "whale",
+      "target": "wieloryb"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "turtle",
+      "target": "żółw"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "goose",
+      "target": "gęś"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "hen",
+      "target": "kura"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "turkey",
+      "target": "indyk"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knee",
+      "target": "kolano"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "elbow",
+      "target": "łokieć"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lips",
+      "target": "usta"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "back",
+      "target": "plecy"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "chest",
+      "target": "pierś"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "stomach",
+      "target": "żołądek"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "brain",
+      "target": "mózg"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "nail",
+      "target": "paznokieć"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "beard",
+      "target": "broda"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tear",
+      "target": "łza"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "kitchen",
+      "target": "kuchnia"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "bathroom",
+      "target": "łazienka"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "mirror",
+      "target": "lustro"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "knife",
+      "target": "nóż"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fork",
+      "target": "widelec"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "spoon",
+      "target": "łyżka"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "plate",
+      "target": "talerz"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "cup",
+      "target": "filiżanka"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "roof",
+      "target": "dach"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "soap",
+      "target": "mydło"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "towel",
+      "target": "ręcznik"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brush",
+      "target": "szczotka"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "umbrella",
+      "target": "parasol"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "suitcase",
+      "target": "walizka"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "bag",
+      "target": "torba"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "wallet",
+      "target": "portfel"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "coin",
+      "target": "moneta"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gift",
+      "target": "prezent"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "toy",
+      "target": "zabawka"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "doll",
+      "target": "lalka"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "newspaper",
+      "target": "gazeta"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "czasopismo"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "movie",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "szpital"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "church",
+      "target": "kościół"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "hotel"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "airport",
+      "target": "lotnisko"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "library",
+      "target": "biblioteka"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "muzeum"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "park"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "theatre",
+      "target": "teatr"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacy",
+      "target": "apteka"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "autobus"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bridge",
+      "target": "most"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "castle",
+      "target": "zamek"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tower",
+      "target": "wieża"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "factory",
+      "target": "fabryka"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "beach",
+      "target": "plaża"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "dżungla"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "rainbow",
+      "target": "tęcza"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "thunder",
+      "target": "grzmot"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "smoke",
+      "target": "dym"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "ash",
+      "target": "popiół"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "nurse",
+      "target": "pielęgniarz"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "lawyer",
+      "target": "prawnik"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "engineer",
+      "target": "inżynier"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "writer",
+      "target": "pisarz"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "singer",
+      "target": "piosenkarz"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "painter",
+      "target": "malarz"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "waiter",
+      "target": "kelner"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "farmer",
+      "target": "rolnik"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policeman",
+      "target": "policjant"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "shirt",
+      "target": "koszula"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "skirt",
+      "target": "spódnica"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "socks",
+      "target": "skarpetki"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gloves",
+      "target": "rękawiczki"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "belt",
+      "target": "pasek"
+    }
+  ]
+}

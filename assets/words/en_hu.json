@@ -1,0 +1,6009 @@
+{
+  "source": "en",
+  "target": "hu",
+  "sourceName": "English",
+  "targetName": "Magyar",
+  "version": 1,
+  "words": [
+    {
+      "id": 1,
+      "level": 1,
+      "source": "to be",
+      "target": "van"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "source": "one",
+      "target": "egy"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "source": "to have",
+      "target": "van"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "source": "hot",
+      "target": "meleg"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "source": "word",
+      "target": "szó"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "source": "can",
+      "target": "italosdoboz"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "source": "to do",
+      "target": "csinál"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "source": "time",
+      "target": "idő"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "source": "will",
+      "target": "akarat"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "source": "said",
+      "target": "mondás"
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "source": "tell",
+      "target": "mond"
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "source": "set",
+      "target": "fix"
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "source": "three",
+      "target": "három"
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "source": "desire",
+      "target": "kíván"
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "source": "air",
+      "target": "levegő"
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "source": "well",
+      "target": "jól"
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "source": "play",
+      "target": "játszik"
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "source": "small",
+      "target": "kis"
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "source": "end",
+      "target": "vég"
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "source": "put",
+      "target": "rak"
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "source": "home",
+      "target": "otthon"
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "source": "read",
+      "target": "olvas"
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "source": "hand",
+      "target": "kéz"
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "source": "carry",
+      "target": "visz"
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "source": "large",
+      "target": "nagy"
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "source": "spell",
+      "target": "szótagol"
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "source": "add",
+      "target": "hozzáad"
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "source": "land",
+      "target": "föld"
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "source": "big",
+      "target": "nagy"
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "source": "high",
+      "target": "magas"
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "source": "follow",
+      "target": "követ"
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "source": "act",
+      "target": "okmány"
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "source": "ask",
+      "target": "kér"
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "source": "men",
+      "target": "fiúk"
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "source": "change",
+      "target": "változás"
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "source": "light",
+      "target": "fény"
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "source": "kind",
+      "target": "típus"
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "source": "turned off",
+      "target": "kikapcsolt"
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "source": "need",
+      "target": "szükség"
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "source": "house",
+      "target": "lakás"
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "source": "image",
+      "target": "kép"
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "source": "try",
+      "target": "próbál"
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "source": "animal",
+      "target": "állat"
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "source": "point",
+      "target": "pont"
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "source": "mother",
+      "target": "anya"
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "source": "world",
+      "target": "világ"
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "source": "near",
+      "target": "közel"
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "source": "build",
+      "target": "épít"
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "source": "earth",
+      "target": "föld"
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "source": "father",
+      "target": "apa"
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "source": "new",
+      "target": "új"
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "source": "work",
+      "target": "munka"
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "source": "part",
+      "target": "rész"
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "source": "take",
+      "target": "fog"
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "source": "get",
+      "target": "megkap"
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "source": "place",
+      "target": "hely"
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "source": "live",
+      "target": "él"
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "source": "round",
+      "target": "turnus"
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "source": "man",
+      "target": "férfi"
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "source": "year",
+      "target": "év"
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "source": "show",
+      "target": "előadás"
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "source": "good",
+      "target": "finom"
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "source": "give",
+      "target": "ad"
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "source": "name",
+      "target": "név"
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "source": "form",
+      "target": "forma"
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "source": "sentence",
+      "target": "mondat"
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "source": "great",
+      "target": "nagy"
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "source": "think",
+      "target": "gondol"
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "source": "say",
+      "target": "mond"
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "source": "help",
+      "target": "segít"
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "source": "low",
+      "target": "alacsony"
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "source": "line",
+      "target": "vonal"
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "source": "differ",
+      "target": "elüt"
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "source": "turn",
+      "target": "turnus"
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "source": "cause",
+      "target": "ok"
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "source": "mean",
+      "target": "mond"
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "source": "move",
+      "target": "áthelyez"
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "source": "right",
+      "target": "egyenes"
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "source": "boy",
+      "target": "fiú"
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "source": "old",
+      "target": "öreg"
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "source": "use",
+      "target": "használat"
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "source": "way",
+      "target": "mód"
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "source": "write",
+      "target": "ír"
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "source": "long",
+      "target": "hosszú"
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "source": "make",
+      "target": "jövedelmez"
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "source": "thing",
+      "target": "dolog"
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "source": "see",
+      "target": "lát"
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "source": "two",
+      "target": "kettő"
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "source": "look",
+      "target": "néz"
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "source": "day",
+      "target": "nap"
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "source": "go",
+      "target": "megy"
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "source": "come",
+      "target": "jön"
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "source": "number",
+      "target": "szám"
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "source": "sound",
+      "target": "hang"
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "source": "people",
+      "target": "személyek"
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "source": "know",
+      "target": "tud"
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "source": "water",
+      "target": "víz"
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "source": "call",
+      "target": "hívás"
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "source": "first",
+      "target": "első"
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "source": "side",
+      "target": "oldal"
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "source": "find",
+      "target": "talál"
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "source": "head",
+      "target": "fej"
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "source": "stand",
+      "target": "áll"
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "source": "own",
+      "target": "saját"
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "source": "page",
+      "target": "oldal"
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "source": "country",
+      "target": "ország"
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "source": "found",
+      "target": "alapít"
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "source": "answer",
+      "target": "válasz"
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "source": "school",
+      "target": "iskola"
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "source": "grow",
+      "target": "nő"
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "source": "study",
+      "target": "tanulás"
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "source": "learn",
+      "target": "megtanul"
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "source": "plant",
+      "target": "berendezés"
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "source": "cover",
+      "target": "fedés"
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "source": "food",
+      "target": "étel"
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "source": "sun",
+      "target": "nap"
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "source": "four",
+      "target": "négy"
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "source": "state",
+      "target": "állapot"
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "source": "keep",
+      "target": "megtart"
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "source": "eye",
+      "target": "szem"
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "source": "last",
+      "target": "utolsó"
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "source": "let",
+      "target": "elhagy"
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "source": "thought",
+      "target": "gondolat"
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "source": "city",
+      "target": "város"
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "source": "tree",
+      "target": "fa"
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "source": "cross",
+      "target": "átmegy"
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "source": "farm",
+      "target": "gazdaság"
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "source": "hard",
+      "target": "nehéz"
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "source": "start",
+      "target": "kezdet"
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "source": "might",
+      "target": "erő"
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "source": "story",
+      "target": "történelem"
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "source": "saw",
+      "target": "fűrész"
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "source": "far",
+      "target": "messze"
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "source": "sea",
+      "target": "tenger"
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "source": "draw",
+      "target": "rajzol"
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "source": "left",
+      "target": "bal"
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "source": "run",
+      "target": "fut"
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "source": "press",
+      "target": "nyomtatás"
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "source": "close",
+      "target": "közel"
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "source": "night",
+      "target": "éj"
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "source": "real",
+      "target": "reális"
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "source": "life",
+      "target": "élet"
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "source": "north",
+      "target": "észak"
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "source": "book",
+      "target": "könyv"
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "source": "carry",
+      "target": "visz"
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "source": "science",
+      "target": "tudomány"
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "source": "eat",
+      "target": "eszik"
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "source": "room",
+      "target": "szoba"
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "source": "friend",
+      "target": "barát"
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "source": "began",
+      "target": "kezdett"
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "source": "idea",
+      "target": "ötlet"
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "source": "fish",
+      "target": "hal"
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "source": "mountain",
+      "target": "hegy"
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "source": "stop",
+      "target": "leáll"
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "source": "base",
+      "target": "alap"
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "source": "hear",
+      "target": "hall"
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "source": "horse",
+      "target": "ló"
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "source": "cut",
+      "target": "vágás"
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "source": "sure",
+      "target": "biztos"
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "source": "watch",
+      "target": "óra"
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "source": "color",
+      "target": "szín"
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "source": "face",
+      "target": "arc"
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "source": "wood",
+      "target": "fa"
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "source": "main",
+      "target": "fő"
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "source": "open",
+      "target": "nyitva"
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "source": "seem",
+      "target": "tűnik"
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "source": "next",
+      "target": "következő"
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "source": "white",
+      "target": "fehér"
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "source": "children",
+      "target": "gyerekek"
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "source": "begin",
+      "target": "kezdet"
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "source": "walk",
+      "target": "gyalogol"
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "source": "example",
+      "target": "példa"
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "source": "ease",
+      "target": "mérsékel"
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "source": "paper",
+      "target": "papír"
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "source": "group",
+      "target": "csoport"
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "source": "music",
+      "target": "zene"
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "source": "mark",
+      "target": "márka"
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "source": "letter",
+      "target": "betű"
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "source": "mile",
+      "target": "mérföld"
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "source": "river",
+      "target": "folyó"
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "source": "car",
+      "target": "autó"
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "source": "feet",
+      "target": "lábak"
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "source": "care",
+      "target": "kúra"
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "source": "second",
+      "target": "második"
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "source": "plain",
+      "target": "síkság"
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "source": "girl",
+      "target": "lány"
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "source": "usual",
+      "target": "szokásos"
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "source": "young",
+      "target": "fiatal"
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "source": "ready",
+      "target": "kész"
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "source": "red",
+      "target": "piros"
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "source": "list",
+      "target": "lista"
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "source": "feel",
+      "target": "hall"
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "source": "talk",
+      "target": "beszél"
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "source": "bird",
+      "target": "madár"
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "source": "body",
+      "target": "test"
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "source": "dog",
+      "target": "kutya"
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "source": "family",
+      "target": "család"
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "source": "direct",
+      "target": "közvetlen"
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "source": "pose",
+      "target": "elhelyezés"
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "source": "leave",
+      "target": "elhagy"
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "source": "song",
+      "target": "ének"
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "source": "measure",
+      "target": "mér"
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "source": "door",
+      "target": "ajtó"
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "source": "product",
+      "target": "termék"
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "source": "black",
+      "target": "fekete"
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "source": "short",
+      "target": "rövid"
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "source": "numeral",
+      "target": "szám-"
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "source": "class",
+      "target": "osztály"
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "source": "wind",
+      "target": "szél"
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "source": "question",
+      "target": "kérdés"
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "source": "happen",
+      "target": "történik"
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "source": "complete",
+      "target": "ép"
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "source": "ship",
+      "target": "hajó"
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "source": "area",
+      "target": "terület"
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "source": "half",
+      "target": "fél"
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "source": "rock",
+      "target": "szikla"
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "source": "order",
+      "target": "rend"
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "source": "fire",
+      "target": "tűz"
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "source": "south",
+      "target": "dél"
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "source": "problem",
+      "target": "probléma"
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "source": "piece",
+      "target": "darab"
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "source": "tell",
+      "target": "mond"
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "source": "pass",
+      "target": "átmegy"
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "source": "top",
+      "target": "csúcs"
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "source": "whole",
+      "target": "minden"
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "source": "king",
+      "target": "király"
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "source": "street",
+      "target": "utca"
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "source": "inch",
+      "target": "hüvelyk"
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "source": "multiply",
+      "target": "sokszorosít"
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "source": "course",
+      "target": "tanfolyam"
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "source": "stay",
+      "target": "tartózkodik"
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "source": "wheel",
+      "target": "kerék"
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "source": "full",
+      "target": "teljes"
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "source": "force",
+      "target": "életerő"
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "source": "blue",
+      "target": "kék"
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "source": "object",
+      "target": "tárgy"
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "source": "decide",
+      "target": "eldönt"
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "source": "surface",
+      "target": "felület"
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "source": "deep",
+      "target": "mélység"
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "source": "moon",
+      "target": "hold"
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "source": "island",
+      "target": "sziget"
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "source": "foot",
+      "target": "lábfej"
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "source": "system",
+      "target": "rendszer"
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "source": "busy",
+      "target": "foglalt"
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "source": "test",
+      "target": "teszt"
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "source": "record",
+      "target": "rekord"
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "source": "boat",
+      "target": "csónak"
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "source": "common",
+      "target": "község"
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "source": "gold",
+      "target": "arany"
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "source": "possible",
+      "target": "lehetséges"
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "source": "plane",
+      "target": "sík"
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "source": "stead",
+      "target": "szerep"
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "source": "dry",
+      "target": "száraz"
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "source": "wonder",
+      "target": "csoda"
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "source": "laugh",
+      "target": "nevet"
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "source": "thousand",
+      "target": "ezernyi"
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "source": "ago",
+      "target": "csinál"
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "source": "ran",
+      "target": "futamok"
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "source": "check",
+      "target": "ellenőriz"
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "source": "game",
+      "target": "játék"
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "source": "shape",
+      "target": "forma"
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "source": "equate",
+      "target": "kiegyenlít"
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "source": "hot",
+      "target": "meleg"
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "source": "miss",
+      "target": "elveszít"
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "source": "brought",
+      "target": "tehetséges"
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "source": "heat",
+      "target": "hő"
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "source": "snow",
+      "target": "hó"
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "source": "tire",
+      "target": "gumiabroncs"
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "source": "bring",
+      "target": "visz"
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "source": "distant",
+      "target": "messze"
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "source": "fill",
+      "target": "megtölt"
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "source": "east",
+      "target": "kelet"
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "source": "paint",
+      "target": "fest"
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "source": "language",
+      "target": "nyelv"
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "source": "unit",
+      "target": "egység"
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "source": "power",
+      "target": "erő"
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "source": "town",
+      "target": "város"
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "source": "fine",
+      "target": "vég"
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "source": "certain",
+      "target": "biztos"
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "source": "fly",
+      "target": "repül"
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "source": "fall",
+      "target": "esik"
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "source": "lead",
+      "target": "vezet"
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "source": "cry",
+      "target": "kiáltás"
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "source": "dark",
+      "target": "sötét"
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "source": "machine",
+      "target": "kocsi"
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "source": "note",
+      "target": "hang"
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "source": "wait",
+      "target": "vár"
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "source": "plan",
+      "target": "sík"
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "source": "figure",
+      "target": "figura"
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "source": "star",
+      "target": "csillag"
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "source": "box",
+      "target": "doboz"
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "source": "noun",
+      "target": "főnév"
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "source": "field",
+      "target": "mező"
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "source": "rest",
+      "target": "visszajáró"
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "source": "correct",
+      "target": "helyes"
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "source": "able",
+      "target": "képes"
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "source": "pound",
+      "target": "font"
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "source": "done",
+      "target": "kész"
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "source": "beauty",
+      "target": "szépség"
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "source": "drive",
+      "target": "vezet"
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "source": "stand up",
+      "target": "feláll"
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "source": "contain",
+      "target": "tartalmaz"
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "source": "front",
+      "target": "elülső"
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "source": "teach",
+      "target": "tanít"
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "source": "week",
+      "target": "hét"
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "source": "final",
+      "target": "végső"
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "source": "give",
+      "target": "ad"
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "source": "green",
+      "target": "zöld"
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "source": "quick",
+      "target": "gyors"
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "source": "develop",
+      "target": "fejleszt"
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "source": "ocean",
+      "target": "óceán"
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "source": "warm",
+      "target": "meleg"
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "source": "free",
+      "target": "ingyenes"
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "source": "minute",
+      "target": "perc"
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "source": "strong",
+      "target": "erős"
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "source": "special",
+      "target": "speciális"
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "source": "mind",
+      "target": "ész"
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "source": "clear",
+      "target": "világos"
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "source": "tail",
+      "target": "farok"
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "source": "produce",
+      "target": "termel"
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "source": "fact",
+      "target": "tény"
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "source": "space",
+      "target": "űr"
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "source": "heard",
+      "target": "hallott"
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "source": "best",
+      "target": "legjobb"
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "source": "hour",
+      "target": "óra"
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "source": "better",
+      "target": "jobb"
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "source": "true",
+      "target": "igaz"
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "source": "hundred",
+      "target": "száz"
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "source": "five",
+      "target": "öt"
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "source": "remember",
+      "target": "emlékszik"
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "source": "step",
+      "target": "lépés"
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "source": "hold",
+      "target": "fog"
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "source": "west",
+      "target": "nyugat"
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "source": "ground",
+      "target": "föld"
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "source": "interest",
+      "target": "érdek"
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "source": "reach",
+      "target": "elér"
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "source": "fast",
+      "target": "gyors"
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "source": "verb",
+      "target": "ige"
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "source": "sing",
+      "target": "énekel"
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "source": "listen",
+      "target": "hallgat"
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "source": "six",
+      "target": "hat"
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "source": "table",
+      "target": "asztal"
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "source": "travel",
+      "target": "utazik"
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "source": "morning",
+      "target": "reggel"
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "source": "ten",
+      "target": "tíz"
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "source": "simple",
+      "target": "egyszerű"
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "source": "vowel",
+      "target": "magánhangzó"
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "source": "war",
+      "target": "háború"
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "source": "lay",
+      "target": "feltesz"
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "source": "pattern",
+      "target": "modell"
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "source": "slow",
+      "target": "lassú"
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "source": "center",
+      "target": "központ"
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "source": "love",
+      "target": "szerelem"
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "source": "person",
+      "target": "személy"
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "source": "money",
+      "target": "pénz"
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "source": "serve",
+      "target": "felszolgál"
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "source": "appear",
+      "target": "megjelenik"
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "source": "map",
+      "target": "térkép"
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "source": "rain",
+      "target": "eső"
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "source": "rule",
+      "target": "szabály"
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "source": "govern",
+      "target": "kormányoz"
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "source": "pull",
+      "target": "húz"
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "source": "cold",
+      "target": "hideg"
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "source": "notice",
+      "target": "értesítés"
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "source": "voice",
+      "target": "hang"
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "source": "energy",
+      "target": "energia"
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "source": "hunt",
+      "target": "vadászat"
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "source": "probable",
+      "target": "lehetséges"
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "source": "bed",
+      "target": "ágy"
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "source": "brother",
+      "target": "fiú testvér"
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "source": "egg",
+      "target": "tojás"
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "source": "ride",
+      "target": "kör"
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "source": "cell",
+      "target": "cella"
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "source": "believe",
+      "target": "hisz"
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "source": "pick",
+      "target": "kiválaszt"
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "source": "sudden",
+      "target": "hirtelen"
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "source": "count",
+      "target": "számol"
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "source": "square",
+      "target": "tér"
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "source": "reason",
+      "target": "ok"
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "source": "length",
+      "target": "hossz"
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "source": "represent",
+      "target": "képvisel"
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "source": "art",
+      "target": "művészet"
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "source": "subject",
+      "target": "alany"
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "source": "region",
+      "target": "régió"
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "source": "size",
+      "target": "méret"
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "source": "vary",
+      "target": "változtat"
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "source": "settle",
+      "target": "megold"
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "source": "speak",
+      "target": "beszél"
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "source": "weight",
+      "target": "súly"
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "source": "general",
+      "target": "általános"
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "source": "ice",
+      "target": "jég"
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "source": "matter",
+      "target": "tantárgy"
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "source": "circle",
+      "target": "kör"
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "source": "pair",
+      "target": "pár"
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "source": "include",
+      "target": "bevon"
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "source": "divide",
+      "target": "eloszt"
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "source": "syllable",
+      "target": "szótag"
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "source": "felt",
+      "target": "filc"
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "source": "grand",
+      "target": "nagy"
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "source": "ball",
+      "target": "labda"
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "source": "wave",
+      "target": "hullám"
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "source": "drop",
+      "target": "esik"
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "source": "heart",
+      "target": "szív"
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "source": "present",
+      "target": "jelen"
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "source": "heavy",
+      "target": "nehéz"
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "source": "dance",
+      "target": "tánc"
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "source": "engine",
+      "target": "motor"
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "source": "position",
+      "target": "pozíció"
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "source": "arm",
+      "target": "kar"
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "source": "wide",
+      "target": "tágas"
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "source": "sail",
+      "target": "vitorla"
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "source": "material",
+      "target": "anyag"
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "source": "fraction",
+      "target": "rész"
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "source": "forest",
+      "target": "erdő"
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "source": "sit",
+      "target": "ül"
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "source": "race",
+      "target": "verseny"
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "source": "window",
+      "target": "ablak"
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "source": "store",
+      "target": "üzlet"
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "source": "summer",
+      "target": "nyár"
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "source": "train",
+      "target": "vonat"
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "source": "sleep",
+      "target": "alvás"
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "source": "prove",
+      "target": "bizonyít"
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "source": "lone",
+      "target": "magányos"
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "source": "leg",
+      "target": "láb"
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "source": "exercise",
+      "target": "feladat"
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "source": "wall",
+      "target": "fal"
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "source": "catch",
+      "target": "fog"
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "source": "mount",
+      "target": "hegy"
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "source": "wish",
+      "target": "kívánság"
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "source": "sky",
+      "target": "ég"
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "source": "board",
+      "target": "nyugdíj"
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "source": "joy",
+      "target": "öröm"
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "source": "winter",
+      "target": "tél"
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "source": "written",
+      "target": "írott"
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "source": "wild",
+      "target": "vad"
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "source": "instrument",
+      "target": "eszköz"
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "source": "kept",
+      "target": "fog"
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "source": "glass",
+      "target": "üveg"
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "source": "grass",
+      "target": "fű"
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "source": "cow",
+      "target": "tehén"
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "source": "job",
+      "target": "munka"
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "source": "edge",
+      "target": "szél"
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "source": "sign",
+      "target": "jel"
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "source": "visit",
+      "target": "vizsgálat"
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "source": "past",
+      "target": "múlt"
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "source": "soft",
+      "target": "puha"
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "source": "fun",
+      "target": "szórakozás"
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "source": "bright",
+      "target": "fényes"
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "source": "gas",
+      "target": "gáz"
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "source": "weather",
+      "target": "idő"
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "source": "month",
+      "target": "hónap"
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "source": "million",
+      "target": "millió"
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "source": "bear",
+      "target": "tűr"
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "source": "finish",
+      "target": "eldolgozás"
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "source": "happy",
+      "target": "boldog"
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "source": "hope",
+      "target": "remény"
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "source": "flower",
+      "target": "virág"
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "source": "clothe",
+      "target": "öltözik"
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "source": "strange",
+      "target": "furcsa"
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "source": "go",
+      "target": "megy"
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "source": "trade",
+      "target": "kereskedelem"
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "source": "melody",
+      "target": "melódia"
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "source": "trip",
+      "target": "utazás"
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "source": "office",
+      "target": "iroda"
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "source": "receive",
+      "target": "kap"
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "source": "row",
+      "target": "sor"
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "source": "mouth",
+      "target": "száj"
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "source": "exact",
+      "target": "pontos"
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "source": "symbol",
+      "target": "szimbólum"
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "source": "die",
+      "target": "meghal"
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "source": "trouble",
+      "target": "nehézség"
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "source": "shout",
+      "target": "üvölt"
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "source": "seed",
+      "target": "mag"
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "source": "tone",
+      "target": "tónus"
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "source": "join",
+      "target": "tapad"
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "source": "suggest",
+      "target": "súg"
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "source": "clean",
+      "target": "tiszta"
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "source": "break",
+      "target": "szünet"
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "source": "lady",
+      "target": "hölgy"
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "source": "yard",
+      "target": "telephely"
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "source": "rise",
+      "target": "felmegy"
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "source": "bad",
+      "target": "rossz"
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "source": "blow",
+      "target": "ütés"
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "source": "oil",
+      "target": "olaj"
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "source": "blood",
+      "target": "vér"
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "source": "touch",
+      "target": "érint"
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "source": "grew",
+      "target": "megnőtt"
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "source": "cent",
+      "target": "század"
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "source": "mix",
+      "target": "kever"
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "source": "team",
+      "target": "csapat"
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "source": "wire",
+      "target": "fonal"
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "source": "cost",
+      "target": "költség"
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "source": "lost",
+      "target": "elvesztett"
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "source": "brown",
+      "target": "barna"
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "source": "wear",
+      "target": "visel"
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "source": "garden",
+      "target": "kert"
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "source": "equal",
+      "target": "páros"
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "source": "sent",
+      "target": "küldött"
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "source": "choose",
+      "target": "kiválaszt"
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "source": "fell",
+      "target": "esett"
+    },
+    {
+      "id": 501,
+      "level": 6,
+      "source": "fit",
+      "target": "alkalmazkodik"
+    },
+    {
+      "id": 502,
+      "level": 6,
+      "source": "flow",
+      "target": "folyás"
+    },
+    {
+      "id": 503,
+      "level": 6,
+      "source": "fair",
+      "target": "vásár"
+    },
+    {
+      "id": 504,
+      "level": 6,
+      "source": "bank",
+      "target": "bank"
+    },
+    {
+      "id": 505,
+      "level": 6,
+      "source": "collect",
+      "target": "összegyűjt"
+    },
+    {
+      "id": 506,
+      "level": 6,
+      "source": "save",
+      "target": "megment"
+    },
+    {
+      "id": 507,
+      "level": 6,
+      "source": "control",
+      "target": "ellenőrzés"
+    },
+    {
+      "id": 508,
+      "level": 6,
+      "source": "decimal",
+      "target": "tizedes"
+    },
+    {
+      "id": 509,
+      "level": 6,
+      "source": "ear",
+      "target": "fül"
+    },
+    {
+      "id": 510,
+      "level": 6,
+      "source": "broke",
+      "target": "törött"
+    },
+    {
+      "id": 511,
+      "level": 6,
+      "source": "case",
+      "target": "eset"
+    },
+    {
+      "id": 512,
+      "level": 6,
+      "source": "middle",
+      "target": "fél"
+    },
+    {
+      "id": 513,
+      "level": 6,
+      "source": "kill",
+      "target": "öl"
+    },
+    {
+      "id": 514,
+      "level": 6,
+      "source": "son",
+      "target": "gyereke"
+    },
+    {
+      "id": 515,
+      "level": 6,
+      "source": "lake",
+      "target": "tó"
+    },
+    {
+      "id": 516,
+      "level": 6,
+      "source": "moment",
+      "target": "pillanat"
+    },
+    {
+      "id": 517,
+      "level": 6,
+      "source": "scale",
+      "target": "létra"
+    },
+    {
+      "id": 518,
+      "level": 6,
+      "source": "loud",
+      "target": "erős"
+    },
+    {
+      "id": 519,
+      "level": 6,
+      "source": "spring",
+      "target": "tavasz"
+    },
+    {
+      "id": 520,
+      "level": 6,
+      "source": "observe",
+      "target": "megfigyel"
+    },
+    {
+      "id": 521,
+      "level": 6,
+      "source": "child",
+      "target": "kisgyerek"
+    },
+    {
+      "id": 522,
+      "level": 6,
+      "source": "straight",
+      "target": "egyenes"
+    },
+    {
+      "id": 523,
+      "level": 6,
+      "source": "consonant",
+      "target": "mássalhangzó"
+    },
+    {
+      "id": 524,
+      "level": 6,
+      "source": "nation",
+      "target": "ország"
+    },
+    {
+      "id": 525,
+      "level": 6,
+      "source": "dictionary",
+      "target": "szótár"
+    },
+    {
+      "id": 526,
+      "level": 6,
+      "source": "milk",
+      "target": "tej"
+    },
+    {
+      "id": 527,
+      "level": 6,
+      "source": "speed",
+      "target": "sebesség"
+    },
+    {
+      "id": 528,
+      "level": 6,
+      "source": "method",
+      "target": "módszer"
+    },
+    {
+      "id": 529,
+      "level": 6,
+      "source": "organ",
+      "target": "szerv"
+    },
+    {
+      "id": 530,
+      "level": 6,
+      "source": "pay",
+      "target": "fizet"
+    },
+    {
+      "id": 531,
+      "level": 6,
+      "source": "age",
+      "target": "kor"
+    },
+    {
+      "id": 532,
+      "level": 6,
+      "source": "section",
+      "target": "szakasz"
+    },
+    {
+      "id": 533,
+      "level": 6,
+      "source": "dress",
+      "target": "ruha"
+    },
+    {
+      "id": 534,
+      "level": 6,
+      "source": "cloud",
+      "target": "felhő"
+    },
+    {
+      "id": 535,
+      "level": 6,
+      "source": "surprise",
+      "target": "meglepetés"
+    },
+    {
+      "id": 536,
+      "level": 6,
+      "source": "quiet",
+      "target": "nyugodt"
+    },
+    {
+      "id": 537,
+      "level": 6,
+      "source": "stone",
+      "target": "kő"
+    },
+    {
+      "id": 538,
+      "level": 6,
+      "source": "tiny",
+      "target": "kis"
+    },
+    {
+      "id": 539,
+      "level": 6,
+      "source": "climb",
+      "target": "mászik"
+    },
+    {
+      "id": 540,
+      "level": 6,
+      "source": "cool",
+      "target": "friss"
+    },
+    {
+      "id": 541,
+      "level": 6,
+      "source": "design",
+      "target": "dizájn"
+    },
+    {
+      "id": 542,
+      "level": 6,
+      "source": "poor",
+      "target": "szegény"
+    },
+    {
+      "id": 543,
+      "level": 6,
+      "source": "lot",
+      "target": "tétel"
+    },
+    {
+      "id": 544,
+      "level": 6,
+      "source": "experiment",
+      "target": "kísérlet"
+    },
+    {
+      "id": 545,
+      "level": 6,
+      "source": "bottom",
+      "target": "alap"
+    },
+    {
+      "id": 546,
+      "level": 6,
+      "source": "key",
+      "target": "kulcs"
+    },
+    {
+      "id": 547,
+      "level": 6,
+      "source": "iron",
+      "target": "vas"
+    },
+    {
+      "id": 548,
+      "level": 6,
+      "source": "single",
+      "target": "egyedi"
+    },
+    {
+      "id": 549,
+      "level": 6,
+      "source": "stick",
+      "target": "bot"
+    },
+    {
+      "id": 550,
+      "level": 6,
+      "source": "flat",
+      "target": "lakás"
+    },
+    {
+      "id": 551,
+      "level": 6,
+      "source": "twenty",
+      "target": "húsz"
+    },
+    {
+      "id": 552,
+      "level": 6,
+      "source": "skin",
+      "target": "bőr"
+    },
+    {
+      "id": 553,
+      "level": 6,
+      "source": "smile",
+      "target": "mosoly"
+    },
+    {
+      "id": 554,
+      "level": 6,
+      "source": "crease",
+      "target": "ránc"
+    },
+    {
+      "id": 555,
+      "level": 6,
+      "source": "hole",
+      "target": "furat"
+    },
+    {
+      "id": 556,
+      "level": 6,
+      "source": "jump",
+      "target": "ugrás"
+    },
+    {
+      "id": 557,
+      "level": 6,
+      "source": "baby",
+      "target": "kisgyerek"
+    },
+    {
+      "id": 558,
+      "level": 6,
+      "source": "eight",
+      "target": "nyolc"
+    },
+    {
+      "id": 559,
+      "level": 6,
+      "source": "village",
+      "target": "falu"
+    },
+    {
+      "id": 560,
+      "level": 6,
+      "source": "meet",
+      "target": "találkoznak"
+    },
+    {
+      "id": 561,
+      "level": 6,
+      "source": "root",
+      "target": "gyökér"
+    },
+    {
+      "id": 562,
+      "level": 6,
+      "source": "buy",
+      "target": "vásárol"
+    },
+    {
+      "id": 563,
+      "level": 6,
+      "source": "raise",
+      "target": "nő"
+    },
+    {
+      "id": 564,
+      "level": 6,
+      "source": "solve",
+      "target": "megold"
+    },
+    {
+      "id": 565,
+      "level": 6,
+      "source": "metal",
+      "target": "fém"
+    },
+    {
+      "id": 566,
+      "level": 6,
+      "source": "push",
+      "target": "tol"
+    },
+    {
+      "id": 567,
+      "level": 6,
+      "source": "seven",
+      "target": "hét"
+    },
+    {
+      "id": 568,
+      "level": 6,
+      "source": "paragraph",
+      "target": "bekezdés"
+    },
+    {
+      "id": 569,
+      "level": 6,
+      "source": "third",
+      "target": "harmadik"
+    },
+    {
+      "id": 570,
+      "level": 6,
+      "source": "held",
+      "target": "tartott"
+    },
+    {
+      "id": 571,
+      "level": 6,
+      "source": "hair",
+      "target": "haj"
+    },
+    {
+      "id": 572,
+      "level": 6,
+      "source": "describe",
+      "target": "leír"
+    },
+    {
+      "id": 573,
+      "level": 6,
+      "source": "cook",
+      "target": "szakács"
+    },
+    {
+      "id": 574,
+      "level": 6,
+      "source": "floor",
+      "target": "sík"
+    },
+    {
+      "id": 575,
+      "level": 6,
+      "source": "result",
+      "target": "eredmény"
+    },
+    {
+      "id": 576,
+      "level": 6,
+      "source": "burn",
+      "target": "ég"
+    },
+    {
+      "id": 577,
+      "level": 6,
+      "source": "hill",
+      "target": "domb"
+    },
+    {
+      "id": 578,
+      "level": 6,
+      "source": "safe",
+      "target": "biztos"
+    },
+    {
+      "id": 579,
+      "level": 6,
+      "source": "cat",
+      "target": "cica"
+    },
+    {
+      "id": 580,
+      "level": 6,
+      "source": "century",
+      "target": "évszázad"
+    },
+    {
+      "id": 581,
+      "level": 6,
+      "source": "consider",
+      "target": "fontol"
+    },
+    {
+      "id": 582,
+      "level": 6,
+      "source": "type",
+      "target": "típus"
+    },
+    {
+      "id": 583,
+      "level": 6,
+      "source": "law",
+      "target": "törvény"
+    },
+    {
+      "id": 584,
+      "level": 6,
+      "source": "coast",
+      "target": "part"
+    },
+    {
+      "id": 585,
+      "level": 6,
+      "source": "copy",
+      "target": "másolat"
+    },
+    {
+      "id": 586,
+      "level": 6,
+      "source": "phrase",
+      "target": "mondat"
+    },
+    {
+      "id": 587,
+      "level": 6,
+      "source": "silent",
+      "target": "halk"
+    },
+    {
+      "id": 588,
+      "level": 6,
+      "source": "tall",
+      "target": "magas"
+    },
+    {
+      "id": 589,
+      "level": 6,
+      "source": "sand",
+      "target": "homok"
+    },
+    {
+      "id": 590,
+      "level": 6,
+      "source": "soil",
+      "target": "talaj"
+    },
+    {
+      "id": 591,
+      "level": 6,
+      "source": "roll",
+      "target": "tekercs"
+    },
+    {
+      "id": 592,
+      "level": 6,
+      "source": "temperature",
+      "target": "hőmérséklet"
+    },
+    {
+      "id": 593,
+      "level": 6,
+      "source": "finger",
+      "target": "ujj"
+    },
+    {
+      "id": 594,
+      "level": 6,
+      "source": "industry",
+      "target": "ipar"
+    },
+    {
+      "id": 595,
+      "level": 6,
+      "source": "value",
+      "target": "érték"
+    },
+    {
+      "id": 596,
+      "level": 6,
+      "source": "fight",
+      "target": "harc"
+    },
+    {
+      "id": 597,
+      "level": 6,
+      "source": "lie",
+      "target": "hazugság"
+    },
+    {
+      "id": 598,
+      "level": 6,
+      "source": "beat",
+      "target": "üt"
+    },
+    {
+      "id": 599,
+      "level": 6,
+      "source": "excite",
+      "target": "gerjeszt"
+    },
+    {
+      "id": 600,
+      "level": 6,
+      "source": "natural",
+      "target": "természetes"
+    },
+    {
+      "id": 601,
+      "level": 7,
+      "source": "view",
+      "target": "látás"
+    },
+    {
+      "id": 602,
+      "level": 7,
+      "source": "sense",
+      "target": "értelem"
+    },
+    {
+      "id": 603,
+      "level": 7,
+      "source": "capital",
+      "target": "tőke"
+    },
+    {
+      "id": 604,
+      "level": 7,
+      "source": "chair",
+      "target": "szék"
+    },
+    {
+      "id": 605,
+      "level": 7,
+      "source": "danger",
+      "target": "veszély"
+    },
+    {
+      "id": 606,
+      "level": 7,
+      "source": "fruit",
+      "target": "gyümölcs"
+    },
+    {
+      "id": 607,
+      "level": 7,
+      "source": "rich",
+      "target": "gazdag"
+    },
+    {
+      "id": 608,
+      "level": 7,
+      "source": "thick",
+      "target": "gyakran"
+    },
+    {
+      "id": 609,
+      "level": 7,
+      "source": "soldier",
+      "target": "katona"
+    },
+    {
+      "id": 610,
+      "level": 7,
+      "source": "process",
+      "target": "folyamat"
+    },
+    {
+      "id": 611,
+      "level": 7,
+      "source": "operate",
+      "target": "műt"
+    },
+    {
+      "id": 612,
+      "level": 7,
+      "source": "practice",
+      "target": "gyakorlat"
+    },
+    {
+      "id": 613,
+      "level": 7,
+      "source": "separate",
+      "target": "elvált"
+    },
+    {
+      "id": 614,
+      "level": 7,
+      "source": "difficult",
+      "target": "nehéz"
+    },
+    {
+      "id": 615,
+      "level": 7,
+      "source": "doctor",
+      "target": "orvos"
+    },
+    {
+      "id": 616,
+      "level": 7,
+      "source": "please",
+      "target": "légyszíves"
+    },
+    {
+      "id": 617,
+      "level": 7,
+      "source": "protect",
+      "target": "megvéd"
+    },
+    {
+      "id": 618,
+      "level": 7,
+      "source": "noon",
+      "target": "dél"
+    },
+    {
+      "id": 619,
+      "level": 7,
+      "source": "crop",
+      "target": "összegyűjtött"
+    },
+    {
+      "id": 620,
+      "level": 7,
+      "source": "modern",
+      "target": "modern"
+    },
+    {
+      "id": 621,
+      "level": 7,
+      "source": "element",
+      "target": "elem"
+    },
+    {
+      "id": 622,
+      "level": 7,
+      "source": "hit",
+      "target": "üt"
+    },
+    {
+      "id": 623,
+      "level": 7,
+      "source": "student",
+      "target": "tanuló"
+    },
+    {
+      "id": 624,
+      "level": 7,
+      "source": "corner",
+      "target": "szög"
+    },
+    {
+      "id": 625,
+      "level": 7,
+      "source": "party",
+      "target": "párt"
+    },
+    {
+      "id": 626,
+      "level": 7,
+      "source": "supply",
+      "target": "szállítmány"
+    },
+    {
+      "id": 627,
+      "level": 7,
+      "source": "locate",
+      "target": "azonosít"
+    },
+    {
+      "id": 628,
+      "level": 7,
+      "source": "ring",
+      "target": "gyűrű"
+    },
+    {
+      "id": 629,
+      "level": 7,
+      "source": "character",
+      "target": "karakter"
+    },
+    {
+      "id": 630,
+      "level": 7,
+      "source": "insect",
+      "target": "rovar"
+    },
+    {
+      "id": 631,
+      "level": 7,
+      "source": "caught",
+      "target": "elfogott"
+    },
+    {
+      "id": 632,
+      "level": 7,
+      "source": "period",
+      "target": "időszak"
+    },
+    {
+      "id": 633,
+      "level": 7,
+      "source": "indicate",
+      "target": "jelöl"
+    },
+    {
+      "id": 634,
+      "level": 7,
+      "source": "radio",
+      "target": "rádió"
+    },
+    {
+      "id": 635,
+      "level": 7,
+      "source": "spoke",
+      "target": "sugár"
+    },
+    {
+      "id": 636,
+      "level": 7,
+      "source": "atom",
+      "target": "atom"
+    },
+    {
+      "id": 637,
+      "level": 7,
+      "source": "human",
+      "target": "emberi"
+    },
+    {
+      "id": 638,
+      "level": 7,
+      "source": "history",
+      "target": "történelem"
+    },
+    {
+      "id": 639,
+      "level": 7,
+      "source": "effect",
+      "target": "hatás"
+    },
+    {
+      "id": 640,
+      "level": 7,
+      "source": "electric",
+      "target": "elektromos"
+    },
+    {
+      "id": 641,
+      "level": 7,
+      "source": "expect",
+      "target": "vár"
+    },
+    {
+      "id": 642,
+      "level": 7,
+      "source": "bone",
+      "target": "csont"
+    },
+    {
+      "id": 643,
+      "level": 7,
+      "source": "rail",
+      "target": "vasút"
+    },
+    {
+      "id": 644,
+      "level": 7,
+      "source": "imagine",
+      "target": "elképzel"
+    },
+    {
+      "id": 645,
+      "level": 7,
+      "source": "provide",
+      "target": "szolgáltat"
+    },
+    {
+      "id": 646,
+      "level": 7,
+      "source": "agree",
+      "target": "megegyezik"
+    },
+    {
+      "id": 647,
+      "level": 7,
+      "source": "gentle",
+      "target": "édes"
+    },
+    {
+      "id": 648,
+      "level": 7,
+      "source": "woman",
+      "target": "nő"
+    },
+    {
+      "id": 649,
+      "level": 7,
+      "source": "captain",
+      "target": "kapitány"
+    },
+    {
+      "id": 650,
+      "level": 7,
+      "source": "guess",
+      "target": "kitalál"
+    },
+    {
+      "id": 651,
+      "level": 7,
+      "source": "necessary",
+      "target": "szükséges"
+    },
+    {
+      "id": 652,
+      "level": 7,
+      "source": "sharp",
+      "target": "vágó"
+    },
+    {
+      "id": 653,
+      "level": 7,
+      "source": "wing",
+      "target": "szárny"
+    },
+    {
+      "id": 654,
+      "level": 7,
+      "source": "create",
+      "target": "létrehoz"
+    },
+    {
+      "id": 655,
+      "level": 7,
+      "source": "neighbor",
+      "target": "következő"
+    },
+    {
+      "id": 656,
+      "level": 7,
+      "source": "wash",
+      "target": "mosás"
+    },
+    {
+      "id": 657,
+      "level": 7,
+      "source": "bat",
+      "target": "denevér"
+    },
+    {
+      "id": 658,
+      "level": 7,
+      "source": "crowd",
+      "target": "tömeg"
+    },
+    {
+      "id": 659,
+      "level": 7,
+      "source": "corn",
+      "target": "kukorica"
+    },
+    {
+      "id": 660,
+      "level": 7,
+      "source": "compare",
+      "target": "hasonlít"
+    },
+    {
+      "id": 661,
+      "level": 7,
+      "source": "poem",
+      "target": "vers"
+    },
+    {
+      "id": 662,
+      "level": 7,
+      "source": "string",
+      "target": "karakterlánc"
+    },
+    {
+      "id": 663,
+      "level": 7,
+      "source": "bell",
+      "target": "harang"
+    },
+    {
+      "id": 664,
+      "level": 7,
+      "source": "depend",
+      "target": "függ"
+    },
+    {
+      "id": 665,
+      "level": 7,
+      "source": "meat",
+      "target": "hús"
+    },
+    {
+      "id": 666,
+      "level": 7,
+      "source": "rub",
+      "target": "dörzsöl"
+    },
+    {
+      "id": 667,
+      "level": 7,
+      "source": "tube",
+      "target": "cső"
+    },
+    {
+      "id": 668,
+      "level": 7,
+      "source": "famous",
+      "target": "híres"
+    },
+    {
+      "id": 669,
+      "level": 7,
+      "source": "dollar",
+      "target": "dollár"
+    },
+    {
+      "id": 670,
+      "level": 7,
+      "source": "stream",
+      "target": "patak"
+    },
+    {
+      "id": 671,
+      "level": 7,
+      "source": "fear",
+      "target": "félelem"
+    },
+    {
+      "id": 672,
+      "level": 7,
+      "source": "sight",
+      "target": "látás"
+    },
+    {
+      "id": 673,
+      "level": 7,
+      "source": "thin",
+      "target": "vékony"
+    },
+    {
+      "id": 674,
+      "level": 7,
+      "source": "triangle",
+      "target": "háromszög"
+    },
+    {
+      "id": 675,
+      "level": 7,
+      "source": "planet",
+      "target": "bolygó"
+    },
+    {
+      "id": 676,
+      "level": 7,
+      "source": "hurry",
+      "target": "sietség"
+    },
+    {
+      "id": 677,
+      "level": 7,
+      "source": "chief",
+      "target": "főnök"
+    },
+    {
+      "id": 678,
+      "level": 7,
+      "source": "colony",
+      "target": "kolónia"
+    },
+    {
+      "id": 679,
+      "level": 7,
+      "source": "clock",
+      "target": "óra"
+    },
+    {
+      "id": 680,
+      "level": 7,
+      "source": "mine",
+      "target": "bánya"
+    },
+    {
+      "id": 681,
+      "level": 7,
+      "source": "tie",
+      "target": "nyakkendő"
+    },
+    {
+      "id": 682,
+      "level": 7,
+      "source": "enter",
+      "target": "behelyez"
+    },
+    {
+      "id": 683,
+      "level": 7,
+      "source": "major",
+      "target": "nagyobb"
+    },
+    {
+      "id": 684,
+      "level": 7,
+      "source": "fresh",
+      "target": "friss"
+    },
+    {
+      "id": 685,
+      "level": 7,
+      "source": "search",
+      "target": "keresés"
+    },
+    {
+      "id": 686,
+      "level": 7,
+      "source": "send",
+      "target": "küld"
+    },
+    {
+      "id": 687,
+      "level": 7,
+      "source": "yellow",
+      "target": "sárga"
+    },
+    {
+      "id": 688,
+      "level": 7,
+      "source": "gun",
+      "target": "pisztoly"
+    },
+    {
+      "id": 689,
+      "level": 7,
+      "source": "allow",
+      "target": "megenged"
+    },
+    {
+      "id": 690,
+      "level": 7,
+      "source": "print",
+      "target": "nyomtatás"
+    },
+    {
+      "id": 691,
+      "level": 7,
+      "source": "dead",
+      "target": "halott"
+    },
+    {
+      "id": 692,
+      "level": 7,
+      "source": "spot",
+      "target": "reklám"
+    },
+    {
+      "id": 693,
+      "level": 7,
+      "source": "desert",
+      "target": "sivatag"
+    },
+    {
+      "id": 694,
+      "level": 7,
+      "source": "suit",
+      "target": "melegítő"
+    },
+    {
+      "id": 695,
+      "level": 7,
+      "source": "current",
+      "target": "aktuális"
+    },
+    {
+      "id": 696,
+      "level": 7,
+      "source": "lift",
+      "target": "lift"
+    },
+    {
+      "id": 697,
+      "level": 7,
+      "source": "rose",
+      "target": "rózsaszín"
+    },
+    {
+      "id": 698,
+      "level": 7,
+      "source": "arrive",
+      "target": "érkezik"
+    },
+    {
+      "id": 699,
+      "level": 7,
+      "source": "master",
+      "target": "mester"
+    },
+    {
+      "id": 700,
+      "level": 7,
+      "source": "track",
+      "target": "pálya"
+    },
+    {
+      "id": 701,
+      "level": 8,
+      "source": "parent",
+      "target": "szülő"
+    },
+    {
+      "id": 702,
+      "level": 8,
+      "source": "shore",
+      "target": "part"
+    },
+    {
+      "id": 703,
+      "level": 8,
+      "source": "division",
+      "target": "osztás"
+    },
+    {
+      "id": 704,
+      "level": 8,
+      "source": "sheet",
+      "target": "lap"
+    },
+    {
+      "id": 705,
+      "level": 8,
+      "source": "substance",
+      "target": "anyag"
+    },
+    {
+      "id": 706,
+      "level": 8,
+      "source": "favor",
+      "target": "kivételez"
+    },
+    {
+      "id": 707,
+      "level": 8,
+      "source": "connect",
+      "target": "csatlakoztat"
+    },
+    {
+      "id": 708,
+      "level": 8,
+      "source": "post",
+      "target": "üzenet"
+    },
+    {
+      "id": 709,
+      "level": 8,
+      "source": "spend",
+      "target": "költ"
+    },
+    {
+      "id": 710,
+      "level": 8,
+      "source": "chord",
+      "target": "egyezmény"
+    },
+    {
+      "id": 711,
+      "level": 8,
+      "source": "fat",
+      "target": "zsír"
+    },
+    {
+      "id": 712,
+      "level": 8,
+      "source": "glad",
+      "target": "boldog"
+    },
+    {
+      "id": 713,
+      "level": 8,
+      "source": "original",
+      "target": "eredeti"
+    },
+    {
+      "id": 714,
+      "level": 8,
+      "source": "share",
+      "target": "szint"
+    },
+    {
+      "id": 715,
+      "level": 8,
+      "source": "station",
+      "target": "állomás"
+    },
+    {
+      "id": 716,
+      "level": 8,
+      "source": "dad",
+      "target": "apuka"
+    },
+    {
+      "id": 717,
+      "level": 8,
+      "source": "bread",
+      "target": "kenyér"
+    },
+    {
+      "id": 718,
+      "level": 8,
+      "source": "charge",
+      "target": "töltés"
+    },
+    {
+      "id": 719,
+      "level": 8,
+      "source": "proper",
+      "target": "helyes"
+    },
+    {
+      "id": 720,
+      "level": 8,
+      "source": "bar",
+      "target": "bár"
+    },
+    {
+      "id": 721,
+      "level": 8,
+      "source": "offer",
+      "target": "adomány"
+    },
+    {
+      "id": 722,
+      "level": 8,
+      "source": "segment",
+      "target": "szegmens"
+    },
+    {
+      "id": 723,
+      "level": 8,
+      "source": "slave",
+      "target": "rab"
+    },
+    {
+      "id": 724,
+      "level": 8,
+      "source": "duck",
+      "target": "kacsa"
+    },
+    {
+      "id": 725,
+      "level": 8,
+      "source": "instant",
+      "target": "azonnali"
+    },
+    {
+      "id": 726,
+      "level": 8,
+      "source": "market",
+      "target": "piac"
+    },
+    {
+      "id": 727,
+      "level": 8,
+      "source": "degree",
+      "target": "szint"
+    },
+    {
+      "id": 728,
+      "level": 8,
+      "source": "populate",
+      "target": "népszerű"
+    },
+    {
+      "id": 729,
+      "level": 8,
+      "source": "chick",
+      "target": "csibe"
+    },
+    {
+      "id": 730,
+      "level": 8,
+      "source": "dear",
+      "target": "szeretett"
+    },
+    {
+      "id": 731,
+      "level": 8,
+      "source": "enemy",
+      "target": "ellenség"
+    },
+    {
+      "id": 732,
+      "level": 8,
+      "source": "reply",
+      "target": "válaszol"
+    },
+    {
+      "id": 733,
+      "level": 8,
+      "source": "drink",
+      "target": "ital"
+    },
+    {
+      "id": 734,
+      "level": 8,
+      "source": "occur",
+      "target": "létrejön"
+    },
+    {
+      "id": 735,
+      "level": 8,
+      "source": "support",
+      "target": "támogatás"
+    },
+    {
+      "id": 736,
+      "level": 8,
+      "source": "speech",
+      "target": "beszéd"
+    },
+    {
+      "id": 737,
+      "level": 8,
+      "source": "nature",
+      "target": "természet"
+    },
+    {
+      "id": 738,
+      "level": 8,
+      "source": "range",
+      "target": "választék"
+    },
+    {
+      "id": 739,
+      "level": 8,
+      "source": "steam",
+      "target": "gőz"
+    },
+    {
+      "id": 740,
+      "level": 8,
+      "source": "motion",
+      "target": "mozgás"
+    },
+    {
+      "id": 741,
+      "level": 8,
+      "source": "path",
+      "target": "ösvény"
+    },
+    {
+      "id": 742,
+      "level": 8,
+      "source": "liquid",
+      "target": "folyadék"
+    },
+    {
+      "id": 743,
+      "level": 8,
+      "source": "log",
+      "target": "törzs"
+    },
+    {
+      "id": 744,
+      "level": 8,
+      "source": "mean",
+      "target": "jelent"
+    },
+    {
+      "id": 745,
+      "level": 8,
+      "source": "quotient",
+      "target": "hányados"
+    },
+    {
+      "id": 746,
+      "level": 8,
+      "source": "teeth",
+      "target": "fogak"
+    },
+    {
+      "id": 747,
+      "level": 8,
+      "source": "shell",
+      "target": "héj"
+    },
+    {
+      "id": 748,
+      "level": 8,
+      "source": "neck",
+      "target": "nyak"
+    },
+    {
+      "id": 749,
+      "level": 8,
+      "source": "oxygen",
+      "target": "oxigén"
+    },
+    {
+      "id": 750,
+      "level": 8,
+      "source": "sugar",
+      "target": "cukor"
+    },
+    {
+      "id": 751,
+      "level": 8,
+      "source": "death",
+      "target": "halál"
+    },
+    {
+      "id": 752,
+      "level": 8,
+      "source": "skill",
+      "target": "készség"
+    },
+    {
+      "id": 753,
+      "level": 8,
+      "source": "women",
+      "target": "nők"
+    },
+    {
+      "id": 754,
+      "level": 8,
+      "source": "season",
+      "target": "évszak"
+    },
+    {
+      "id": 755,
+      "level": 8,
+      "source": "solution",
+      "target": "megoldás"
+    },
+    {
+      "id": 756,
+      "level": 8,
+      "source": "magnet",
+      "target": "mágnes"
+    },
+    {
+      "id": 757,
+      "level": 8,
+      "source": "silver",
+      "target": "ezüst"
+    },
+    {
+      "id": 758,
+      "level": 8,
+      "source": "thank",
+      "target": "köszönet"
+    },
+    {
+      "id": 759,
+      "level": 8,
+      "source": "branch",
+      "target": "ág"
+    },
+    {
+      "id": 760,
+      "level": 8,
+      "source": "match",
+      "target": "meccs"
+    },
+    {
+      "id": 761,
+      "level": 8,
+      "source": "suffix",
+      "target": "utótag"
+    },
+    {
+      "id": 762,
+      "level": 8,
+      "source": "especially",
+      "target": "különösen"
+    },
+    {
+      "id": 763,
+      "level": 8,
+      "source": "fig",
+      "target": "füge"
+    },
+    {
+      "id": 764,
+      "level": 8,
+      "source": "afraid",
+      "target": "megfélemlített"
+    },
+    {
+      "id": 765,
+      "level": 8,
+      "source": "huge",
+      "target": "hatalmas"
+    },
+    {
+      "id": 766,
+      "level": 8,
+      "source": "sister",
+      "target": "lány testvér"
+    },
+    {
+      "id": 767,
+      "level": 8,
+      "source": "steel",
+      "target": "acél"
+    },
+    {
+      "id": 768,
+      "level": 8,
+      "source": "discuss",
+      "target": "vitázik"
+    },
+    {
+      "id": 769,
+      "level": 8,
+      "source": "similar",
+      "target": "hasonló"
+    },
+    {
+      "id": 770,
+      "level": 8,
+      "source": "guide",
+      "target": "vezet"
+    },
+    {
+      "id": 771,
+      "level": 8,
+      "source": "experience",
+      "target": "tapasztalat"
+    },
+    {
+      "id": 772,
+      "level": 8,
+      "source": "score",
+      "target": "pont"
+    },
+    {
+      "id": 773,
+      "level": 8,
+      "source": "apple",
+      "target": "alma"
+    },
+    {
+      "id": 774,
+      "level": 8,
+      "source": "bought",
+      "target": "vásárolt"
+    },
+    {
+      "id": 775,
+      "level": 8,
+      "source": "led",
+      "target": "tehetséges"
+    },
+    {
+      "id": 776,
+      "level": 8,
+      "source": "pitch",
+      "target": "szurok"
+    },
+    {
+      "id": 777,
+      "level": 8,
+      "source": "coat",
+      "target": "kabát"
+    },
+    {
+      "id": 778,
+      "level": 8,
+      "source": "mass",
+      "target": "tömeg"
+    },
+    {
+      "id": 779,
+      "level": 8,
+      "source": "card",
+      "target": "karton"
+    },
+    {
+      "id": 780,
+      "level": 8,
+      "source": "band",
+      "target": "zenekar"
+    },
+    {
+      "id": 781,
+      "level": 8,
+      "source": "rope",
+      "target": "kötél"
+    },
+    {
+      "id": 782,
+      "level": 8,
+      "source": "slip",
+      "target": "elcsúszás"
+    },
+    {
+      "id": 783,
+      "level": 8,
+      "source": "win",
+      "target": "győzelem"
+    },
+    {
+      "id": 784,
+      "level": 8,
+      "source": "dream",
+      "target": "álmodik"
+    },
+    {
+      "id": 785,
+      "level": 8,
+      "source": "evening",
+      "target": "este"
+    },
+    {
+      "id": 786,
+      "level": 8,
+      "source": "condition",
+      "target": "feltétel"
+    },
+    {
+      "id": 787,
+      "level": 8,
+      "source": "feed",
+      "target": "táplálkozás"
+    },
+    {
+      "id": 788,
+      "level": 8,
+      "source": "tool",
+      "target": "eszköz"
+    },
+    {
+      "id": 789,
+      "level": 8,
+      "source": "total",
+      "target": "összeg"
+    },
+    {
+      "id": 790,
+      "level": 8,
+      "source": "basic",
+      "target": "alap"
+    },
+    {
+      "id": 791,
+      "level": 8,
+      "source": "smell",
+      "target": "szag"
+    },
+    {
+      "id": 792,
+      "level": 8,
+      "source": "valley",
+      "target": "völgy"
+    },
+    {
+      "id": 793,
+      "level": 8,
+      "source": "double",
+      "target": "dupla"
+    },
+    {
+      "id": 794,
+      "level": 8,
+      "source": "seat",
+      "target": "ülés"
+    },
+    {
+      "id": 795,
+      "level": 8,
+      "source": "continue",
+      "target": "folytat"
+    },
+    {
+      "id": 796,
+      "level": 8,
+      "source": "block",
+      "target": "blokk"
+    },
+    {
+      "id": 797,
+      "level": 8,
+      "source": "chart",
+      "target": "grafikus"
+    },
+    {
+      "id": 798,
+      "level": 8,
+      "source": "hat",
+      "target": "kalap"
+    },
+    {
+      "id": 799,
+      "level": 8,
+      "source": "sell",
+      "target": "elad"
+    },
+    {
+      "id": 800,
+      "level": 8,
+      "source": "success",
+      "target": "siker"
+    },
+    {
+      "id": 801,
+      "level": 9,
+      "source": "company",
+      "target": "cég"
+    },
+    {
+      "id": 802,
+      "level": 9,
+      "source": "subtract",
+      "target": "kivon"
+    },
+    {
+      "id": 803,
+      "level": 9,
+      "source": "event",
+      "target": "esemény"
+    },
+    {
+      "id": 804,
+      "level": 9,
+      "source": "particular",
+      "target": "különleges"
+    },
+    {
+      "id": 805,
+      "level": 9,
+      "source": "deal",
+      "target": "üzlet"
+    },
+    {
+      "id": 806,
+      "level": 9,
+      "source": "swim",
+      "target": "úszás"
+    },
+    {
+      "id": 807,
+      "level": 9,
+      "source": "term",
+      "target": "vég"
+    },
+    {
+      "id": 808,
+      "level": 9,
+      "source": "opposite",
+      "target": "ellentét"
+    },
+    {
+      "id": 809,
+      "level": 9,
+      "source": "wife",
+      "target": "feleség"
+    },
+    {
+      "id": 810,
+      "level": 9,
+      "source": "shoe",
+      "target": "cipő"
+    },
+    {
+      "id": 811,
+      "level": 9,
+      "source": "shoulder",
+      "target": "váll"
+    },
+    {
+      "id": 812,
+      "level": 9,
+      "source": "spread",
+      "target": "elszór"
+    },
+    {
+      "id": 813,
+      "level": 9,
+      "source": "arrange",
+      "target": "rendez"
+    },
+    {
+      "id": 814,
+      "level": 9,
+      "source": "camp",
+      "target": "mező"
+    },
+    {
+      "id": 815,
+      "level": 9,
+      "source": "invent",
+      "target": "kitalál"
+    },
+    {
+      "id": 816,
+      "level": 9,
+      "source": "cotton",
+      "target": "pamut"
+    },
+    {
+      "id": 817,
+      "level": 9,
+      "source": "birth",
+      "target": "születés"
+    },
+    {
+      "id": 818,
+      "level": 9,
+      "source": "determine",
+      "target": "meghatároz"
+    },
+    {
+      "id": 819,
+      "level": 9,
+      "source": "quart",
+      "target": "kvart"
+    },
+    {
+      "id": 820,
+      "level": 9,
+      "source": "nine",
+      "target": "kilenc"
+    },
+    {
+      "id": 821,
+      "level": 9,
+      "source": "truck",
+      "target": "kamion"
+    },
+    {
+      "id": 822,
+      "level": 9,
+      "source": "noise",
+      "target": "zaj"
+    },
+    {
+      "id": 823,
+      "level": 9,
+      "source": "level",
+      "target": "szint"
+    },
+    {
+      "id": 824,
+      "level": 9,
+      "source": "chance",
+      "target": "lehetőség"
+    },
+    {
+      "id": 825,
+      "level": 9,
+      "source": "gather",
+      "target": "összegyűjt"
+    },
+    {
+      "id": 826,
+      "level": 9,
+      "source": "shop",
+      "target": "üzlet"
+    },
+    {
+      "id": 827,
+      "level": 9,
+      "source": "stretch",
+      "target": "szakasz"
+    },
+    {
+      "id": 828,
+      "level": 9,
+      "source": "throw",
+      "target": "eldob"
+    },
+    {
+      "id": 829,
+      "level": 9,
+      "source": "shine",
+      "target": "csillog"
+    },
+    {
+      "id": 830,
+      "level": 9,
+      "source": "property",
+      "target": "sajátosság"
+    },
+    {
+      "id": 831,
+      "level": 9,
+      "source": "column",
+      "target": "oszlop"
+    },
+    {
+      "id": 832,
+      "level": 9,
+      "source": "molecule",
+      "target": "molekula"
+    },
+    {
+      "id": 833,
+      "level": 9,
+      "source": "select",
+      "target": "kiválaszt"
+    },
+    {
+      "id": 834,
+      "level": 9,
+      "source": "wrong",
+      "target": "hibás"
+    },
+    {
+      "id": 835,
+      "level": 9,
+      "source": "gray",
+      "target": "szürke"
+    },
+    {
+      "id": 836,
+      "level": 9,
+      "source": "repeat",
+      "target": "ismétlés"
+    },
+    {
+      "id": 837,
+      "level": 9,
+      "source": "require",
+      "target": "kér"
+    },
+    {
+      "id": 838,
+      "level": 9,
+      "source": "broad",
+      "target": "tágas"
+    },
+    {
+      "id": 839,
+      "level": 9,
+      "source": "prepare",
+      "target": "elkészít"
+    },
+    {
+      "id": 840,
+      "level": 9,
+      "source": "salt",
+      "target": "só"
+    },
+    {
+      "id": 841,
+      "level": 9,
+      "source": "nose",
+      "target": "orr"
+    },
+    {
+      "id": 842,
+      "level": 9,
+      "source": "plural",
+      "target": "többesszám"
+    },
+    {
+      "id": 843,
+      "level": 9,
+      "source": "anger",
+      "target": "harag"
+    },
+    {
+      "id": 844,
+      "level": 9,
+      "source": "claim",
+      "target": "kérés"
+    },
+    {
+      "id": 845,
+      "level": 9,
+      "source": "continent",
+      "target": "kontinens"
+    },
+    {
+      "id": 846,
+      "level": 9,
+      "source": "screen",
+      "target": "képernyő"
+    },
+    {
+      "id": 847,
+      "level": 9,
+      "source": "bottle",
+      "target": "üveg"
+    },
+    {
+      "id": 848,
+      "level": 9,
+      "source": "lamp",
+      "target": "lámpa"
+    },
+    {
+      "id": 849,
+      "level": 9,
+      "source": "telephone",
+      "target": "telefon"
+    },
+    {
+      "id": 850,
+      "level": 9,
+      "source": "trousers",
+      "target": "nadrág"
+    },
+    {
+      "id": 851,
+      "level": 9,
+      "source": "cheek",
+      "target": "arc"
+    },
+    {
+      "id": 852,
+      "level": 9,
+      "source": "pencil",
+      "target": "ceruza"
+    },
+    {
+      "id": 853,
+      "level": 9,
+      "source": "pen",
+      "target": "toll"
+    },
+    {
+      "id": 854,
+      "level": 9,
+      "source": "palace",
+      "target": "épület"
+    },
+    {
+      "id": 855,
+      "level": 9,
+      "source": "aeroplane",
+      "target": "repülőgép"
+    },
+    {
+      "id": 856,
+      "level": 9,
+      "source": "bike",
+      "target": "bicikli"
+    },
+    {
+      "id": 857,
+      "level": 9,
+      "source": "computer",
+      "target": "számítógép"
+    },
+    {
+      "id": 858,
+      "level": 9,
+      "source": "restaurant",
+      "target": "étterem"
+    },
+    {
+      "id": 859,
+      "level": 9,
+      "source": "vase",
+      "target": "váza"
+    },
+    {
+      "id": 860,
+      "level": 9,
+      "source": "rocket",
+      "target": "rakéta"
+    },
+    {
+      "id": 861,
+      "level": 9,
+      "source": "prey",
+      "target": "imádkozik"
+    },
+    {
+      "id": 862,
+      "level": 9,
+      "source": "university",
+      "target": "egyetem"
+    },
+    {
+      "id": 863,
+      "level": 9,
+      "source": "stairs",
+      "target": "lépcső"
+    },
+    {
+      "id": 864,
+      "level": 9,
+      "source": "motorbike",
+      "target": "motocbicikli"
+    },
+    {
+      "id": 865,
+      "level": 9,
+      "source": "jacket",
+      "target": "dzseki"
+    },
+    {
+      "id": 866,
+      "level": 9,
+      "source": "scream",
+      "target": "üvölt"
+    },
+    {
+      "id": 867,
+      "level": 9,
+      "source": "joy",
+      "target": "vidámság"
+    },
+    {
+      "id": 868,
+      "level": 9,
+      "source": "daughter",
+      "target": "lánya"
+    },
+    {
+      "id": 869,
+      "level": 9,
+      "source": "husband",
+      "target": "férj"
+    },
+    {
+      "id": 870,
+      "level": 9,
+      "source": "grandmother",
+      "target": "nagymama"
+    },
+    {
+      "id": 871,
+      "level": 9,
+      "source": "grandfather",
+      "target": "nagypapa"
+    },
+    {
+      "id": 872,
+      "level": 9,
+      "source": "uncle",
+      "target": "nagybácsi"
+    },
+    {
+      "id": 873,
+      "level": 9,
+      "source": "aunt",
+      "target": "nagynéni"
+    },
+    {
+      "id": 874,
+      "level": 9,
+      "source": "cousin",
+      "target": "unokatestvér"
+    },
+    {
+      "id": 875,
+      "level": 9,
+      "source": "autumn",
+      "target": "ősz"
+    },
+    {
+      "id": 876,
+      "level": 9,
+      "source": "today",
+      "target": "ma"
+    },
+    {
+      "id": 877,
+      "level": 9,
+      "source": "tomorrow",
+      "target": "holnap"
+    },
+    {
+      "id": 878,
+      "level": 9,
+      "source": "yesterday",
+      "target": "tegnap"
+    },
+    {
+      "id": 879,
+      "level": 9,
+      "source": "cheese",
+      "target": "sajt"
+    },
+    {
+      "id": 880,
+      "level": 9,
+      "source": "butter",
+      "target": "vaj"
+    },
+    {
+      "id": 881,
+      "level": 9,
+      "source": "coffee",
+      "target": "kávé"
+    },
+    {
+      "id": 882,
+      "level": 9,
+      "source": "tea",
+      "target": "tea"
+    },
+    {
+      "id": 883,
+      "level": 9,
+      "source": "wine",
+      "target": "bor"
+    },
+    {
+      "id": 884,
+      "level": 9,
+      "source": "beer",
+      "target": "sör"
+    },
+    {
+      "id": 885,
+      "level": 9,
+      "source": "rice",
+      "target": "rizs"
+    },
+    {
+      "id": 886,
+      "level": 9,
+      "source": "potato",
+      "target": "burgonya"
+    },
+    {
+      "id": 887,
+      "level": 9,
+      "source": "tomato",
+      "target": "paradicsom"
+    },
+    {
+      "id": 888,
+      "level": 9,
+      "source": "onion",
+      "target": "hagyma"
+    },
+    {
+      "id": 889,
+      "level": 9,
+      "source": "lemon",
+      "target": "citrom"
+    },
+    {
+      "id": 890,
+      "level": 9,
+      "source": "orange",
+      "target": "narancs"
+    },
+    {
+      "id": 891,
+      "level": 9,
+      "source": "banana",
+      "target": "banán"
+    },
+    {
+      "id": 892,
+      "level": 9,
+      "source": "grape",
+      "target": "szőlő"
+    },
+    {
+      "id": 893,
+      "level": 9,
+      "source": "carrot",
+      "target": "répa"
+    },
+    {
+      "id": 894,
+      "level": 9,
+      "source": "bean",
+      "target": "bab"
+    },
+    {
+      "id": 895,
+      "level": 9,
+      "source": "flour",
+      "target": "liszt"
+    },
+    {
+      "id": 896,
+      "level": 9,
+      "source": "cake",
+      "target": "torta"
+    },
+    {
+      "id": 897,
+      "level": 9,
+      "source": "cookie",
+      "target": "keksz"
+    },
+    {
+      "id": 898,
+      "level": 9,
+      "source": "chocolate",
+      "target": "csokoládé"
+    },
+    {
+      "id": 899,
+      "level": 9,
+      "source": "ice cream",
+      "target": "fagylalt"
+    },
+    {
+      "id": 900,
+      "level": 9,
+      "source": "honey",
+      "target": "méz"
+    },
+    {
+      "id": 901,
+      "level": 10,
+      "source": "soup",
+      "target": "leves"
+    },
+    {
+      "id": 902,
+      "level": 10,
+      "source": "salad",
+      "target": "saláta"
+    },
+    {
+      "id": 903,
+      "level": 10,
+      "source": "vinegar",
+      "target": "ecet"
+    },
+    {
+      "id": 904,
+      "level": 10,
+      "source": "pepper",
+      "target": "bors"
+    },
+    {
+      "id": 905,
+      "level": 10,
+      "source": "juice",
+      "target": "lé"
+    },
+    {
+      "id": 906,
+      "level": 10,
+      "source": "chicken",
+      "target": "csirke"
+    },
+    {
+      "id": 907,
+      "level": 10,
+      "source": "pig",
+      "target": "disznó"
+    },
+    {
+      "id": 908,
+      "level": 10,
+      "source": "sheep",
+      "target": "birka"
+    },
+    {
+      "id": 909,
+      "level": 10,
+      "source": "goat",
+      "target": "kecske"
+    },
+    {
+      "id": 910,
+      "level": 10,
+      "source": "rabbit",
+      "target": "nyúl"
+    },
+    {
+      "id": 911,
+      "level": 10,
+      "source": "mouse",
+      "target": "egér"
+    },
+    {
+      "id": 912,
+      "level": 10,
+      "source": "bear",
+      "target": "medve"
+    },
+    {
+      "id": 913,
+      "level": 10,
+      "source": "lion",
+      "target": "oroszlán"
+    },
+    {
+      "id": 914,
+      "level": 10,
+      "source": "wolf",
+      "target": "farkas"
+    },
+    {
+      "id": 915,
+      "level": 10,
+      "source": "fox",
+      "target": "róka"
+    },
+    {
+      "id": 916,
+      "level": 10,
+      "source": "monkey",
+      "target": "majom"
+    },
+    {
+      "id": 917,
+      "level": 10,
+      "source": "elephant",
+      "target": "elefánt"
+    },
+    {
+      "id": 918,
+      "level": 10,
+      "source": "tiger",
+      "target": "tigris"
+    },
+    {
+      "id": 919,
+      "level": 10,
+      "source": "giraffe",
+      "target": "zsiráf"
+    },
+    {
+      "id": 920,
+      "level": 10,
+      "source": "bee",
+      "target": "méh"
+    },
+    {
+      "id": 921,
+      "level": 10,
+      "source": "butterfly",
+      "target": "pillangó"
+    },
+    {
+      "id": 922,
+      "level": 10,
+      "source": "spider",
+      "target": "pók"
+    },
+    {
+      "id": 923,
+      "level": 10,
+      "source": "snake",
+      "target": "kígyó"
+    },
+    {
+      "id": 924,
+      "level": 10,
+      "source": "ant",
+      "target": "hangya"
+    },
+    {
+      "id": 925,
+      "level": 10,
+      "source": "fly",
+      "target": "légy"
+    },
+    {
+      "id": 926,
+      "level": 10,
+      "source": "mosquito",
+      "target": "szúnyog"
+    },
+    {
+      "id": 927,
+      "level": 10,
+      "source": "frog",
+      "target": "béka"
+    },
+    {
+      "id": 928,
+      "level": 10,
+      "source": "shark",
+      "target": "cápa"
+    },
+    {
+      "id": 929,
+      "level": 10,
+      "source": "whale",
+      "target": "bálna"
+    },
+    {
+      "id": 930,
+      "level": 10,
+      "source": "turtle",
+      "target": "teknős"
+    },
+    {
+      "id": 931,
+      "level": 10,
+      "source": "goose",
+      "target": "liba"
+    },
+    {
+      "id": 932,
+      "level": 10,
+      "source": "hen",
+      "target": "tyúk"
+    },
+    {
+      "id": 933,
+      "level": 10,
+      "source": "turkey",
+      "target": "pulyka"
+    },
+    {
+      "id": 934,
+      "level": 10,
+      "source": "knee",
+      "target": "térd"
+    },
+    {
+      "id": 935,
+      "level": 10,
+      "source": "elbow",
+      "target": "könyök"
+    },
+    {
+      "id": 936,
+      "level": 10,
+      "source": "lips",
+      "target": "ajkak"
+    },
+    {
+      "id": 937,
+      "level": 10,
+      "source": "back",
+      "target": "hát"
+    },
+    {
+      "id": 938,
+      "level": 10,
+      "source": "chest",
+      "target": "mellkas"
+    },
+    {
+      "id": 939,
+      "level": 10,
+      "source": "stomach",
+      "target": "gyomor"
+    },
+    {
+      "id": 940,
+      "level": 10,
+      "source": "brain",
+      "target": "agy"
+    },
+    {
+      "id": 941,
+      "level": 10,
+      "source": "nail",
+      "target": "köröm"
+    },
+    {
+      "id": 942,
+      "level": 10,
+      "source": "beard",
+      "target": "szakáll"
+    },
+    {
+      "id": 943,
+      "level": 10,
+      "source": "tear",
+      "target": "könny"
+    },
+    {
+      "id": 944,
+      "level": 10,
+      "source": "kitchen",
+      "target": "konyha"
+    },
+    {
+      "id": 945,
+      "level": 10,
+      "source": "bathroom",
+      "target": "fürdőszoba"
+    },
+    {
+      "id": 946,
+      "level": 10,
+      "source": "mirror",
+      "target": "tükör"
+    },
+    {
+      "id": 947,
+      "level": 10,
+      "source": "knife",
+      "target": "kés"
+    },
+    {
+      "id": 948,
+      "level": 10,
+      "source": "fork",
+      "target": "villa"
+    },
+    {
+      "id": 949,
+      "level": 10,
+      "source": "spoon",
+      "target": "kanál"
+    },
+    {
+      "id": 950,
+      "level": 10,
+      "source": "plate",
+      "target": "tányér"
+    },
+    {
+      "id": 951,
+      "level": 10,
+      "source": "cup",
+      "target": "csésze"
+    },
+    {
+      "id": 952,
+      "level": 10,
+      "source": "roof",
+      "target": "tető"
+    },
+    {
+      "id": 953,
+      "level": 10,
+      "source": "soap",
+      "target": "szappan"
+    },
+    {
+      "id": 954,
+      "level": 10,
+      "source": "towel",
+      "target": "törölköző"
+    },
+    {
+      "id": 955,
+      "level": 10,
+      "source": "brush",
+      "target": "kefe"
+    },
+    {
+      "id": 956,
+      "level": 10,
+      "source": "umbrella",
+      "target": "esernyő"
+    },
+    {
+      "id": 957,
+      "level": 10,
+      "source": "suitcase",
+      "target": "bőrönd"
+    },
+    {
+      "id": 958,
+      "level": 10,
+      "source": "bag",
+      "target": "táska"
+    },
+    {
+      "id": 959,
+      "level": 10,
+      "source": "wallet",
+      "target": "pénztárca"
+    },
+    {
+      "id": 960,
+      "level": 10,
+      "source": "coin",
+      "target": "érme"
+    },
+    {
+      "id": 961,
+      "level": 10,
+      "source": "gift",
+      "target": "ajándék"
+    },
+    {
+      "id": 962,
+      "level": 10,
+      "source": "toy",
+      "target": "játék"
+    },
+    {
+      "id": 963,
+      "level": 10,
+      "source": "doll",
+      "target": "baba"
+    },
+    {
+      "id": 964,
+      "level": 10,
+      "source": "newspaper",
+      "target": "újság"
+    },
+    {
+      "id": 965,
+      "level": 10,
+      "source": "magazine",
+      "target": "folyóirat"
+    },
+    {
+      "id": 966,
+      "level": 10,
+      "source": "movie",
+      "target": "film"
+    },
+    {
+      "id": 967,
+      "level": 10,
+      "source": "hospital",
+      "target": "kórház"
+    },
+    {
+      "id": 968,
+      "level": 10,
+      "source": "church",
+      "target": "templom"
+    },
+    {
+      "id": 969,
+      "level": 10,
+      "source": "hotel",
+      "target": "szálloda"
+    },
+    {
+      "id": 970,
+      "level": 10,
+      "source": "airport",
+      "target": "repülőtér"
+    },
+    {
+      "id": 971,
+      "level": 10,
+      "source": "library",
+      "target": "könyvtár"
+    },
+    {
+      "id": 972,
+      "level": 10,
+      "source": "museum",
+      "target": "múzeum"
+    },
+    {
+      "id": 973,
+      "level": 10,
+      "source": "park",
+      "target": "park"
+    },
+    {
+      "id": 974,
+      "level": 10,
+      "source": "theatre",
+      "target": "színház"
+    },
+    {
+      "id": 975,
+      "level": 10,
+      "source": "pharmacy",
+      "target": "gyógyszertár"
+    },
+    {
+      "id": 976,
+      "level": 10,
+      "source": "bus",
+      "target": "busz"
+    },
+    {
+      "id": 977,
+      "level": 10,
+      "source": "bridge",
+      "target": "híd"
+    },
+    {
+      "id": 978,
+      "level": 10,
+      "source": "castle",
+      "target": "kastély"
+    },
+    {
+      "id": 979,
+      "level": 10,
+      "source": "tower",
+      "target": "torony"
+    },
+    {
+      "id": 980,
+      "level": 10,
+      "source": "factory",
+      "target": "gyár"
+    },
+    {
+      "id": 981,
+      "level": 10,
+      "source": "beach",
+      "target": "strand"
+    },
+    {
+      "id": 982,
+      "level": 10,
+      "source": "jungle",
+      "target": "dzsungel"
+    },
+    {
+      "id": 983,
+      "level": 10,
+      "source": "rainbow",
+      "target": "szivárvány"
+    },
+    {
+      "id": 984,
+      "level": 10,
+      "source": "thunder",
+      "target": "mennydörgés"
+    },
+    {
+      "id": 985,
+      "level": 10,
+      "source": "smoke",
+      "target": "füst"
+    },
+    {
+      "id": 986,
+      "level": 10,
+      "source": "ash",
+      "target": "hamu"
+    },
+    {
+      "id": 987,
+      "level": 10,
+      "source": "nurse",
+      "target": "ápoló"
+    },
+    {
+      "id": 988,
+      "level": 10,
+      "source": "lawyer",
+      "target": "ügyvéd"
+    },
+    {
+      "id": 989,
+      "level": 10,
+      "source": "engineer",
+      "target": "mérnök"
+    },
+    {
+      "id": 990,
+      "level": 10,
+      "source": "writer",
+      "target": "író"
+    },
+    {
+      "id": 991,
+      "level": 10,
+      "source": "singer",
+      "target": "énekes"
+    },
+    {
+      "id": 992,
+      "level": 10,
+      "source": "painter",
+      "target": "festő"
+    },
+    {
+      "id": 993,
+      "level": 10,
+      "source": "waiter",
+      "target": "pincér"
+    },
+    {
+      "id": 994,
+      "level": 10,
+      "source": "farmer",
+      "target": "gazda"
+    },
+    {
+      "id": 995,
+      "level": 10,
+      "source": "policeman",
+      "target": "rendőr"
+    },
+    {
+      "id": 996,
+      "level": 10,
+      "source": "shirt",
+      "target": "ing"
+    },
+    {
+      "id": 997,
+      "level": 10,
+      "source": "skirt",
+      "target": "szoknya"
+    },
+    {
+      "id": 998,
+      "level": 10,
+      "source": "socks",
+      "target": "zokni"
+    },
+    {
+      "id": 999,
+      "level": 10,
+      "source": "gloves",
+      "target": "kesztyű"
+    },
+    {
+      "id": 1000,
+      "level": 10,
+      "source": "belt",
+      "target": "öv"
+    }
+  ]
+}
