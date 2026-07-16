@@ -1,0 +1,29 @@
+{
+  "source": "it",
+  "target": "hu",
+  "sourceName": "Italiano",
+  "targetName": "Magyar",
+  "version": 1,
+  "words": [
+    { "id": 1, "level": 1, "source": "casa", "target": "ház" },
+    { "id": 2, "level": 1, "source": "acqua", "target": "víz" },
+    { "id": 101, "level": 2, "source": "cane", "target": "kutya" },
+    { "id": 102, "level": 2, "source": "gatto", "target": "macska" },
+    { "id": 201, "level": 3, "source": "pane", "target": "kenyér" },
+    { "id": 202, "level": 3, "source": "latte", "target": "tej" },
+    { "id": 301, "level": 4, "source": "libro", "target": "könyv" },
+    { "id": 302, "level": 4, "source": "scuola", "target": "iskola" },
+    { "id": 401, "level": 5, "source": "tempo", "target": "idő" },
+    { "id": 402, "level": 5, "source": "giorno", "target": "nap" },
+    { "id": 501, "level": 6, "source": "notte", "target": "éjszaka" },
+    { "id": 502, "level": 6, "source": "strada", "target": "út" },
+    { "id": 601, "level": 7, "source": "amico", "target": "barát" },
+    { "id": 602, "level": 7, "source": "famiglia", "target": "család" },
+    { "id": 701, "level": 8, "source": "lavoro", "target": "munka" },
+    { "id": 702, "level": 8, "source": "città", "target": "város" },
+    { "id": 801, "level": 9, "source": "cuore", "target": "szív" },
+    { "id": 802, "level": 9, "source": "mano", "target": "kéz" },
+    { "id": 901, "level": 10, "source": "fiore", "target": "virág" },
+    { "id": 902, "level": 10, "source": "albero", "target": "fa" }
+  ]
+}
