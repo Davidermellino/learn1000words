@@ -53,3 +53,9 @@ app.*.map.json
 .env
 *.env
 env.json
+
+# Android release signing — NEVER commit the keystore or its passwords.
+# The keystore is the permanent, unrecoverable upload identity for Play.
+**/key.properties
+*.jks
+*.keystore
