@@ -9,6 +9,7 @@ import '../../data/language_providers.dart';
 import '../../data/models/language_pair.dart';
 import '../../data/models/word.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 import 'usage_repository.dart';
 
 /// Usage mode for one level: shows a random memorized word and lets the user
@@ -63,9 +64,9 @@ class _UsageScreenState extends ConsumerState<UsageScreen> {
     ScaffoldMessenger.of(context)
       ..hideCurrentSnackBar()
       ..showSnackBar(
-        const SnackBar(
-          content: Text('Frase salvata!'),
-          duration: Duration(seconds: 2),
+        SnackBar(
+          content: Text(AppLocalizations.of(context).sentenceSaved),
+          duration: const Duration(seconds: 2),
         ),
       );
   }
@@ -75,14 +76,15 @@ class _UsageScreenState extends ConsumerState<UsageScreen> {
     final wordsAsync = ref.watch(wordsProvider);
     final memorizedAsync = ref.watch(memorizedWordIdsProvider);
     final pair = ref.watch(activePairProvider);
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Uso · Livello ${widget.level}'),
+        title: Text(l10n.usageTitle(widget.level)),
         actions: [
           IconButton(
             icon: const Icon(Icons.history),
-            tooltip: 'Le tue frasi',
+            tooltip: l10n.yourSentences,
             onPressed: () => context.goNamed(
               'usage-history',
               pathParameters: {'level': '${widget.level}'},
@@ -97,7 +99,7 @@ class _UsageScreenState extends ConsumerState<UsageScreen> {
             return Center(
               child: Padding(
                 padding: const EdgeInsets.all(24),
-                child: Text('Errore nel caricamento:\n$error'),
+                child: Text(l10n.loadErrorGeneric(error)),
               ),
             );
           }
@@ -150,9 +152,9 @@ class _UsageScreenState extends ConsumerState<UsageScreen> {
                   minLines: 3,
                   maxLines: 6,
                   textCapitalization: TextCapitalization.sentences,
-                  decoration: const InputDecoration(
-                    border: OutlineInputBorder(),
-                    hintText: 'Scrivi una frase con questa parola…',
+                  decoration: InputDecoration(
+                    border: const OutlineInputBorder(),
+                    hintText: l10n.writeSentenceHint,
                   ),
                   onChanged: (_) => setState(() {}),
                 ),
@@ -161,13 +163,13 @@ class _UsageScreenState extends ConsumerState<UsageScreen> {
                   onPressed: _controller.text.trim().isEmpty
                       ? null
                       : () => _save(word, pair.pairId),
-                  child: const Text('Fatto'),
+                  child: Text(l10n.done),
                 ),
                 const SizedBox(height: 8),
                 OutlinedButton.icon(
                   onPressed: () => _nextWord(pool),
                   icon: const Icon(Icons.shuffle),
-                  label: const Text('Un\'altra parola'),
+                  label: Text(l10n.anotherWord),
                 ),
               ],
             ),
@@ -196,15 +198,14 @@ class _NoMemorizedWordsView extends StatelessWidget {
               color: Theme.of(context).colorScheme.outline,
             ),
             const SizedBox(height: 16),
-            const Text(
-              'Nessuna parola memorizzata in questo livello.\n'
-              'Completa prima un test per sbloccare l\'esercizio di uso.',
+            Text(
+              AppLocalizations.of(context).noMemorizedInLevel,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 24),
             TextButton(
               onPressed: () => Navigator.of(context).pop(),
-              child: const Text('Torna al livello'),
+              child: Text(AppLocalizations.of(context).backToLevel),
             ),
           ],
         ),

@@ -4,6 +4,7 @@ import 'package:go_router/go_router.dart';
 
 import '../../core/constants/app_constants.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 import '../profile/widgets/daily_progress_badge.dart';
 import 'widgets/level_card.dart';
 
@@ -15,6 +16,7 @@ class HomeScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final levelsAsync = ref.watch(levelsProgressProvider);
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
       appBar: AppBar(
@@ -26,7 +28,7 @@ class HomeScreen extends ConsumerWidget {
         error: (error, _) => Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text('Errore nel caricamento dei livelli:\n$error'),
+            child: Text(l10n.levelsLoadError(error)),
           ),
         ),
         data: (levels) => ListView.separated(
@@ -49,7 +51,7 @@ class HomeScreen extends ConsumerWidget {
                     ..showSnackBar(
                       SnackBar(
                         content: Text(
-                          'Completa prima il livello ${progress.level - 1}',
+                          l10n.completeLevelFirst(progress.level - 1),
                         ),
                         duration: const Duration(seconds: 2),
                       ),

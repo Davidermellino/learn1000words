@@ -8,6 +8,7 @@ import '../../data/language_providers.dart';
 import '../../data/models/language_pair.dart';
 import '../../data/models/word.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 
 /// How the flashcards deck is ordered.
 enum FlashcardsMode {
@@ -49,15 +50,16 @@ class _FlashcardsScreenState extends ConsumerState<FlashcardsScreen> {
   Widget build(BuildContext context) {
     final wordsAsync = ref.watch(wordsProvider);
     final pair = ref.watch(activePairProvider);
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text('Flashcard · Livello ${widget.level}')),
+      appBar: AppBar(title: Text(l10n.flashcardsTitle(widget.level))),
       body: wordsAsync.when(
         loading: () => const Center(child: CircularProgressIndicator()),
         error: (error, _) => Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text('Errore nel caricamento delle parole:\n$error'),
+            child: Text(l10n.wordsLoadError(error)),
           ),
         ),
         data: (words) {
@@ -67,8 +69,8 @@ class _FlashcardsScreenState extends ConsumerState<FlashcardsScreen> {
           final levelWords =
               words.where((word) => word.level == widget.level).toList();
           if (levelWords.isEmpty) {
-            return const Center(
-              child: Text('Nessuna parola in questo livello.'),
+            return Center(
+              child: Text(l10n.noWordsInLevel),
             );
           }
           if (_mode == null) {
@@ -92,6 +94,7 @@ class _ModePicker extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     return ListView(
       padding: const EdgeInsets.all(16),
       children: [
@@ -99,8 +102,8 @@ class _ModePicker extends StatelessWidget {
           clipBehavior: Clip.antiAlias,
           child: ListTile(
             leading: const Icon(Icons.format_list_numbered),
-            title: const Text('In ordine'),
-            subtitle: const Text('Per imparare le parole la prima volta'),
+            title: Text(l10n.flashcardsOrdered),
+            subtitle: Text(l10n.flashcardsOrderedSubtitle),
             trailing: const Icon(Icons.chevron_right),
             onTap: onOrdered,
           ),
@@ -109,8 +112,8 @@ class _ModePicker extends StatelessWidget {
           clipBehavior: Clip.antiAlias,
           child: ListTile(
             leading: const Icon(Icons.shuffle),
-            title: const Text('Casuale'),
-            subtitle: const Text('Per ripassare in ordine sparso'),
+            title: Text(l10n.flashcardsRandom),
+            subtitle: Text(l10n.flashcardsRandomSubtitle),
             trailing: const Icon(Icons.chevron_right),
             onTap: onRandom,
           ),
@@ -190,13 +193,13 @@ class _DeckState extends State<_Deck> {
               IconButton.filledTonal(
                 onPressed: _page > 0 ? () => _goTo(_page - 1) : null,
                 icon: const Icon(Icons.arrow_back),
-                tooltip: 'Precedente',
+                tooltip: AppLocalizations.of(context).flashcardPrevious,
               ),
               const SizedBox(width: 24),
               IconButton.filledTonal(
                 onPressed: _page < total - 1 ? () => _goTo(_page + 1) : null,
                 icon: const Icon(Icons.arrow_forward),
-                tooltip: 'Successiva',
+                tooltip: AppLocalizations.of(context).flashcardNext,
               ),
             ],
           ),
@@ -277,8 +280,8 @@ class _FlipCardState extends State<_FlipCard> {
                       const SizedBox(height: 16),
                       Text(
                         showBack
-                            ? 'Tocca per tornare'
-                            : 'Tocca per la traduzione',
+                            ? AppLocalizations.of(context).tapToReturn
+                            : AppLocalizations.of(context).tapForTranslation,
                         style: Theme.of(context)
                             .textTheme
                             .bodySmall

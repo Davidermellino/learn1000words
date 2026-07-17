@@ -8,6 +8,7 @@ import '../../data/models/language_pair.dart';
 import '../../data/models/word.dart';
 import '../../data/progress_provider.dart';
 import '../../data/progress_writer.dart';
+import '../../l10n/app_localizations.dart';
 import 'widgets/segmented_answer_field.dart';
 
 /// Test for one level: the not-yet-memorized words one at a time, answered
@@ -83,9 +84,10 @@ class _TestScreenState extends ConsumerState<TestScreen> {
     final wordsAsync = ref.watch(wordsProvider);
     final memorizedAsync = ref.watch(memorizedWordIdsProvider);
     final pair = ref.watch(activePairProvider);
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text('Test · Livello ${widget.level}')),
+      appBar: AppBar(title: Text(l10n.testTitle(widget.level))),
       body: Builder(
         builder: (context) {
           final error = wordsAsync.error ?? memorizedAsync.error;
@@ -93,7 +95,7 @@ class _TestScreenState extends ConsumerState<TestScreen> {
             return Center(
               child: Padding(
                 padding: const EdgeInsets.all(24),
-                child: Text('Errore nel caricamento del test:\n$error'),
+                child: Text(l10n.testLoadError(error)),
               ),
             );
           }
@@ -171,6 +173,7 @@ class _QuestionView extends StatelessWidget {
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
+    final l10n = AppLocalizations.of(context);
     final checked = results != null;
     final correct = checked && results!.every((matches) => matches);
 
@@ -209,7 +212,7 @@ class _QuestionView extends StatelessWidget {
                 : Column(
                     children: [
                       Text(
-                        'Sbagliato',
+                        l10n.answerWrong,
                         textAlign: TextAlign.center,
                         style: textTheme.titleMedium
                             ?.copyWith(color: colorScheme.error),
@@ -218,7 +221,7 @@ class _QuestionView extends StatelessWidget {
                       Text.rich(
                         TextSpan(
                           children: [
-                            const TextSpan(text: 'Risposta corretta: '),
+                            TextSpan(text: l10n.correctAnswerPrefix),
                             TextSpan(
                               text: template.target,
                               style: const TextStyle(
@@ -236,12 +239,12 @@ class _QuestionView extends StatelessWidget {
             const SizedBox(height: 24),
             FilledButton(
               onPressed: onAdvance,
-              child: const Text('Avanti'),
+              child: Text(l10n.next),
             ),
           ] else
             FilledButton(
               onPressed: onCheck,
-              child: const Text('Verifica'),
+              child: Text(l10n.check),
             ),
         ],
       ),
@@ -270,7 +273,7 @@ class _CorrectBanner extends StatelessWidget {
             Icon(Icons.check_rounded, size: 20, color: tokens.onHighlighter),
             const SizedBox(width: 8),
             Text(
-              'Corretto',
+              AppLocalizations.of(context).answerCorrect,
               style: Theme.of(context).textTheme.titleMedium?.copyWith(
                     color: tokens.onHighlighter,
                   ),
@@ -296,6 +299,7 @@ class _SummaryView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     final allDone = correct == total;
 
     return Center(
@@ -311,23 +315,23 @@ class _SummaryView extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             Text(
-              'Test completato!',
+              l10n.testCompleted,
               style: Theme.of(context).textTheme.headlineSmall,
             ),
             const SizedBox(height: 8),
             Text(
-              '$correct parole memorizzate su $total.',
+              l10n.testScore(correct, total),
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 24),
             if (!allDone)
               FilledButton(
                 onPressed: onRetry,
-                child: const Text('Riprova le parole rimaste'),
+                child: Text(l10n.retryRemaining),
               ),
             TextButton(
               onPressed: () => Navigator.of(context).pop(),
-              child: const Text('Torna al livello'),
+              child: Text(l10n.backToLevel),
             ),
           ],
         ),
@@ -342,6 +346,7 @@ class _AllMemorizedView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(24),
@@ -355,18 +360,18 @@ class _AllMemorizedView extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             Text(
-              'Livello completato!',
+              l10n.levelCompleted,
               style: Theme.of(context).textTheme.headlineSmall,
             ),
             const SizedBox(height: 8),
-            const Text(
-              'Hai già memorizzato tutte le parole di questo livello.',
+            Text(
+              l10n.allWordsMemorized,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 24),
             TextButton(
               onPressed: () => Navigator.of(context).pop(),
-              child: const Text('Torna al livello'),
+              child: Text(l10n.backToLevel),
             ),
           ],
         ),

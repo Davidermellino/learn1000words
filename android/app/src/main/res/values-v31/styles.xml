@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+ (API 31) splash. The OS ignores windowBackground for the
+         launch splash and drives it through the SplashScreen API instead, so
+         the ermine and its background are declared here. windowSplashScreen-
+         AnimatedIcon reuses the adaptive foreground (ermine within the inner
+         2/3 safe zone, so the circular splash mask never crops it). -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowSplashScreenBackground">@color/ermine_splash_bg</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/splash_icon</item>
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

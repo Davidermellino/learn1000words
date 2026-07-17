@@ -2,17 +2,19 @@ import 'dart:io';
 
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-/// Maps an arbitrary exception to a short message safe to show in the UI,
-/// so raw exception dumps (socket errors, stack-ish text) never reach users.
-String friendlyErrorMessage(Object error) {
+import '../../l10n/app_localizations.dart';
+
+/// Maps an arbitrary exception to a short, localized message safe to show in
+/// the UI, so raw exception dumps (socket errors, stack-ish text) never reach
+/// users. Pass the caller's [AppLocalizations] (via `AppLocalizations.of`).
+String friendlyErrorMessage(AppLocalizations l10n, Object error) {
   if (_isNetworkError(error)) {
-    return 'Impossibile contattare il server. '
-        'Controlla la connessione e riprova.';
+    return l10n.errorNetwork;
   }
   if (error is AuthException) {
-    return 'Sessione scaduta o non valida. Accedi di nuovo.';
+    return l10n.errorSession;
   }
-  return 'Si è verificato un errore. Riprova.';
+  return l10n.errorGeneric;
 }
 
 bool _isNetworkError(Object error) {

@@ -1,0 +1,9 @@
+# Configuration for `flutter gen-l10n`, which generates the AppLocalizations
+# class from the ARB files in lib/l10n/. English (app_en.arb) is the template
+# and the fallback locale; every other app_<code>.arb is a translation.
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+# Non-nullable AppLocalizations.of(context) — the delegate is always installed.
+nullable-getter: false

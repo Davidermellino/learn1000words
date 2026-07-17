@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../l10n/app_localizations.dart';
+
 /// Step 1: enter a nickname. Validated as non-empty, 3–20 chars (trimmed).
 class NicknameStep extends StatelessWidget {
   const NicknameStep({
@@ -13,6 +15,7 @@ class NicknameStep extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 24),
       child: Column(
@@ -20,7 +23,7 @@ class NicknameStep extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Text(
-            'Come vuoi essere chiamato?',
+            l10n.nicknamePrompt,
             style: Theme.of(context).textTheme.titleLarge,
             textAlign: TextAlign.center,
           ),
@@ -30,7 +33,7 @@ class NicknameStep extends StatelessWidget {
             autofocus: true,
             maxLength: 20,
             decoration: InputDecoration(
-              labelText: 'Nickname',
+              labelText: l10n.nicknameLabel,
               border: const OutlineInputBorder(),
               errorText: errorText,
             ),
@@ -49,8 +52,8 @@ bool isValidNickname(String nickname) {
 
 /// Error message to show below the field, or `null` if there's nothing to
 /// report yet (field is empty) or the nickname is valid.
-String? nicknameErrorText(String nickname) {
+String? nicknameErrorText(AppLocalizations l10n, String nickname) {
   final trimmed = nickname.trim();
   if (trimmed.isEmpty || isValidNickname(nickname)) return null;
-  return 'Deve avere tra 3 e 20 caratteri';
+  return l10n.nicknameLengthError;
 }

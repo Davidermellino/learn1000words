@@ -59,3 +59,11 @@ env.json
 **/key.properties
 *.jks
 *.keystore
+
+# Node tooling for the graphics/image scripts (sharp, supabase image libs).
+# The package.json / package-lock.json manifest is committed; the installed
+# dependency tree is not.
+/node_modules/
+
+# Supabase CLI local link state (project ref, versions) — machine-local, not source.
+supabase/.temp/

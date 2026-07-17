@@ -8,11 +8,12 @@ app actually does today. Placeholders in **[brackets]** must be filled in before
 ## Who we are
 
 learn1000words is a vocabulary-learning app. For any privacy question or request, contact us at
-**[contact email]**.
+**ermellinodavide@gmail.com**.
 
 ## The short version
 
-- To use the app you sign in with **Google** or **email + password**.
+- To use the app you sign in with **Google** or **email + password** (on Android). **Sign in with
+  Apple** is implemented for a future iOS release and is not available in this Android version.
 - We store your **learning profile** (nickname, chosen avatar, active language pair, level,
   memorized-word count, streak) and **which words you have memorized** in our cloud backend so
   your progress is backed up and restored when you sign in on another device.
@@ -31,6 +32,8 @@ learn1000words is a vocabulary-learning app. For any privacy question or request
   never stores your password.
 - Sign-in is handled by **Supabase Auth**, and, if you choose it, by **Google Sign-In**. That
   provider processes your credentials under its own privacy policy.
+- **Sign in with Apple** is built into the app for a planned iOS release and is not offered in
+  this Android version — the option does not appear on Android devices.
 
 ### Learning profile (backed up to the cloud)
 When you complete setup we create a profile containing:
@@ -85,7 +88,7 @@ Union". Do not claim a region until verified.]**
   **immediately and irreversibly**:
   - **In the app:** go to **Profile → Account → Delete account** and confirm. Your cloud data,
     your account, and all data on your device are removed right away.
-  - **Without the app:** email **[contact email]** with the subject "Account deletion request"
+  - **Without the app:** email **ermellinodavide@gmail.com** with the subject "Account deletion request"
     from your registered address; the account and its data are deleted immediately upon
     verification. See also our web deletion page (`docs/delete-account.html`).
 
@@ -100,7 +103,7 @@ We may update this policy; the "Last updated" date above will change accordingly
 
 ## Contact
 
-**[contact email]**
+**ermellinodavide@gmail.com**
 
 ---
 
@@ -111,5 +114,6 @@ _Notes for the author (remove before publishing):_
 - _Account deletion now describes the in-app flow (Profile → Account → Delete account, backed by
   the `delete-account` Supabase edge function) plus an email path for users without the app. The
   static web versions live in `docs/privacy-policy.html` and `docs/delete-account.html`._
-- _This release is Android-only; Apple Sign-in was removed from this policy (it is unverified on
-  a real Apple device and not offered in the shipped build)._
+- _This release is Android-only; Apple Sign-in is implemented but only shown on iOS/macOS builds
+  (`auth_screen.dart` gates it by platform), so it is mentioned as "planned for iOS" rather than
+  as an active Android feature. It remains unverified on a real Apple device._

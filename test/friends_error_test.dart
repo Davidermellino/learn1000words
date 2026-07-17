@@ -5,6 +5,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 import 'package:learn1000words/data/repositories/friends_repository.dart';
 import 'package:learn1000words/features/friends/friends_screen.dart';
+import 'package:learn1000words/l10n/app_localizations.dart';
 
 /// The exception thrown by supabase when the device is offline and the
 /// expired access token cannot be refreshed (the P5 friends-tab bug).
@@ -66,7 +67,12 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         overrides: [friendsRepositoryProvider.overrideWithValue(repo)],
-        child: const MaterialApp(home: FriendsScreen()),
+        child: MaterialApp(
+          locale: const Locale('it'),
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
+          supportedLocales: AppLocalizations.supportedLocales,
+          home: const FriendsScreen(),
+        ),
       ),
     );
     await tester.pump();

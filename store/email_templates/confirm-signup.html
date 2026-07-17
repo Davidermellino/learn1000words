@@ -1,0 +1,72 @@
+<!--
+  learn1000words — Signup confirmation email
+
+  This is the ONLY auth email the app currently triggers: signUp() (email +
+  password) returns no session, so Supabase sends this confirmation link.
+  Password-reset and magic-link flows are NOT wired in the app, so no
+  templates exist for them.
+
+  HOW TO USE: paste the <body> markup below into the Supabase dashboard at
+  Authentication → Emails → Templates → "Confirm signup". Supabase substitutes
+  the {{ .ConfirmationURL }} variable at send time. See
+  store/email_setup_checklist.md for the full setup.
+
+  Kept as plain HTML + INLINE CSS on purpose: many email clients strip <style>
+  blocks and all JavaScript. No external images or fonts are referenced.
+  Visible sender context: learn1000words <noreply@learn1000words.com>,
+  reply-to ermellinodavide@gmail.com.
+-->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f5f7;margin:0;padding:24px 0;">
+  <tr>
+    <td align="center">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:480px;background:#ffffff;border:1px solid #e2e2e2;border-radius:12px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+        <tr>
+          <td style="padding:32px 32px 8px;">
+            <div style="font-size:20px;font-weight:700;color:#1a1a1a;letter-spacing:-0.01em;">learn1000words</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:8px 32px 0;">
+            <h1 style="margin:0 0 12px;font-size:22px;line-height:1.25;color:#1a1a1a;font-weight:650;">Confirm your email</h1>
+            <p style="margin:0 0 20px;font-size:16px;line-height:1.6;color:#3a3a3a;">
+              Thanks for signing up for <strong>learn1000words</strong>. Tap the button below to
+              confirm your email address and start learning.
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding:8px 32px 24px;">
+            <a href="{{ .ConfirmationURL }}"
+               style="display:inline-block;background:#2b6cb0;color:#ffffff;text-decoration:none;font-size:16px;font-weight:600;padding:14px 28px;border-radius:10px;">
+              Confirm my email
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 32px 24px;">
+            <p style="margin:0 0 8px;font-size:13px;line-height:1.6;color:#5c5c5c;">
+              If the button doesn't work, copy and paste this link into your browser:
+            </p>
+            <p style="margin:0;font-size:13px;line-height:1.6;word-break:break-all;">
+              <a href="{{ .ConfirmationURL }}" style="color:#2b6cb0;">{{ .ConfirmationURL }}</a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 32px 32px;border-top:1px solid #e2e2e2;">
+            <p style="margin:20px 0 0;font-size:13px;line-height:1.6;color:#8a8a8a;">
+              If you didn't create a learn1000words account, you can safely ignore this email.
+            </p>
+            <p style="margin:12px 0 0;font-size:13px;line-height:1.6;color:#8a8a8a;">
+              Questions? Reply to this email or contact us at
+              <a href="mailto:ermellinodavide@gmail.com" style="color:#2b6cb0;">ermellinodavide@gmail.com</a>.
+            </p>
+          </td>
+        </tr>
+      </table>
+      <div style="max-width:480px;padding:16px 8px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;color:#a0a0a6;text-align:center;">
+        learn1000words · sent by noreply@learn1000words.com
+      </div>
+    </td>
+  </tr>
+</table>

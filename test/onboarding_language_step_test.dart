@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:learn1000words/core/theme/app_theme.dart';
+import 'package:learn1000words/core/widgets/language_button.dart';
 import 'package:learn1000words/data/language_providers.dart';
 import 'package:learn1000words/data/repositories/language_repository.dart';
 import 'package:learn1000words/features/onboarding/widgets/language_pair_step.dart';
+import 'package:learn1000words/l10n/app_localizations.dart';
 
 /// The language step is a two-step, Duolingo-style flow driven entirely by the
 /// files — no hardcoded language names. Step 1 shows the deduplicated sources,
@@ -51,6 +54,10 @@ void main() {
       ProviderScope(
         overrides: overrides,
         child: MaterialApp(
+          theme: AppTheme.light,
+          locale: const Locale('it'),
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
+          supportedLocales: AppLocalizations.supportedLocales,
           home: Scaffold(
             body: LanguagePairStep(
               selectedPairId: selectedPairId,
@@ -81,6 +88,10 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         child: MaterialApp(
+          theme: AppTheme.light,
+          locale: const Locale('it'),
+          localizationsDelegates: AppLocalizations.localizationsDelegates,
+          supportedLocales: AppLocalizations.supportedLocales,
           home: Scaffold(
             body: LanguagePairStep(selectedPairId: null, onSelected: (_) {}),
           ),
@@ -120,7 +131,7 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.text('Quale lingua vuoi imparare?'), findsOneWidget);
-    expect(find.byType(RadioListTile<String>), findsOneWidget);
+    expect(find.byType(LanguageButton), findsOneWidget);
     expect(find.text('Italiano'), findsOneWidget);
   });
 
@@ -156,5 +167,35 @@ void main() {
     expect(find.text('Quale lingua vuoi imparare?'), findsOneWidget);
     expect(find.text('Magyar'), findsOneWidget);
     expect(find.text('Español'), findsOneWidget);
+  });
+
+  testWidgets(
+      'the already-active source can be reselected to reach a different target',
+      (tester) async {
+    // it_hu is active (source "it" is already in use). The user must still be
+    // able to go back, pick "it" again, and switch to the OTHER "it" target.
+    String? selected;
+    await pumpOverridden(
+      tester,
+      onSelected: (id) => selected = id,
+      selectedPairId: 'it_hu',
+    );
+
+    // Opens on step 2 for "it"; go back to the source list.
+    await tester.tap(find.byIcon(Icons.arrow_back));
+    await tester.pumpAndSettle();
+    expect(find.text('Da quale lingua vuoi partire?'), findsOneWidget);
+
+    // Reselect the already-active source — must proceed, not be blocked.
+    await tester.tap(find.text('Italiano'));
+    await tester.pumpAndSettle();
+    expect(find.text('Quale lingua vuoi imparare?'), findsOneWidget);
+    expect(find.text('Magyar'), findsOneWidget);
+    expect(find.text('Español'), findsOneWidget);
+
+    // Switch to the different target.
+    await tester.tap(find.text('Español'));
+    await tester.pumpAndSettle();
+    expect(selected, 'it_es');
   });
 }

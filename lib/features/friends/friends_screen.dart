@@ -6,6 +6,7 @@ import '../../core/utils/error_messages.dart';
 import '../../data/language_providers.dart';
 import '../../data/models/language_pair.dart';
 import '../../data/repositories/friends_repository.dart';
+import '../../l10n/app_localizations.dart';
 import '../profile/avatar_view.dart';
 import 'friends_providers.dart';
 
@@ -35,6 +36,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
   }
 
   Future<void> _runGuarded(Future<void> Function() action) async {
+    final l10n = AppLocalizations.of(context);
     try {
       await action();
       _refreshAll();
@@ -42,22 +44,24 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
       debugPrint('Friends: action failed: $error');
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text(friendlyErrorMessage(error))),
+        SnackBar(content: Text(friendlyErrorMessage(l10n, error))),
       );
     }
   }
 
   Future<void> _sendRequest(PublicProfile target) {
+    final l10n = AppLocalizations.of(context);
     return _runGuarded(() async {
       await ref.read(friendsRepositoryProvider)!.sendRequest(target.id);
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Richiesta inviata a ${target.nickname}')),
+        SnackBar(content: Text(l10n.requestSentTo(target.nickname))),
       );
     });
   }
 
   Future<void> _respond(IncomingRequest request, {required bool accept}) {
+    final l10n = AppLocalizations.of(context);
     return _runGuarded(() async {
       await ref
           .read(friendsRepositoryProvider)!
@@ -66,8 +70,8 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(accept
-              ? 'Ora tu e ${request.sender.nickname} siete amici!'
-              : 'Richiesta rifiutata'),
+              ? l10n.nowFriendsWith(request.sender.nickname)
+              : l10n.requestRejected),
         ),
       );
     });
@@ -78,7 +82,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
     final signedIn = ref.watch(friendsRepositoryProvider) != null;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Amici')),
+      appBar: AppBar(title: Text(AppLocalizations.of(context).navFriends)),
       body: signedIn ? _buildBody(context) : const _SignInPrompt(),
     );
   }
@@ -87,6 +91,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
     final query = ref.watch(friendSearchQueryProvider).trim();
     final requests =
         ref.watch(incomingRequestsProvider).valueOrNull ?? const [];
+    final l10n = AppLocalizations.of(context);
 
     return RefreshIndicator(
       onRefresh: () async => _refreshAll(),
@@ -97,7 +102,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
             controller: _searchController,
             decoration: InputDecoration(
               prefixIcon: const Icon(Icons.search),
-              hintText: 'Cerca per nickname',
+              hintText: l10n.searchByNickname,
               border: const OutlineInputBorder(),
               suffixIcon: query.isEmpty
                   ? null
@@ -121,7 +126,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
           if (requests.isNotEmpty) ...[
             const SizedBox(height: 24),
             Text(
-              'Richieste ricevute',
+              l10n.receivedRequests,
               style: Theme.of(context).textTheme.titleMedium,
             ),
             const SizedBox(height: 8),
@@ -133,19 +138,19 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
                     size: 40,
                   ),
                   title: Text(request.sender.nickname),
-                  subtitle: const Text('Vuole diventare tuo amico'),
+                  subtitle: Text(l10n.wantsToBeFriend),
                   trailing: Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       IconButton(
                         icon: const Icon(Icons.check_circle_outline),
                         color: Theme.of(context).colorScheme.primary,
-                        tooltip: 'Accetta',
+                        tooltip: l10n.accept,
                         onPressed: () => _respond(request, accept: true),
                       ),
                       IconButton(
                         icon: const Icon(Icons.cancel_outlined),
-                        tooltip: 'Rifiuta',
+                        tooltip: l10n.reject,
                         onPressed: () => _respond(request, accept: false),
                       ),
                     ],
@@ -155,7 +160,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
           ],
           const SizedBox(height: 24),
           Text(
-            'I tuoi amici',
+            l10n.yourFriends,
             style: Theme.of(context).textTheme.titleMedium,
           ),
           const SizedBox(height: 8),
@@ -184,14 +189,14 @@ class _SignInPrompt extends StatelessWidget {
               color: Theme.of(context).colorScheme.outline,
             ),
             const SizedBox(height: 16),
-            const Text(
-              'Accedi per trovare i tuoi amici\ne confrontare i progressi.',
+            Text(
+              AppLocalizations.of(context).signInToFindFriends,
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 16),
             FilledButton(
               onPressed: () => context.pushNamed('auth'),
-              child: const Text('Accedi'),
+              child: Text(AppLocalizations.of(context).logIn),
             ),
           ],
         ),
@@ -215,12 +220,12 @@ class _ErrorRetry extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(friendlyErrorMessage(error)),
+          Text(friendlyErrorMessage(AppLocalizations.of(context), error)),
           const SizedBox(height: 8),
           OutlinedButton.icon(
             onPressed: onRetry,
             icon: const Icon(Icons.refresh),
-            label: const Text('Riprova'),
+            label: Text(AppLocalizations.of(context).retry),
           ),
         ],
       ),
@@ -261,8 +266,9 @@ class _SearchResults extends ConsumerWidget {
       ),
       data: (results) {
         if (results.isEmpty) {
-          return const Text('Nessun utente trovato.');
+          return Text(AppLocalizations.of(context).noUsersFound);
         }
+        final l10n = AppLocalizations.of(context);
         return Column(
           children: [
             for (final result in results)
@@ -270,7 +276,7 @@ class _SearchResults extends ConsumerWidget {
                 child: ListTile(
                   leading: AvatarView(avatarId: result.avatarId, size: 40),
                   title: Text(result.nickname),
-                  trailing: _actionFor(result, friendIds, sentIds,
+                  trailing: _actionFor(l10n, result, friendIds, sentIds,
                       receivedIds),
                 ),
               ),
@@ -281,20 +287,21 @@ class _SearchResults extends ConsumerWidget {
   }
 
   Widget _actionFor(
+    AppLocalizations l10n,
     PublicProfile result,
     Set<String> friendIds,
     Set<String> sentIds,
     Set<String> receivedIds,
   ) {
     if (friendIds.contains(result.id)) {
-      return const Text('Già amici');
+      return Text(l10n.alreadyFriends);
     }
     if (sentIds.contains(result.id)) {
-      return const Text('Richiesta inviata');
+      return Text(l10n.requestSentLabel);
     }
     // A pending request FROM them exists; adding accepts it (see
     // FriendsRepository.sendRequest).
-    final label = receivedIds.contains(result.id) ? 'Accetta' : 'Aggiungi';
+    final label = receivedIds.contains(result.id) ? l10n.accept : l10n.add;
     return FilledButton.tonal(
       onPressed: () => onAdd(result),
       child: Text(label),
@@ -310,6 +317,7 @@ class _FriendsList extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final pairs = ref.watch(languagePairsProvider).valueOrNull ?? const [];
+    final l10n = AppLocalizations.of(context);
 
     return ref.watch(friendsListProvider).when(
           loading: () => const Padding(
@@ -322,10 +330,7 @@ class _FriendsList extends ConsumerWidget {
           ),
           data: (friends) {
             if (friends.isEmpty) {
-              return const Text(
-                'Nessun amico ancora. Cerca un nickname qui sopra '
-                'per inviare la prima richiesta.',
-              );
+              return Text(l10n.noFriendsYet);
             }
             return Column(
               children: [
@@ -335,9 +340,11 @@ class _FriendsList extends ConsumerWidget {
                       leading: AvatarView(avatarId: friend.avatarId, size: 40),
                       title: Text(friend.nickname),
                       subtitle: Text(
-                        '${_pairLabel(pairs, friend.languagePairId)} · '
-                        'Livello ${friend.currentLevel} · '
-                        '${friend.memorizedCount} parole memorizzate',
+                        l10n.friendSummary(
+                          _pairLabel(pairs, friend.languagePairId),
+                          friend.currentLevel,
+                          friend.memorizedCount,
+                        ),
                       ),
                       onTap: () => _showFriendSheet(context, friend, pairs),
                     ),
@@ -364,7 +371,9 @@ class _FriendsList extends ConsumerWidget {
   ) {
     showModalBottomSheet<void>(
       context: context,
-      builder: (sheetContext) => Padding(
+      builder: (sheetContext) {
+        final l10n = AppLocalizations.of(sheetContext);
+        return Padding(
         padding: const EdgeInsets.all(32),
         child: Column(
           mainAxisSize: MainAxisSize.min,
@@ -378,13 +387,14 @@ class _FriendsList extends ConsumerWidget {
             const SizedBox(height: 16),
             Text(_pairLabel(pairs, friend.languagePairId)),
             const SizedBox(height: 4),
-            Text('Livello attuale: ${friend.currentLevel}'),
+            Text(l10n.currentLevelLabel(friend.currentLevel)),
             const SizedBox(height: 4),
-            Text('Parole memorizzate: ${friend.memorizedCount}'),
+            Text(l10n.memorizedWordsCount(friend.memorizedCount)),
             const SizedBox(height: 16),
           ],
         ),
-      ),
+        );
+      },
     );
   }
 }

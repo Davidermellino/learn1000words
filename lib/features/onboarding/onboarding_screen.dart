@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../l10n/app_localizations.dart';
 import '../auth/account_linker.dart';
 import '../profile/profile_repository.dart';
 import 'widgets/avatar_step.dart';
@@ -124,6 +125,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
   /// Asks for a different nickname after a uniqueness conflict. Returns `null`
   /// when the user gives up.
   Future<String?> _promptNickname() async {
+    final l10n = AppLocalizations.of(context);
     final controller = TextEditingController();
     try {
       return await showDialog<String>(
@@ -131,23 +133,20 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
         barrierDismissible: false,
         builder: (dialogContext) => StatefulBuilder(
           builder: (dialogContext, setDialogState) => AlertDialog(
-            title: const Text('Nickname già in uso'),
+            title: Text(l10n.nicknameTakenTitle),
             content: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                const Text(
-                  'Questo nickname è già stato scelto da qualcun altro. '
-                  'Scegline un altro:',
-                ),
+                Text(l10n.nicknameTakenBody),
                 const SizedBox(height: 16),
                 TextField(
                   controller: controller,
                   autofocus: true,
                   maxLength: 20,
                   onChanged: (_) => setDialogState(() {}),
-                  decoration: const InputDecoration(
-                    labelText: 'Nickname',
-                    border: OutlineInputBorder(),
+                  decoration: InputDecoration(
+                    labelText: l10n.nicknameLabel,
+                    border: const OutlineInputBorder(),
                   ),
                 ),
               ],
@@ -155,7 +154,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
             actions: [
               TextButton(
                 onPressed: () => Navigator.of(dialogContext).pop(),
-                child: const Text('Annulla'),
+                child: Text(l10n.cancel),
               ),
               FilledButton(
                 onPressed: isValidNickname(controller.text)
@@ -163,7 +162,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
                         dialogContext,
                       ).pop(controller.text.trim())
                     : null,
-                child: const Text('Conferma'),
+                child: Text(l10n.confirm),
               ),
             ],
           ),
@@ -176,6 +175,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
     return Scaffold(
       body: SafeArea(
         child: Column(
@@ -207,7 +207,8 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
                   Center(
                     child: NicknameStep(
                       controller: _nicknameController,
-                      errorText: nicknameErrorText(_nicknameController.text),
+                      errorText:
+                          nicknameErrorText(l10n, _nicknameController.text),
                     ),
                   ),
                   Center(
@@ -239,12 +240,12 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
                   if (_page > 0)
                     TextButton(
                       onPressed: _submitting ? null : _goBack,
-                      child: const Text('Indietro'),
+                      child: Text(l10n.back),
                     ),
                   const Spacer(),
                   FilledButton(
                     onPressed: (_canProceed && !_submitting) ? _goNext : null,
-                    child: Text(_page == _stepCount - 1 ? 'Fine' : 'Avanti'),
+                    child: Text(_page == _stepCount - 1 ? l10n.finish : l10n.next),
                   ),
                 ],
               ),

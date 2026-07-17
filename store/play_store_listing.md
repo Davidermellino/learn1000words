@@ -62,9 +62,12 @@ _(~1,540 characters — well under the 4,000 limit. Trim or expand freely.)_
   The current bundled dataset ships a small placeholder set (see `AppConstants.wordsPerLevel`
   comment and `assets/words/`). Confirm the shipped word count before making any quantity claim
   in the listing or screenshots.
-- **Apple sign-in** is intentionally not mentioned: this is an Android-only release and the
-  Apple flow is **unverified on a real Apple device**. Re-add it to the listing only once it
-  ships and is verified.
+- **Apple sign-in** is not mentioned in this Android listing: the button is code-gated to
+  iOS/macOS only (`auth_screen.dart:73-77`) and never appears on Android, so it isn't a real
+  feature of this build regardless of listing wording. It's documented as "planned for iOS" in
+  the privacy policy and data safety inventory, not as an active Android feature. Add it to the
+  Play listing only once (or if) a verified iOS/App Store release exists — it has no place in
+  an Android listing before then.
 - **Friends visibility** wording matches what the code actually exposes to friends: nickname,
   avatar, active language pair, level, and memorized count (not individual words, not streak).
 - The listing makes **no claims** about grading of usage sentences (they are saved, ungraded)

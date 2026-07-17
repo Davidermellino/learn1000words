@@ -4,6 +4,7 @@ import 'package:go_router/go_router.dart';
 
 import '../../core/theme/app_tokens.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 
 /// Detail of one level: progress header + the menu of learning modes.
 /// Mode bodies are stubs until their phases land (P3 flashcards, …).
@@ -15,15 +16,16 @@ class LevelDetailScreen extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final progressAsync = ref.watch(levelProgressProvider(level));
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text('Livello $level')),
+      appBar: AppBar(title: Text(l10n.levelTitle(level))),
       body: progressAsync.when(
         loading: () => const Center(child: CircularProgressIndicator()),
         error: (error, _) => Center(
           child: Padding(
             padding: const EdgeInsets.all(24),
-            child: Text('Errore nel caricamento del livello:\n$error'),
+            child: Text(l10n.levelLoadError(error)),
           ),
         ),
         data: (progress) => ListView(
@@ -33,29 +35,29 @@ class LevelDetailScreen extends ConsumerWidget {
             const SizedBox(height: 16),
             _ModeTile(
               icon: Icons.style_outlined,
-              title: 'Flashcard',
-              subtitle: 'Impara le parole con le carte',
+              title: l10n.modeFlashcardsTitle,
+              subtitle: l10n.modeFlashcardsSubtitle,
               routeName: 'flashcards',
               level: level,
             ),
             _ModeTile(
               icon: Icons.quiz_outlined,
-              title: 'Test',
-              subtitle: 'Mettiti alla prova',
+              title: l10n.modeTestTitle,
+              subtitle: l10n.modeTestSubtitle,
               routeName: 'test',
               level: level,
             ),
             _ModeTile(
               icon: Icons.chat_bubble_outline,
-              title: 'Uso',
-              subtitle: 'Le parole nelle frasi',
+              title: l10n.modeUsageTitle,
+              subtitle: l10n.modeUsageSubtitle,
               routeName: 'usage',
               level: level,
             ),
             _ModeTile(
               icon: Icons.check_circle_outline,
-              title: 'Parole conosciute',
-              subtitle: 'Le parole memorizzate di questo livello',
+              title: l10n.knownWordsTitle,
+              subtitle: l10n.modeKnownSubtitle,
               routeName: 'level-known',
               level: level,
             ),
@@ -100,7 +102,7 @@ class _ProgressHeader extends StatelessWidget {
                 ),
                 const Spacer(),
                 Text(
-                  'parole memorizzate',
+                  AppLocalizations.of(context).memorizedWordsCaption,
                   style: textTheme.bodyMedium
                       ?.copyWith(color: scheme.onSurfaceVariant),
                 ),

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../../l10n/app_localizations.dart';
+
 /// Step 4: pick a daily word goal.
 class DailyGoalStep extends StatelessWidget {
   const DailyGoalStep({
@@ -21,7 +23,7 @@ class DailyGoalStep extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Text(
-            'Quante parole al giorno?',
+            AppLocalizations.of(context).dailyGoalPrompt,
             style: Theme.of(context).textTheme.titleLarge,
             textAlign: TextAlign.center,
           ),

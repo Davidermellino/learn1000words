@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../../l10n/app_localizations.dart';
 import '../../profile/avatar_view.dart';
 
 /// Step 2: pick one of the 12 preset avatars.
@@ -23,7 +24,7 @@ class AvatarStep extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Text(
-            'Scegli il tuo avatar',
+            AppLocalizations.of(context).avatarPrompt,
             style: Theme.of(context).textTheme.titleLarge,
             textAlign: TextAlign.center,
           ),

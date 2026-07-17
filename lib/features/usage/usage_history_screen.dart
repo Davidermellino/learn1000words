@@ -5,6 +5,7 @@ import '../../data/language_providers.dart';
 import '../../data/models/language_pair.dart';
 import '../../data/models/word.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 import 'usage_repository.dart';
 
 /// All sentences the user saved in the Usage mode, newest first, across
@@ -17,9 +18,10 @@ class UsageHistoryScreen extends ConsumerWidget {
     final sentencesAsync = ref.watch(usageSentencesProvider);
     final wordsAsync = ref.watch(wordsProvider);
     final pair = ref.watch(activePairProvider);
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Le tue frasi')),
+      appBar: AppBar(title: Text(l10n.yourSentences)),
       body: Builder(
         builder: (context) {
           final error = sentencesAsync.error ?? wordsAsync.error;
@@ -27,7 +29,7 @@ class UsageHistoryScreen extends ConsumerWidget {
             return Center(
               child: Padding(
                 padding: const EdgeInsets.all(24),
-                child: Text('Errore nel caricamento:\n$error'),
+                child: Text(l10n.loadErrorGeneric(error)),
               ),
             );
           }
@@ -38,12 +40,11 @@ class UsageHistoryScreen extends ConsumerWidget {
 
           final sentences = sentencesAsync.requireValue;
           if (sentences.isEmpty) {
-            return const Center(
+            return Center(
               child: Padding(
-                padding: EdgeInsets.all(24),
+                padding: const EdgeInsets.all(24),
                 child: Text(
-                  'Ancora nessuna frase.\n'
-                  'Scrivine una nell\'esercizio di uso!',
+                  l10n.noSentencesYet,
                   textAlign: TextAlign.center,
                 ),
               ),
@@ -62,7 +63,7 @@ class UsageHistoryScreen extends ConsumerWidget {
               final row = sentences[index];
               final Word? word = wordsById[row.wordId];
               final label = word == null
-                  ? 'Parola #${row.wordId}'
+                  ? l10n.wordNumber(row.wordId)
                   : '${word.answerFor(pair)} · ${word.promptFor(pair)}';
               return Card(
                 child: ListTile(

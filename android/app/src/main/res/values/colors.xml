@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Adaptive launcher-icon background layer. Brand "paper" — the app's
+         light surface. The ermine's own colours are deliberately left as-is;
+         only this backing plate is themed. -->
+    <color name="ic_launcher_background">#F5F6F4</color>
+
+    <!-- Native launch/splash background. Night-aware: see values-night. -->
+    <color name="ermine_splash_bg">#F5F6F4</color>
+</resources>

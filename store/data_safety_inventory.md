@@ -7,16 +7,17 @@ anything not determinable from code alone (e.g. dashboard-side settings)._
 ## Summary of findings
 
 - **No analytics, advertising, crash-reporting, or tracking SDK is present.** The only
-  network-touching dependencies are `supabase_flutter` (auth + sync) and `google_sign_in`
-  (login) — this Android-only release does not offer Apple sign-in. Verified against
-  `pubspec.yaml` and a repo-wide grep for firebase/crashlytics/sentry/analytics/admob/etc.
+  network-touching dependencies are `supabase_flutter` (auth + sync), `google_sign_in`
+  (login), and `sign_in_with_apple` (login, gated to iOS/macOS only — see below). Verified
+  against `pubspec.yaml` and a repo-wide grep for firebase/crashlytics/sentry/analytics/admob/etc.
   — no matches.
 - **Cloud sync is optional at build time.** Without the `SUPABASE_URL` / `SUPABASE_ANON_KEY`
   dart-defines the app runs fully local with no auth and no transmission
   (`lib/core/config/env.dart:27-29`, `lib/main.dart:41-53`). The shipped `env.json`
   configures Supabase, so a Play release built with it **does** transmit the data below.
 - **Auth is mandatory** in configured builds: the router gates everything behind sign-in
-  (Google / email+password; this Android-only release does not offer Apple sign-in).
+  (Google / email+password on Android; Apple sign-in is implemented but only rendered on
+  iOS/macOS builds per `auth_screen.dart:73-77`, so it does not appear in this Android release).
 - **In-app account deletion exists.** Profile → Account → Delete account calls the
   `delete-account` Supabase edge function (removes all cloud rows + the auth user via the
   service role, self-delete only), then wipes local Drift data and ends the session (see
@@ -28,10 +29,11 @@ anything not determinable from code alone (e.g. dashboard-side settings)._
 |---|---|---|
 | Supabase (backend: Postgres + GoTrue auth + Edge Functions) | Account auth, profile & progress cloud sync, friends, account deletion (`delete-account` edge function) | `lib/main.dart:44-49`, `lib/data/supabase/supabase_providers.dart`, `supabase/migrations/**`, `supabase/functions/delete-account/index.ts` |
 | Google Sign-In | Optional login method (ID-token exchange to Supabase) | `lib/features/auth/auth_service.dart:46-92`, `google_sign_in` in `pubspec.yaml:49` |
+| Sign in with Apple | Login method, code present but **rendered only on iOS/macOS** (`auth_screen.dart:73-77` gates the button by `defaultTargetPlatform`) — not reachable in this Android build | `lib/features/auth/auth_screen.dart:73-108`, `lib/features/auth/auth_service.dart` |
 
-No advertising or analytics third parties. Apple sign-in exists in the codebase but is **not
-offered in this Android-only release** (unverified on a real Apple device), so it collects
-nothing here.
+No advertising or analytics third parties. Apple sign-in exists in the codebase and is planned
+for a future iOS release, but the button is platform-gated and never renders on Android, so it
+collects nothing in this Android release.
 
 ## Data categories
 

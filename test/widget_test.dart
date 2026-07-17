@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:learn1000words/core/db/app_database.dart';
+import 'package:learn1000words/core/locale/locale_controller.dart';
 import 'package:learn1000words/core/notifications/notification_service.dart';
 import 'package:learn1000words/data/supabase/supabase_providers.dart';
 import 'package:learn1000words/main.dart';
@@ -32,10 +33,18 @@ Future<AppDatabase> _pumpApp(
         notificationServiceProvider.overrideWithValue(NotificationService()),
         // Drive the router's auth gate without a SupabaseClient.
         isSignedInProvider.overrideWithValue(signedIn),
+        // Pin the UI to Italian so the assertions below are deterministic
+        // regardless of the test host's locale.
+        startupLocaleProvider.overrideWithValue(const Locale('it')),
       ],
       child: const Learn1000WordsApp(),
     ),
   );
+  // Clear the branded splash overlay (1.6s hold + fade) so assertions see the
+  // underlying screen; its hold is a plain timer that pumpAndSettle alone
+  // won't advance past while nothing is animating.
+  await tester.pump();
+  await tester.pump(const Duration(seconds: 2));
   await tester.pumpAndSettle();
   return db;
 }
@@ -54,7 +63,9 @@ Future<void> _insertProfile(AppDatabase db) => db
       ProfilesCompanion.insert(
         nickname: 'test',
         avatarId: 1,
-        languagePair: 'it_hu',
+        // A pair that exists in the bundled assets/words so home can resolve
+        // it (the old 'it_hu' demo pair was removed in the vocab rework).
+        languagePair: 'en_it',
       ),
     );
 
@@ -102,12 +113,20 @@ void main() {
           appDatabaseProvider.overrideWithValue(db),
           notificationServiceProvider.overrideWithValue(NotificationService()),
           isSignedInProvider.overrideWithValue(true),
+          startupLocaleProvider.overrideWithValue(const Locale('it')),
         ],
         child: const Learn1000WordsApp(),
       ),
     );
-    await tester.pumpAndSettle();
+    // Clear the branded splash overlay with bounded pumps (home keeps an
+    // indeterminate animation running, so pumpAndSettle would never idle).
+    await tester.pump();
+    await tester.pump(const Duration(seconds: 2)); // splash hold fires; fade begins
+    await tester.pump(const Duration(seconds: 1)); // fade completes; splash removed
+    await tester.pump();
 
+    // Home's app bar carries the app name; the splash (which also showed it)
+    // is now gone, so it appears exactly once.
     expect(find.text('learn1000words'), findsOneWidget);
 
     await _disposeTree(tester);

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark-mode splash background: the dark "page" colour, matched to the
+         Flutter splash's ColorScheme.surface so the native → Flutter handoff is
+         seamless. The ermine's yellow/cream body reads well against it. -->
+    <color name="ermine_splash_bg">#0E1013</color>
+</resources>

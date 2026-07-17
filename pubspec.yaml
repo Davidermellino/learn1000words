@@ -30,6 +30,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Locale-aware message formatting; also pulled in by flutter_localizations.
+  # `any` lets Flutter pin the exact version its SDK expects.
+  intl: any
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -73,10 +79,17 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  # Generate the AppLocalizations class from the ARB files in lib/l10n/
+  # (configured by l10n.yaml). See lib/l10n/app_en.arb (template).
+  generate: true
+
   assets:
     # The whole folder is declared (not individual files) so a new language
     # pair is added by dropping a JSON in here — no pubspec change needed.
     - assets/words/
+    # Ermine brand logo (PNG rasterised from assets/icon/ermine_icon.svg).
+    # Only the PNG is bundled; the SVG source stays out of the build.
+    - assets/icon/ermine_logo.png
 
   # Bundled (not runtime-fetched) so the app renders correctly offline.
   # Space Grotesk and Inter ship as variable fonts; Flutter maps FontWeight

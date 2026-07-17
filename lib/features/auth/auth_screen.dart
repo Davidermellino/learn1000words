@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../data/supabase/supabase_providers.dart';
+import '../../l10n/app_localizations.dart';
 import 'auth_service.dart';
 
 /// Whether the screen is showing the sign-up (registration) form or the
@@ -43,10 +44,11 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
   @override
   Widget build(BuildContext context) {
     final configured = ref.watch(supabaseClientProvider) != null;
+    final l10n = AppLocalizations.of(context);
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(_isRegister ? 'Registrati' : 'Accedi'),
+        title: Text(_isRegister ? l10n.signUp : l10n.logIn),
       ),
       body: !configured
           ? const _NotConfigured()
@@ -75,21 +77,26 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
     final showApple =
         defaultTargetPlatform == TargetPlatform.iOS ||
         defaultTargetPlatform == TargetPlatform.macOS;
+    final l10n = AppLocalizations.of(context);
 
     return ListView(
       padding: const EdgeInsets.all(24),
       children: [
+        // Brand ermine — the app's entry-point logo (also the launcher icon).
+        Image.asset(
+          'assets/icon/ermine_logo.png',
+          height: 96,
+          semanticLabel: 'learn1000words',
+        ),
+        const SizedBox(height: 16),
         Text(
-          _isRegister ? 'Crea il tuo account' : 'Bentornato',
+          _isRegister ? l10n.authCreateAccount : l10n.authWelcomeBack,
           style: Theme.of(context).textTheme.headlineSmall,
           textAlign: TextAlign.center,
         ),
         const SizedBox(height: 8),
         Text(
-          _isRegister
-              ? 'Registrati per salvare i tuoi progressi nel cloud e '
-                    'ritrovarli su ogni dispositivo.'
-              : 'Accedi per ritrovare i tuoi progressi.',
+          _isRegister ? l10n.authRegisterSubtitle : l10n.authLoginSubtitle,
           style: Theme.of(context).textTheme.bodyMedium,
           textAlign: TextAlign.center,
         ),
@@ -97,14 +104,14 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
         FilledButton.tonalIcon(
           onPressed: () => _run((auth) => auth.signInWithGoogle()),
           icon: const Icon(Icons.g_mobiledata, size: 28),
-          label: const Text('Continua con Google'),
+          label: Text(l10n.authContinueGoogle),
         ),
         if (showApple) ...[
           const SizedBox(height: 12),
           FilledButton.tonalIcon(
             onPressed: () => _run((auth) => auth.signInWithApple()),
             icon: const Icon(Icons.apple),
-            label: const Text('Continua con Apple'),
+            label: Text(l10n.authContinueApple),
           ),
         ],
         const SizedBox(height: 24),
@@ -114,7 +121,7 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 12),
               child: Text(
-                'oppure con email',
+                l10n.authOrWithEmail,
                 style: Theme.of(context).textTheme.bodySmall,
               ),
             ),
@@ -126,24 +133,24 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
           controller: _emailController,
           keyboardType: TextInputType.emailAddress,
           autocorrect: false,
-          decoration: const InputDecoration(
-            labelText: 'Email',
-            border: OutlineInputBorder(),
+          decoration: InputDecoration(
+            labelText: l10n.emailLabel,
+            border: const OutlineInputBorder(),
           ),
         ),
         const SizedBox(height: 12),
         TextField(
           controller: _passwordController,
           obscureText: true,
-          decoration: const InputDecoration(
-            labelText: 'Password',
-            border: OutlineInputBorder(),
+          decoration: InputDecoration(
+            labelText: l10n.passwordLabel,
+            border: const OutlineInputBorder(),
           ),
         ),
         const SizedBox(height: 16),
         FilledButton(
           onPressed: () => _runEmail(signUp: _isRegister),
-          child: Text(_isRegister ? 'Registrati' : 'Accedi'),
+          child: Text(_isRegister ? l10n.signUp : l10n.logIn),
         ),
         const SizedBox(height: 16),
         Center(
@@ -152,9 +159,7 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
               () => _mode = _isRegister ? _AuthMode.login : _AuthMode.register,
             ),
             child: Text(
-              _isRegister
-                  ? 'Hai già un account? Accedi'
-                  : 'Non hai un account? Registrati',
+              _isRegister ? l10n.authSwitchToLogin : l10n.authSwitchToRegister,
             ),
           ),
         ),
@@ -163,10 +168,11 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
   }
 
   Future<void> _runEmail({required bool signUp}) {
+    final l10n = AppLocalizations.of(context);
     final email = _emailController.text.trim();
     final password = _passwordController.text;
     if (email.isEmpty || password.isEmpty) {
-      _showMessage('Inserisci email e password.');
+      _showMessage(l10n.authEnterEmailPassword);
       return Future.value();
     }
     return _run((auth) async {
@@ -179,10 +185,7 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
         password: password,
       );
       if (!hasSession) {
-        _showMessage(
-          'Registrazione avviata: conferma la tua email, poi accedi con le '
-          'tue credenziali.',
-        );
+        _showMessage(l10n.authSignupPending);
       }
       return hasSession;
     });
@@ -194,6 +197,7 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
   Future<void> _run(Future<Object?> Function(AuthService auth) signIn) async {
     final auth = ref.read(authServiceProvider);
     if (auth == null) return;
+    final l10n = AppLocalizations.of(context);
 
     setState(() => _busy = true);
     try {
@@ -204,7 +208,7 @@ class _AuthScreenState extends ConsumerState<AuthScreen> {
       if (!error.cancelled) _showMessage(error.message);
     } catch (error) {
       debugPrint('Sign-in failed: $error');
-      _showMessage('Qualcosa è andato storto. Riprova.');
+      _showMessage(l10n.authGenericError);
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -227,8 +231,7 @@ class _NotConfigured extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.all(32),
         child: Text(
-          'La sincronizzazione cloud non è configurata in questa build.\n'
-          'Vedi SUPABASE_SETUP.md.',
+          AppLocalizations.of(context).authNotConfigured,
           textAlign: TextAlign.center,
           style: Theme.of(context).textTheme.bodyMedium,
         ),

@@ -5,6 +5,7 @@ import '../../core/theme/app_tokens.dart';
 import '../../data/language_providers.dart';
 import '../../data/models/language_pair.dart';
 import '../../data/progress_provider.dart';
+import '../../l10n/app_localizations.dart';
 
 /// The memorized words (prompt + answer), searchable, with the total count.
 /// Without [level] it is the global "Parole conosciute" tab; with [level]
@@ -27,11 +28,12 @@ class _KnownWordsScreenState extends ConsumerState<KnownWordsScreen> {
     final wordsAsync = ref.watch(wordsProvider);
     final memorizedAsync = ref.watch(memorizedWordIdsProvider);
     final pair = ref.watch(activePairProvider);
+    final l10n = AppLocalizations.of(context);
 
     final level = widget.level;
     final title = level == null
-        ? 'Parole conosciute'
-        : 'Parole conosciute · Livello $level';
+        ? l10n.knownWordsTitle
+        : l10n.knownWordsTitleLevel(level);
 
     return Scaffold(
       appBar: AppBar(title: Text(title)),
@@ -42,7 +44,7 @@ class _KnownWordsScreenState extends ConsumerState<KnownWordsScreen> {
             return Center(
               child: Padding(
                 padding: const EdgeInsets.all(24),
-                child: Text('Errore nel caricamento delle parole:\n$error'),
+                child: Text(l10n.wordsLoadError(error)),
               ),
             );
           }
@@ -73,10 +75,10 @@ class _KnownWordsScreenState extends ConsumerState<KnownWordsScreen> {
               Padding(
                 padding: const EdgeInsets.fromLTRB(16, 16, 16, 8),
                 child: TextField(
-                  decoration: const InputDecoration(
-                    prefixIcon: Icon(Icons.search),
-                    hintText: 'Cerca una parola…',
-                    border: OutlineInputBorder(),
+                  decoration: InputDecoration(
+                    prefixIcon: const Icon(Icons.search),
+                    hintText: l10n.searchWordHint,
+                    border: const OutlineInputBorder(),
                   ),
                   onChanged: (value) => setState(() => _query = value),
                 ),
@@ -87,8 +89,8 @@ class _KnownWordsScreenState extends ConsumerState<KnownWordsScreen> {
                   alignment: Alignment.centerLeft,
                   child: Text(
                     query.isEmpty
-                        ? '${known.length} parole conosciute'
-                        : '${visible.length} di ${known.length} parole',
+                        ? l10n.knownWordsCount(known.length)
+                        : l10n.knownWordsFiltered(visible.length, known.length),
                     style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                           color: Theme.of(context).colorScheme.outline,
                         ),
@@ -122,7 +124,7 @@ class _KnownWordsScreenState extends ConsumerState<KnownWordsScreen> {
                               ),
                             ),
                             trailing: Text(
-                              'Liv. ${word.level}',
+                              l10n.levelAbbr(word.level),
                               style: textTheme.bodySmall
                                   ?.copyWith(color: scheme.onSurfaceVariant),
                             ),
@@ -155,9 +157,8 @@ class _EmptyView extends StatelessWidget {
               color: Theme.of(context).colorScheme.outline,
             ),
             const SizedBox(height: 16),
-            const Text(
-              'Ancora nessuna parola memorizzata.\n'
-              'Supera i test per riempire questo elenco!',
+            Text(
+              AppLocalizations.of(context).noWordsMemorizedYet,
               textAlign: TextAlign.center,
             ),
           ],

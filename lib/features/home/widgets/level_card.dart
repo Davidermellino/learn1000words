@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../../core/theme/app_tokens.dart';
 import '../../../data/progress_provider.dart';
+import '../../../l10n/app_localizations.dart';
+
 
 /// One level in the Home stack: a wide card whose background fills with
 /// highlighter left→right in proportion to the words memorized. The level
@@ -21,6 +23,7 @@ class LevelCard extends StatelessWidget {
   Widget build(BuildContext context) {
     final tokens = AppTokens.of(context);
     final scheme = Theme.of(context).colorScheme;
+    final l10n = AppLocalizations.of(context);
     final locked = !progress.unlocked;
 
     // The fill animates in on load and on progress change; honour the OS
@@ -31,9 +34,12 @@ class LevelCard extends StatelessWidget {
     return Semantics(
       button: true,
       label: locked
-          ? 'Livello ${progress.level}, bloccato'
-          : 'Livello ${progress.level}, '
-              '${progress.memorizedWords} di ${progress.totalWords} parole',
+          ? l10n.levelLockedSemantic(progress.level)
+          : l10n.levelProgressSemantic(
+              progress.level,
+              progress.memorizedWords,
+              progress.totalWords,
+            ),
       child: ClipRRect(
         borderRadius: BorderRadius.circular(AppRadii.card),
         child: SizedBox(
@@ -142,6 +148,7 @@ class _CardContent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final textTheme = Theme.of(context).textTheme;
+    final l10n = AppLocalizations.of(context);
     final complete = progress.completed;
 
     return Padding(
@@ -153,7 +160,7 @@ class _CardContent extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'LIVELLO',
+                l10n.level,
                 style: textTheme.labelSmall?.copyWith(
                   color: caption,
                   letterSpacing: 1.5,
